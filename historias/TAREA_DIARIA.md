@@ -1,0 +1,13 @@
+# Tarea diaria (rutina de Claude): 6 guiones nuevos
+
+Prompt de la rutina programada que escribe los guiones cada día (13:47, hora de Madrid):
+
+Tarea diaria del canal de YouTube Shorts "¿Qué Pasaría Si?" (en español). Objetivo: añadir 6 guiones nuevos al repositorio GitHub shortclipsyt10-oss/que-pasaria-si-auto, para que GitHub Actions los convierta en videos y los publique solo, y que cada día funcionen mejor.
+
+1. Adjunta el repo con add_repo (owner shortclipsyt10-oss, repo que-pasaria-si-auto, access push) y clónalo.
+2. Lee historias/FORMATO.md (formato, fondos, personajes y reglas editoriales) y varios JSON de historias/pendientes/ como ejemplo. Lista los temas existentes (pendientes/ y estado/registro.json) para no repetir ninguno.
+3. Aprende de las estadísticas: lee estado/estadisticas.json si existe (visitas, likes, comentarios y visitas_por_hora; ignora los videos de menos de 24 h). Compara los mejores y los peores: tema (espacio, cuerpo humano, animales, física, mitos, historia…), estilo del título y gancho de la primera frase. Escribe en estado/aprendizajes.md (sobrescríbelo) un resumen corto: qué funciona, qué no y qué vas a hacer distinto hoy. Con pocos datos, dilo y sigue variando.
+4. Escribe 6 guiones nuevos de "¿Qué pasaría si...?" con numeración consecutiva al número más alto existente (NNN-slug.json): unos 4 en la línea de lo que mejor funciona y unos 2 probando cosas distintas. Cada uno es una mini-historia narrativa y divertida con cifras reales y fuentes verificables (NASA, artículos científicos, Randall Munroe…); lo especulativo se dice en la narración y en nota_veracidad. Usa los fondos dibujados del FORMATO (tierra con animo, espacio, luna, marte, ciudad_color, bosque, playa, volcan, casa, cielo…) y personajes. Nada morboso, ni política, ni personas reales vivas en situaciones negativas. Títulos atractivos sin clickbait engañoso.
+5. Valida: si hace falta `sudo apt-get install -y -qq libcairo2-dev pkg-config`; luego `pip install -q -r requirements.txt` y `python3 -c "from quepasaria import historias, dibujo as D, video; D.set_carpeta_emojis('/tmp/emo'); [video.precargar_emojis(h) for _,h in historias.todas()]"`. Debe terminar sin errores (títulos ≤90 caracteres, 10-12 escenas, 120-160 palabras, emojis existentes en Twemoji). Corrige lo que falle.
+6. Commit en main con mensaje "Guiones nuevos NNN-MMM" y push (git pull --rebase antes si hace falta). Toca solo historias/pendientes/ y estado/aprendizajes.md.
+7. Termina con un resumen de dos líneas: lo aprendido de las estadísticas y los títulos añadidos. No subas videos ni toques credenciales.
