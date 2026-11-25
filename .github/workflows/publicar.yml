@@ -1,0 +1,106 @@
+# Genera y sube los shorts en la nube cada 3 horas (no hace falta tener el PC encendido).
+# Secretos necesarios (Settings > Secrets and variables > Actions):
+#   YT_TOKEN          contenido de token.json (se crea con `python -m quepasaria autorizar`; ya incluye el cliente OAuth)
+name: Publicar shorts
+
+on:
+  schedule:
+    - cron: "17 */3 * * *"
+  workflow_dispatch:
+    inputs:
+      max:
+        description: "Máximo de videos en esta ejecución (vacío = todos los huecos)"
+        required: false
+      ahora:
+        description: "Publicar ya (público al momento) en vez de programarlo"
+        type: boolean
+        default: false
+
+permissions:
+  contents: write
+
+concurrency:
+  group: publicar
+  cancel-in-progress: false
+
+jobs:
+  lote:
+    runs-on: ubuntu-latest
+    timeout-minutes: 300
+    env:
+      HAY_TOKEN: ${{ secrets.YT_TOKEN != '' }}
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: main  # siempre el registro más reciente, aunque la ejecución haya esperado en cola
+      - name: Comprobar credenciales
+        if: env.HAY_TOKEN != 'true'
+        run: echo "Falta el secreto YT_TOKEN; no hago nada." 
+
+      - uses: actions/setup-python@v5
+        if: env.HAY_TOKEN == 'true'
+        with:
+          python-version: "3.12"
+          cache: pip
+
+      - name: Caché de modelos de voz y emojis
+        if: env.HAY_TOKEN == 'true'
+        uses: actions/cache@v4
+        with:
+          path: |
+            ~/.que-pasaria-si/modelos
+            ~/.que-pasaria-si/emojis
+            ~/.fonts
+          key: datos-v1
+
+      - name: Instalar dependencias y fuente
+        if: env.HAY_TOKEN == 'true'
+        run: |
+          sudo apt-get update -qq && sudo apt-get install -y -qq libcairo2-dev pkg-config >/dev/null
+          pip install -r requirements.txt
+          if [ ! -f ~/.fonts/InterDisplay-Black.otf ]; then
+            mkdir -p ~/.fonts /tmp/inter
+            curl -sL -o /tmp/inter.zip https://github.com/rsms/inter/releases/download/v4.1/Inter-4.1.zip
+            unzip -q -o /tmp/inter.zip -d /tmp/inter
+            find /tmp/inter -name "InterDisplay-Black.otf" -exec cp {} ~/.fonts/ \;
+          fi
+          fc-cache -f >/dev/null
+
+      - name: Configuración y credenciales
+        if: env.HAY_TOKEN == 'true'
+        env:
+          YT_TOKEN: ${{ secrets.YT_TOKEN }}
+        run: |
+          mkdir -p ~/.que-pasaria-si
+          printf '%s' "$YT_TOKEN" > ~/.que-pasaria-si/token.json
+          echo '{"carpeta_salida": "salida", "archivo_registro": "estado/registro.json", "fuente": "Inter Display Black", "procesos_render": 4}' > config.local.json
+
+      - name: Generar y subir
+        if: env.HAY_TOKEN == 'true'
+        run: |
+          ARGS=""
+          if [ -n "${{ github.event.inputs.max }}" ]; then ARGS="$ARGS --max ${{ github.event.inputs.max }}"; fi
+          if [ "${{ github.event.inputs.ahora }}" = "true" ]; then ARGS="$ARGS --ahora"; fi
+          python -m quepasaria lote $ARGS
+          python -m quepasaria estadisticas || echo "No se pudieron leer las estadísticas"
+
+      - name: Guardar registro
+        if: always() && env.HAY_TOKEN == 'true'
+        run: |
+          rm -f ~/.que-pasaria-si/token.json ~/.que-pasaria-si/client_secret.json
+          cp salida/registro.log estado/ultimo.log 2>/dev/null || true
+          git config user.name "que-pasaria-si-bot"
+          git config user.email "actions@users.noreply.github.com"
+          git add -A estado/ $(ls -d listos 2>/dev/null)
+          git diff --cached --quiet || (git commit -m "Registro de publicación" && git pull --rebase -q && git push)
+
+      - name: Videos generados (descargables 30 días)
+        if: always() && env.HAY_TOKEN == 'true'
+        uses: actions/upload-artifact@v4
+        with:
+          name: videos-${{ github.run_number }}
+          path: |
+            salida/*/*.mp4
+            salida/*/miniatura.png
+          retention-days: 30
+          if-no-files-found: ignore

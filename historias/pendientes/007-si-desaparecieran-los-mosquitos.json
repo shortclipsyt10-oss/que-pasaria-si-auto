@@ -1,0 +1,155 @@
+{
+ "id": "007-si-desaparecieran-los-mosquitos",
+ "titulo": "¿Qué pasaría si desaparecieran todos los mosquitos? 🦟",
+ "descripcion": "El animal que más vidas humanas cuesta cada año… ¿lo echaría alguien de menos?",
+ "hashtags": [
+  "#quepasariasi",
+  "#animales",
+  "#naturaleza",
+  "#ciencia",
+  "#shorts"
+ ],
+ "etiquetas": [
+  "mosquitos",
+  "ecosistema",
+  "animales"
+ ],
+ "paleta": "animales",
+ "miniatura": {
+  "texto": "¿Y SI NO HUBIERA MOSQUITOS?",
+  "emojis": [
+   "🦟",
+   "🚫"
+  ]
+ },
+ "nota_veracidad": "Hay unas 3.500 especies de mosquito y solo las hembras de unas pocas pican a personas. La OMS los considera el animal que más muertes causa por las enfermedades que transmiten. La conclusión de que el ecosistema se adaptaría casi siempre procede del reportaje de Nature 'A world without mosquitoes' (Fang, 2010), aunque hay científicos que dudan.",
+ "fuentes": [
+  "Janet Fang (2010), Nature, 'A world without mosquitoes'",
+  "OMS: enfermedades transmitidas por vectores"
+ ],
+ "claves": [
+  "mosquitos",
+  "especies",
+  "pican",
+  "peces",
+  "pájaros",
+  "polinizan"
+ ],
+ "escenas": [
+  {
+   "texto": "¿Qué pasaría si mañana desaparecieran todos los mosquitos del planeta?",
+   "tipo": "emoji",
+   "rotulo": "¡Adiós!",
+   "emojis": [
+    "🦟"
+   ],
+   "fondo": "tierra",
+   "animo": "feliz"
+  },
+  {
+   "texto": "Hay unas tres mil quinientas especies distintas de mosquitos.",
+   "tipo": "numero",
+   "valor": "3.500",
+   "unidad": "especies",
+   "emojis": [
+    "🦟"
+   ],
+   "fondo": "bosque"
+  },
+  {
+   "texto": "Y lo curioso: solo pican las hembras, y casi todas las especies ni siquiera pican a personas.",
+   "tipo": "emoji",
+   "rotulo": "Solo ellas",
+   "emojis": [
+    "🦟",
+    "♀️"
+   ],
+   "fondo": "bosque"
+  },
+  {
+   "texto": "Aun así, por las enfermedades que transmiten, son el animal más peligroso del mundo para nosotros.",
+   "tipo": "sello",
+   "emojis": [
+    "🦟"
+   ],
+   "sello": "¡Peligro!",
+   "fondo": "laboratorio",
+   "personajes": [
+    "cientifico"
+   ],
+   "accion": "senalar"
+  },
+  {
+   "texto": "Sin ellos, cientos de miles de personas se salvarían cada año.",
+   "tipo": "emoji",
+   "rotulo": "Buenas noticias",
+   "emojis": [
+    "💪",
+    "❤️"
+   ],
+   "fondo": "ciudad_color",
+   "personajes": [
+    "multitud"
+   ],
+   "accion": "celebrar"
+  },
+  {
+   "texto": "Pero algunos animales perderían comida. Muchos peces se alimentan de sus larvas en el agua.",
+   "tipo": "emoji",
+   "rotulo": "Menú de peces",
+   "emojis": [
+    "🐟"
+   ],
+   "fondo": "bajo_agua"
+  },
+  {
+   "texto": "Y en el Ártico, las nubes de mosquitos son el almuerzo de miles de pájaros.",
+   "tipo": "emoji",
+   "rotulo": "Menú de pájaros",
+   "emojis": [
+    "🐦"
+   ],
+   "fondo": "nieve"
+  },
+  {
+   "texto": "Además, algunos mosquitos ayudan a polinizar flores, como ciertas orquídeas.",
+   "tipo": "emoji",
+   "rotulo": "Polinizadores",
+   "emojis": [
+    "🌸"
+   ],
+   "fondo": "bosque"
+  },
+  {
+   "texto": "Aun así, muchos científicos creen que la naturaleza se adaptaría: otros insectos ocuparían su lugar.",
+   "tipo": "duda",
+   "emojis": [
+    "🐛",
+    "🦋"
+   ],
+   "sello": "¿Seguro?",
+   "fondo": "laboratorio",
+   "personajes": [
+    "cientifico"
+   ],
+   "accion": "hablar"
+  },
+  {
+   "texto": "Y tú podrías dormir en verano con la ventana abierta.",
+   "tipo": "emoji",
+   "rotulo": "Paz",
+   "emojis": [
+    "😴"
+   ],
+   "fondo": "casa",
+   "personajes": [
+    "chica"
+   ],
+   "accion": "tumbado"
+  },
+  {
+   "texto": "¿Votarías por que desaparecieran? Síguenos para más preguntas imposibles.",
+   "tipo": "final"
+  }
+ ]
+}

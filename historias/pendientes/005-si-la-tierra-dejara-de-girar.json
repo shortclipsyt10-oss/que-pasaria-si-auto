@@ -1,0 +1,150 @@
+{
+ "id": "005-si-la-tierra-dejara-de-girar",
+ "titulo": "¿Qué pasaría si la Tierra dejara de girar? 🌍",
+ "descripcion": "Ahora mismo vas a más de mil kilómetros por hora sin darte cuenta. ¿Qué pasaría si el planeta frenara de golpe?",
+ "hashtags": [
+  "#quepasariasi",
+  "#tierra",
+  "#física",
+  "#ciencia",
+  "#shorts"
+ ],
+ "etiquetas": [
+  "tierra deja de girar",
+  "rotación",
+  "física"
+ ],
+ "paleta": "espacio",
+ "miniatura": {
+  "texto": "¿Y SI LA TIERRA SE PARA?",
+  "emojis": [
+   "🌍",
+   "🛑"
+  ]
+ },
+ "nota_veracidad": "La velocidad de giro en el ecuador es de unos 1.670 km/h. Que los océanos se movieran a los polos y apareciera un gran continente en el ecuador viene de simulaciones de Esri (Witold Fraczek, 2010). La Tierra no puede pararse de golpe: es un experimento mental.",
+ "fuentes": [
+  "NASA: 'What if Earth stopped spinning?'",
+  "Witold Fraczek (2010), Esri, simulación de una Tierra sin rotación"
+ ],
+ "claves": [
+  "girar",
+  "mil",
+  "seiscientos",
+  "año",
+  "día",
+  "noche",
+  "océanos"
+ ],
+ "escenas": [
+  {
+   "texto": "¿Qué pasaría si la Tierra dejara de girar de repente?",
+   "tipo": "emoji",
+   "rotulo": "¡Stop!",
+   "emojis": [
+    "🛑"
+   ],
+   "fondo": "tierra",
+   "animo": "sorpresa"
+  },
+  {
+   "texto": "Aunque no lo notes, ahora mismo giras con ella. En el ecuador, a mil seiscientos setenta kilómetros por hora.",
+   "tipo": "numero",
+   "valor": "1.670",
+   "unidad": "km por hora",
+   "emojis": [
+    "🌀"
+   ],
+   "fondo": "ciudad_color",
+   "personajes": [
+    "chica"
+   ]
+  },
+  {
+   "texto": "Si el planeta frenara en seco, todo lo que no estuviera bien sujeto seguiría moviéndose hacia el este.",
+   "tipo": "emoji",
+   "rotulo": "Hacia el este",
+   "emojis": [
+    "➡️",
+    "🚗",
+    "🏠"
+   ],
+   "fondo": "ciudad_color"
+  },
+  {
+   "texto": "Y el aire también: vientos más rápidos que cualquier huracán.",
+   "tipo": "emoji",
+   "rotulo": "Supervientos",
+   "emojis": [
+    "🌪️"
+   ],
+   "fondo": "cielo"
+  },
+  {
+   "texto": "Después, los días se volverían eternos. Un día duraría un año entero.",
+   "tipo": "versus",
+   "emojis": [
+    "☀️",
+    "🌙"
+   ],
+   "rotulos": [
+    "6 meses de día",
+    "6 meses de noche"
+   ],
+   "rotulo": "Un día = un año"
+  },
+  {
+   "texto": "Medio planeta se quemaría al sol, y la otra mitad se congelaría en una noche de seis meses.",
+   "tipo": "emoji",
+   "rotulo": "Fuego y hielo",
+   "emojis": [
+    "🔥",
+    "🧊"
+   ],
+   "fondo": "tierra",
+   "animo": "miedo"
+  },
+  {
+   "texto": "Los océanos se moverían hacia los polos, porque la Tierra dejaría de estar abultada por el ecuador.",
+   "tipo": "emoji",
+   "rotulo": "Mares viajeros",
+   "emojis": [
+    "🌊"
+   ],
+   "fondo": "mar"
+  },
+  {
+   "texto": "En medio aparecería un supercontinente gigante, de polo a polo.",
+   "tipo": "emoji",
+   "rotulo": "Nuevo mapa",
+   "emojis": [
+    "🗺️"
+   ],
+   "fondo": "tierra",
+   "animo": "sorpresa"
+  },
+  {
+   "texto": "Y sin giro, la Tierra perdería su escudo magnético, que nos protege del viento solar.",
+   "tipo": "sello",
+   "emojis": [
+    "🧲"
+   ],
+   "sello": "¡Sin escudo!",
+   "fondo": "espacio"
+  },
+  {
+   "texto": "Tranquilo: la Tierra frena, pero tan despacio que el día solo se alarga unos milisegundos por siglo.",
+   "tipo": "emoji",
+   "rotulo": "Uf",
+   "emojis": [
+    "😮‍💨"
+   ],
+   "fondo": "tierra",
+   "animo": "feliz"
+  },
+  {
+   "texto": "¿Te habías dado cuenta de que girabas? Síguenos para más preguntas imposibles.",
+   "tipo": "final"
+  }
+ ]
+}

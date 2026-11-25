@@ -1,0 +1,159 @@
+{
+ "id": "002-si-la-luna-desapareciera",
+ "titulo": "¿Qué pasaría si la Luna desapareciera? 🌙",
+ "descripcion": "Una noche miras al cielo… y la Luna ya no está. Esto es lo que cambiaría en la Tierra.",
+ "hashtags": [
+  "#quepasariasi",
+  "#luna",
+  "#espacio",
+  "#ciencia",
+  "#shorts"
+ ],
+ "etiquetas": [
+  "luna desaparece",
+  "mareas",
+  "astronomía"
+ ],
+ "paleta": "espacio",
+ "miniatura": {
+  "texto": "¿Y SI LA LUNA DESAPARECE?",
+  "emojis": [
+   "🌙",
+   "😱"
+  ]
+ },
+ "nota_veracidad": "Las mareas solares existen sin la Luna y son algo menos de la mitad de las lunares, por eso hablamos de mareas mucho más pequeñas. El efecto sobre la inclinación de la Tierra tardaría millones de años según los modelos (Laskar, 1993).",
+ "fuentes": [
+  "NASA Science: 'What would happen if the Moon disappeared?'",
+  "Laskar, Joutel y Robutel (1993), Nature, estabilización de la oblicuidad terrestre por la Luna"
+ ],
+ "claves": [
+  "luna",
+  "mareas",
+  "oscuras",
+  "inclinación",
+  "tortugas",
+  "corales"
+ ],
+ "escenas": [
+  {
+   "texto": "¿Qué pasaría si una noche la Luna desapareciera de golpe?",
+   "tipo": "emoji",
+   "rotulo": "¿Dónde está?",
+   "emojis": [
+    "🌙"
+   ],
+   "fondo": "tierra",
+   "animo": "sorpresa"
+  },
+  {
+   "texto": "Lo primero que notarías: las noches serían mucho más oscuras.",
+   "tipo": "emoji",
+   "rotulo": "Apagón",
+   "emojis": [
+    "🌑"
+   ],
+   "fondo": "ciudad_noche",
+   "personajes": [
+    "chica",
+    "chico"
+   ],
+   "accion": "senalar"
+  },
+  {
+   "texto": "Sin la luz de la Luna, verías miles de estrellas más que antes.",
+   "tipo": "emoji",
+   "rotulo": "Cielo lleno",
+   "emojis": [
+    "✨",
+    "🌌"
+   ],
+   "fondo": "noche",
+   "personajes": [
+    "nino"
+   ],
+   "accion": "senalar"
+  },
+  {
+   "texto": "Pero lo grande pasaría en el mar. La Luna es la que tira del agua y crea las mareas.",
+   "tipo": "emoji",
+   "rotulo": "Las mareas",
+   "emojis": [
+    "🌊"
+   ],
+   "fondo": "playa",
+   "personajes": [
+    "hombre"
+   ]
+  },
+  {
+   "texto": "Sin ella, solo quedarían las mareas del Sol, que son menos de la mitad de fuertes.",
+   "tipo": "versus",
+   "emojis": [
+    "🌙",
+    "☀️"
+   ],
+   "rotulos": [
+    "Luna",
+    "Sol"
+   ],
+   "rotulo": "Quién tira más"
+  },
+  {
+   "texto": "Muchos animales se perderían. Los corales usan la luna llena para saber cuándo reproducirse.",
+   "tipo": "emoji",
+   "rotulo": "Corales",
+   "emojis": [
+    "🪸",
+    "🐠"
+   ],
+   "fondo": "bajo_agua"
+  },
+  {
+   "texto": "Y las crías de tortuga, que siguen el brillo del horizonte para llegar al mar.",
+   "tipo": "emoji",
+   "rotulo": "Tortugas",
+   "emojis": [
+    "🐢"
+   ],
+   "fondo": "playa",
+   "personajes": [
+    "nino"
+   ],
+   "accion": "senalar"
+  },
+  {
+   "texto": "A largo plazo, la Luna también nos sujeta: hace que la Tierra no se tambalee sobre su eje.",
+   "tipo": "emoji",
+   "rotulo": "El equilibrio",
+   "emojis": [
+    "⚖️"
+   ],
+   "fondo": "espacio"
+  },
+  {
+   "texto": "Sin ella, en millones de años la inclinación del planeta podría cambiar muchísimo, y con ella las estaciones.",
+   "tipo": "sello",
+   "emojis": [
+    "🌍"
+   ],
+   "sello": "¡Caos!",
+   "fondo": "tierra",
+   "animo": "miedo"
+  },
+  {
+   "texto": "Por suerte, la Luna no se va a ir a ninguna parte.",
+   "tipo": "emoji",
+   "rotulo": "Tranquilos",
+   "emojis": [
+    "🌕"
+   ],
+   "fondo": "tierra",
+   "animo": "feliz"
+  },
+  {
+   "texto": "¿La echarías de menos? Síguenos para más preguntas imposibles.",
+   "tipo": "final"
+  }
+ ]
+}

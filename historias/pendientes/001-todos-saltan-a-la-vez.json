@@ -1,0 +1,25 @@
+{
+ "id": "001-todos-saltan-a-la-vez",
+ "titulo": "¿Qué pasaría si todo el mundo saltara a la vez? 🌍",
+ "descripcion": "Ocho mil millones de personas, una cuenta atrás y un salto gigante. ¿Movemos la Tierra… o no?",
+ "hashtags": ["#quepasariasi", "#ciencia", "#tierra", "#curiosidades", "#shorts"],
+ "etiquetas": ["todos saltan a la vez", "salto mundial", "física", "planeta tierra"],
+ "paleta": "espacio",
+ "miniatura": {"texto": "¿Y SI TODOS SALTAMOS A LA VEZ?", "emojis": ["🌍", "🤸"]},
+ "nota_veracidad": "Cálculo basado en el análisis de Randall Munroe (What If?): la Tierra se movería menos que el ancho de un átomo y el efecto se anula al caer. El problema de verdad sería juntar a todos en un mismo lugar y luego volver a casa.",
+ "fuentes": ["Randall Munroe (2014), 'What If?', capítulo 'Everybody Jump'", "Naciones Unidas (2024), población mundial"],
+ "claves": ["saltar", "tierra", "átomo", "nada", "atasco", "casa"],
+ "escenas": [
+  {"texto": "¿Qué pasaría si todas las personas del mundo saltaran a la vez?", "tipo": "emoji", "emojis": ["❓"], "rotulo": "¿Todos?", "fondo": "tierra", "animo": "sorpresa"},
+  {"texto": "Para que el salto cuente, primero tendríamos que juntarnos en un mismo sitio.", "tipo": "emoji", "emojis": ["📍"], "rotulo": "Todos juntos", "fondo": "ciudad_color", "personajes": ["multitud"], "accion": "hablar"},
+  {"texto": "Ocho mil millones de personas, apretadas en un espacio del tamaño de una gran ciudad.", "tipo": "numero", "valor": "8.000.000.000", "unidad": "personas", "emojis": ["👥"], "fondo": "ciudad_color", "personajes": ["multitud"]},
+  {"texto": "Cuenta atrás. Tres, dos, uno… ¡salto!", "tipo": "emoji", "emojis": ["3️⃣", "2️⃣", "1️⃣"], "rotulo": "¡Ya!", "fondo": "ciudad_color", "personajes": ["chica", "chico", "hombre"], "accion": "celebrar"},
+  {"texto": "Juntos pesamos unos quinientos millones de toneladas. Suena a muchísimo.", "tipo": "numero", "valor": "500.000.000", "unidad": "toneladas", "emojis": ["⚖️"], "fondo": "ciudad_color", "personajes": ["multitud"]},
+  {"texto": "Pero la Tierra pesa unos diez billones de veces más que todos nosotros.", "tipo": "versus", "emojis": ["👥", "🌍"], "rotulos": ["Nosotros", "La Tierra"], "rotulo": "No hay color"},
+  {"texto": "Así que el planeta se movería menos que el ancho de un átomo.", "tipo": "emoji", "emojis": ["⚛️"], "rotulo": "Ni un átomo", "fondo": "tierra", "animo": "feliz"},
+  {"texto": "Y al caer, lo devolveríamos justo a su sitio. Resultado: nada.", "tipo": "sello", "emojis": ["🌍"], "sello": "¡Nada!", "fondo": "espacio"},
+  {"texto": "Solo se oiría un gran golpe, como un trueno muy lejano.", "tipo": "emoji", "emojis": ["💥", "🔊"], "rotulo": "¡Pum!", "fondo": "ciudad_color", "personajes": ["chica", "chico"], "accion": "senalar"},
+  {"texto": "El verdadero problema llega después: ocho mil millones de personas intentando volver a casa a la vez.", "tipo": "emoji", "emojis": ["✈️", "🚗", "🚢"], "rotulo": "El atasco", "fondo": "ciudad_noche", "personajes": ["multitud"], "accion": "triste"},
+  {"texto": "Sería el peor atasco de la historia. ¿Saltarías tú? Síguenos para más preguntas imposibles.", "tipo": "final"}
+ ]
+}

@@ -1,0 +1,16 @@
+{
+ "_comentario": "Ajustes del canal ¿Qué Pasaría Si?. Nada secreto aquí.",
+ "carpeta_salida": "~/Desktop/q pasaria si",
+ "carpeta_datos": "~/.que-pasaria-si",
+ "zona_horaria": "Europe/Madrid",
+ "horas_publicacion": ["10:30", "13:30", "16:30", "19:30", "22:30", "01:30"],
+ "subir_a_youtube": true,
+ "categoria_youtube": "28",
+ "voz": "em_alex",
+ "velocidad_voz": 1.12,
+ "auditoria_aprobada": true,
+ "subidas_antes_de_auditoria": 1,
+ "_auditoria": "Si YouTube bloquea en privado los videos subidos por la API (proyecto sin auditar), pon auditoria_aprobada a false para subir solo 1 y generar el resto.",
+ "ejecutar_en": "nube",
+ "pausado": false
+}

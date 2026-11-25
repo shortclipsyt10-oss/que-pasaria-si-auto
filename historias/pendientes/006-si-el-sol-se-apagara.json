@@ -1,0 +1,166 @@
+{
+ "id": "006-si-el-sol-se-apagara",
+ "titulo": "¿Qué pasaría si el Sol se apagara? ☀️",
+ "descripcion": "Durante ocho minutos no te enterarías de nada. Lo que pasa después es increíble.",
+ "hashtags": [
+  "#quepasariasi",
+  "#sol",
+  "#espacio",
+  "#ciencia",
+  "#shorts"
+ ],
+ "etiquetas": [
+  "sol se apaga",
+  "astronomía",
+  "espacio"
+ ],
+ "paleta": "espacio",
+ "miniatura": {
+  "texto": "¿Y SI EL SOL SE APAGA?",
+  "emojis": [
+   "☀️",
+   "🌑"
+  ]
+ },
+ "nota_veracidad": "La luz del Sol tarda unos 8 minutos y 20 segundos en llegar, y la gravedad viaja a la misma velocidad. Las temperaturas son estimaciones habituales en divulgación científica. El Sol no puede apagarse de golpe: le quedan unos 5.000 millones de años.",
+ "fuentes": [
+  "NASA: 'How long does it take sunlight to reach Earth?'",
+  "Scientific American: 'What would happen if the Sun suddenly went out?'"
+ ],
+ "claves": [
+  "sol",
+  "ocho",
+  "minutos",
+  "frío",
+  "océanos",
+  "volcanes"
+ ],
+ "escenas": [
+  {
+   "texto": "¿Qué pasaría si el Sol se apagara ahora mismo?",
+   "tipo": "emoji",
+   "rotulo": "¡Clic!",
+   "emojis": [
+    "☀️",
+    "💡"
+   ],
+   "fondo": "tierra",
+   "animo": "sorpresa"
+  },
+  {
+   "texto": "Durante ocho minutos no notarías nada, porque eso es lo que tarda su luz en llegar hasta aquí.",
+   "tipo": "numero",
+   "valor": "8",
+   "unidad": "minutos de retraso",
+   "emojis": [
+    "⏱️"
+   ],
+   "fondo": "campo",
+   "personajes": [
+    "chica"
+   ]
+  },
+  {
+   "texto": "Y de repente, oscuridad total. La Luna también se apagaría, porque solo refleja la luz del Sol.",
+   "tipo": "emoji",
+   "rotulo": "Todo negro",
+   "emojis": [
+    "🌑"
+   ],
+   "fondo": "ciudad_noche",
+   "personajes": [
+    "chica",
+    "chico"
+   ],
+   "accion": "senalar"
+  },
+  {
+   "texto": "Al mismo tiempo, la Tierra dejaría de dar vueltas al Sol y saldría disparada en línea recta.",
+   "tipo": "emoji",
+   "rotulo": "¡Adiós órbita!",
+   "emojis": [
+    "➡️"
+   ],
+   "fondo": "espacio"
+  },
+  {
+   "texto": "En una semana, la temperatura caería por debajo de cero en todo el planeta.",
+   "tipo": "numero",
+   "valor": "-18",
+   "unidad": "grados en una semana",
+   "emojis": [
+    "🥶"
+   ],
+   "fondo": "nieve",
+   "personajes": [
+    "chico"
+   ],
+   "accion": "triste"
+  },
+  {
+   "texto": "En un año, unos setenta grados bajo cero. Las plantas, sin luz, dejarían de crecer.",
+   "tipo": "lista",
+   "items": [
+    [
+     "🥶",
+     "Mucho frío"
+    ],
+    [
+     "🌱",
+     "Plantas sin luz"
+    ],
+    [
+     "🌌",
+     "Noche eterna"
+    ]
+   ]
+  },
+  {
+   "texto": "Pero los océanos tardarían muchísimo en congelarse del todo. El hielo de arriba haría de manta.",
+   "tipo": "emoji",
+   "rotulo": "Manta de hielo",
+   "emojis": [
+    "🧊",
+    "🌊"
+   ],
+   "fondo": "oceano_profundo"
+  },
+  {
+   "texto": "Y en el fondo del mar, junto a los volcanes submarinos, algunos seres vivos seguirían tan tranquilos.",
+   "tipo": "emoji",
+   "rotulo": "Supervivientes",
+   "emojis": [
+    "🦐",
+    "🌋"
+   ],
+   "fondo": "oceano_profundo"
+  },
+  {
+   "texto": "Por suerte, al Sol todavía le quedan unos cinco mil millones de años de vida.",
+   "tipo": "numero",
+   "valor": "5.000.000.000",
+   "unidad": "años por delante",
+   "emojis": [
+    "☀️"
+   ],
+   "fondo": "espacio"
+  },
+  {
+   "texto": "Así que puedes seguir tomando el sol tranquilo.",
+   "tipo": "emoji",
+   "rotulo": "Relax",
+   "emojis": [
+    "😎"
+   ],
+   "fondo": "playa",
+   "personajes": [
+    "chica"
+   ],
+   "accion": "celebrar"
+  },
+  {
+   "texto": "¿Qué harías en esos ocho minutos? Síguenos para más preguntas imposibles.",
+   "tipo": "final"
+  }
+ ]
+}

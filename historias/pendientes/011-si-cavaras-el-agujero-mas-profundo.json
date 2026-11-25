@@ -1,0 +1,157 @@
+{
+ "id": "011-si-cavaras-el-agujero-mas-profundo",
+ "titulo": "¿Hasta dónde llegarías cavando un agujero? ⛏️",
+ "descripcion": "La Unión Soviética lo intentó durante veinte años. Lo que encontraron allí abajo los dejó sin palabras.",
+ "hashtags": [
+  "#quepasariasi",
+  "#tierra",
+  "#historia",
+  "#ciencia",
+  "#shorts"
+ ],
+ "etiquetas": [
+  "pozo superprofundo de kola",
+  "agujero más profundo",
+  "geología"
+ ],
+ "paleta": "ciencia",
+ "miniatura": {
+  "texto": "EL AGUJERO MÁS PROFUNDO",
+  "emojis": [
+   "⛏️",
+   "🕳️"
+  ]
+ },
+ "nota_veracidad": "El pozo superprofundo de Kola (Rusia) alcanzó 12.262 metros en 1989 tras casi 20 años de trabajo. Encontraron unos 180 °C y fósiles microscópicos de plancton a más de 6 km. La leyenda de que se oyeron 'gritos del infierno' es un bulo.",
+ "fuentes": [
+  "Smithsonian Magazine: 'The Kola Superdeep Borehole'",
+  "Kozlovsky (1987), 'The Superdeep Well of the Kola Peninsula'"
+ ],
+ "claves": [
+  "agujero",
+  "kola",
+  "doce",
+  "metros",
+  "grados",
+  "fósiles"
+ ],
+ "escenas": [
+  {
+   "texto": "¿Qué pasaría si intentaras cavar el agujero más profundo del mundo?",
+   "tipo": "emoji",
+   "rotulo": "¡A cavar!",
+   "emojis": [
+    "⛏️"
+   ],
+   "fondo": "tierra",
+   "animo": "sorpresa"
+  },
+  {
+   "texto": "En mil novecientos setenta, la Unión Soviética lo intentó en serio, en el norte de Rusia.",
+   "tipo": "fecha",
+   "anio": "1970",
+   "emojis": [
+    "🇷🇺"
+   ],
+   "fondo": "nieve",
+   "personajes": [
+    "cientifico",
+    "hombre"
+   ]
+  },
+  {
+   "texto": "Lo llamaron el pozo superprofundo de Kola.",
+   "tipo": "emoji",
+   "rotulo": "Pozo de Kola",
+   "emojis": [
+    "🕳️"
+   ],
+   "fondo": "nieve",
+   "personajes": [
+    "cientifico"
+   ],
+   "accion": "senalar"
+  },
+  {
+   "texto": "Tras casi veinte años perforando, llegaron a doce mil doscientos sesenta y dos metros.",
+   "tipo": "numero",
+   "valor": "12.262",
+   "unidad": "metros de profundidad",
+   "emojis": [
+    "⬇️"
+   ],
+   "fondo": "nieve"
+  },
+  {
+   "texto": "Es más que la altura del Everest. Y aun así, solo arañaron la piel del planeta.",
+   "tipo": "versus",
+   "emojis": [
+    "🏔️",
+    "🕳️"
+   ],
+   "rotulos": [
+    "Everest",
+    "Pozo de Kola"
+   ],
+   "rotulo": "Comparación"
+  },
+  {
+   "texto": "Allí abajo hacía unos ciento ochenta grados. Mucho más de lo que esperaban.",
+   "tipo": "numero",
+   "valor": "180",
+   "unidad": "grados",
+   "emojis": [
+    "🔥"
+   ],
+   "fondo": "volcan"
+  },
+  {
+   "texto": "La roca se comportaba casi como plástico, y la perforadora se atascaba.",
+   "tipo": "emoji",
+   "rotulo": "Roca blanda",
+   "emojis": [
+    "🪨"
+   ],
+   "fondo": "laboratorio",
+   "personajes": [
+    "cientifico"
+   ],
+   "accion": "triste"
+  },
+  {
+   "texto": "Lo más increíble: a más de seis kilómetros encontraron fósiles diminutos de plancton.",
+   "tipo": "sello",
+   "emojis": [
+    "🦠"
+   ],
+   "sello": "¡Fósiles!",
+   "fondo": "laboratorio",
+   "personajes": [
+    "cientifico"
+   ],
+   "accion": "celebrar"
+  },
+  {
+   "texto": "Y no, la historia de que se oyeron gritos del infierno es un bulo de internet.",
+   "tipo": "duda",
+   "emojis": [
+    "👂"
+   ],
+   "sello": "¡Bulo!",
+   "fondo": "noche"
+  },
+  {
+   "texto": "Hoy el agujero está tapado con una tapa de metal. Más pequeño que una tapa de alcantarilla.",
+   "tipo": "emoji",
+   "rotulo": "Tapado",
+   "emojis": [
+    "🔩"
+   ],
+   "fondo": "nieve"
+  },
+  {
+   "texto": "¿Bajarías a mirar? Síguenos para más preguntas imposibles.",
+   "tipo": "final"
+  }
+ ]
+}

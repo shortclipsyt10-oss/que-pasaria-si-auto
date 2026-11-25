@@ -1,0 +1,163 @@
+{
+ "id": "012-si-vivieras-en-marte",
+ "titulo": "¿Qué pasaría si vivieras en Marte? 🔴",
+ "descripcion": "Saltarías casi tres veces más alto… pero hay un pequeño problema con el aire.",
+ "hashtags": [
+  "#quepasariasi",
+  "#marte",
+  "#espacio",
+  "#ciencia",
+  "#shorts"
+ ],
+ "etiquetas": [
+  "vivir en marte",
+  "marte",
+  "nasa"
+ ],
+ "paleta": "espacio",
+ "miniatura": {
+  "texto": "¿Y SI VIVIERAS EN MARTE?",
+  "emojis": [
+   "🔴",
+   "🧑‍🚀"
+  ]
+ },
+ "nota_veracidad": "Datos de la NASA: gravedad del 38 % de la terrestre, día (sol) de 24 horas y 37 minutos, temperatura media de unos -60 °C, atmósfera casi toda de CO2 con menos del 1 % de la presión terrestre. Los atardeceres azules los fotografiaron los rovers Spirit y Curiosity.",
+ "fuentes": [
+  "NASA: 'Mars Facts'",
+  "NASA/JPL (2015): atardecer azul fotografiado por Curiosity"
+ ],
+ "claves": [
+  "marte",
+  "saltarías",
+  "sesenta",
+  "aire",
+  "atardeceres",
+  "azules"
+ ],
+ "escenas": [
+  {
+   "texto": "¿Qué pasaría si te mudaras a vivir a Marte?",
+   "tipo": "pregunta",
+   "emojis": [
+    "🔴",
+    "🚀"
+   ]
+  },
+  {
+   "texto": "Primero, el viaje: unos siete meses metido en una nave.",
+   "tipo": "numero",
+   "valor": "7",
+   "unidad": "meses de viaje",
+   "emojis": [
+    "🚀"
+   ],
+   "fondo": "espacio"
+  },
+  {
+   "texto": "Al llegar, te sentirías ligerísimo. Allí pesas menos de la mitad que en la Tierra.",
+   "tipo": "emoji",
+   "rotulo": "Ligero",
+   "emojis": [
+    "🪶"
+   ],
+   "fondo": "marte",
+   "personajes": [
+    "astronauta"
+   ],
+   "accion": "celebrar"
+  },
+  {
+   "texto": "Saltarías casi tres veces más alto. Serías una estrella del baloncesto.",
+   "tipo": "emoji",
+   "rotulo": "¡Mates!",
+   "emojis": [
+    "🏀"
+   ],
+   "fondo": "luna",
+   "personajes": [
+    "astronauta"
+   ],
+   "accion": "bailar"
+  },
+  {
+   "texto": "Un día en Marte dura casi igual que aquí: veinticuatro horas y treinta y siete minutos.",
+   "tipo": "emoji",
+   "rotulo": "Día marciano",
+   "emojis": [
+    "🕐"
+   ],
+   "fondo": "marte",
+   "personajes": [
+    "astronauta"
+   ]
+  },
+  {
+   "texto": "Pero hace un frío tremendo: unos sesenta grados bajo cero de media.",
+   "tipo": "numero",
+   "valor": "-60",
+   "unidad": "grados de media",
+   "emojis": [
+    "🥶"
+   ],
+   "fondo": "marte",
+   "personajes": [
+    "astronauta"
+   ],
+   "accion": "triste"
+  },
+  {
+   "texto": "Y el aire es casi todo dióxido de carbono, y tan fino que no podrías respirar ni un segundo.",
+   "tipo": "sello",
+   "emojis": [
+    "😮‍💨"
+   ],
+   "sello": "¡Sin aire!",
+   "fondo": "marte",
+   "personajes": [
+    "astronauta"
+   ]
+  },
+  {
+   "texto": "Así que vivirías siempre dentro de casa, o con el traje puesto.",
+   "tipo": "emoji",
+   "rotulo": "Traje siempre",
+   "emojis": [
+    "🧑‍🚀",
+    "🏠"
+   ],
+   "fondo": "casa",
+   "personajes": [
+    "astronauta"
+   ]
+  },
+  {
+   "texto": "A cambio, verías algo único: en Marte, los atardeceres son azules.",
+   "tipo": "emoji",
+   "rotulo": "Atardecer azul",
+   "emojis": [
+    "🌅",
+    "💙"
+   ],
+   "fondo": "marte",
+   "personajes": [
+    "astronauta"
+   ],
+   "accion": "senalar"
+  },
+  {
+   "texto": "Los robots de la NASA ya los han fotografiado.",
+   "tipo": "emoji",
+   "rotulo": "Foto real",
+   "emojis": [
+    "📸",
+    "🤖"
+   ],
+   "fondo": "marte"
+  },
+  {
+   "texto": "¿Te irías a Marte? Síguenos para más preguntas imposibles.",
+   "tipo": "final"
+  }
+ ]
+}

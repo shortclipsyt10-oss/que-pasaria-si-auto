@@ -1,0 +1,16 @@
+# Secretos: nunca al repo
+client_secret*.json
+token*.json
+config.local.json
+*.pem
+# Generados
+__pycache__/
+*.pyc
+.venv/
+venv/
+salida/
+*.mp4
+*.wav
+*.onnx
+*.bin
+!listos/*/*.mp4

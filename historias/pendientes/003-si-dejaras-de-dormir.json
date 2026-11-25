@@ -1,0 +1,171 @@
+{
+ "id": "003-si-dejaras-de-dormir",
+ "titulo": "¿Qué pasaría si dejaras de dormir? 😴",
+ "descripcion": "Un estudiante de diecisiete años aguantó once días sin pegar ojo. Esto es lo que le pasó a su cerebro.",
+ "hashtags": [
+  "#quepasariasi",
+  "#cuerpohumano",
+  "#sueño",
+  "#ciencia",
+  "#shorts"
+ ],
+ "etiquetas": [
+  "no dormir",
+  "randy gardner",
+  "sueño",
+  "cerebro"
+ ],
+ "paleta": "cuerpo",
+ "miniatura": {
+  "texto": "11 DÍAS SIN DORMIR",
+  "emojis": [
+   "😵",
+   "⏰"
+  ]
+ },
+ "nota_veracidad": "El récord documentado científicamente es el de Randy Gardner en 1964: 264 horas (unos 11 días), supervisado por el investigador William Dement. Que 24 horas despierto afecte como unas copas de más se basa en estudios de rendimiento (Williamson y Feyer, 2000). No intentes repetirlo.",
+ "fuentes": [
+  "Stanford Medicine: el experimento de Randy Gardner (1964)",
+  "Williamson y Feyer (2000), Occupational and Environmental Medicine"
+ ],
+ "claves": [
+  "dormir",
+  "randy",
+  "once",
+  "días",
+  "microsueños",
+  "alucinaciones"
+ ],
+ "escenas": [
+  {
+   "texto": "¿Qué pasaría si dejaras de dormir? Un chico lo probó de verdad.",
+   "tipo": "pregunta",
+   "emojis": [
+    "😴",
+    "⏰"
+   ]
+  },
+  {
+   "texto": "En mil novecientos sesenta y cuatro, Randy Gardner, un estudiante de diecisiete años, quiso batir un récord.",
+   "tipo": "fecha",
+   "anio": "1964",
+   "emojis": [
+    "🎓"
+   ],
+   "fondo": "casa",
+   "personajes": [
+    "chico"
+   ]
+  },
+  {
+   "texto": "Su reto: estar despierto el máximo tiempo posible.",
+   "tipo": "emoji",
+   "rotulo": "El reto",
+   "emojis": [
+    "👀"
+   ],
+   "fondo": "casa",
+   "personajes": [
+    "chico",
+    "chica"
+   ],
+   "accion": "hablar"
+  },
+  {
+   "texto": "El primer día, todo bien. Solo un poco cansado.",
+   "tipo": "emoji",
+   "rotulo": "Día 1",
+   "emojis": [
+    "🥱"
+   ],
+   "fondo": "casa",
+   "personajes": [
+    "chico"
+   ]
+  },
+  {
+   "texto": "Después de veinticuatro horas, tu cerebro va igual de lento que después de unas copas de más.",
+   "tipo": "emoji",
+   "rotulo": "Cerebro lento",
+   "emojis": [
+    "🧠",
+    "🐢"
+   ],
+   "fondo": "ciudad_color",
+   "personajes": [
+    "chico"
+   ],
+   "accion": "andar"
+  },
+  {
+   "texto": "Al tercer día, Randy empezó a tener microsueños: su cerebro se apagaba unos segundos sin que se diera cuenta.",
+   "tipo": "emoji",
+   "rotulo": "Microsueños",
+   "emojis": [
+    "💤"
+   ],
+   "fondo": "casa",
+   "personajes": [
+    "chico"
+   ],
+   "accion": "tumbado"
+  },
+  {
+   "texto": "Más tarde llegaron las alucinaciones. Llegó a creer que era un famoso jugador de fútbol americano.",
+   "tipo": "duda",
+   "emojis": [
+    "🏈"
+   ],
+   "sello": "¡Alucina!",
+   "fondo": "campo",
+   "personajes": [
+    "chico"
+   ],
+   "accion": "celebrar"
+  },
+  {
+   "texto": "Aun así, aguantó doscientas sesenta y cuatro horas: unos once días.",
+   "tipo": "numero",
+   "valor": "264",
+   "unidad": "horas despierto",
+   "emojis": [
+    "⏰"
+   ],
+   "fondo": "casa",
+   "personajes": [
+    "chico"
+   ]
+  },
+  {
+   "texto": "Cuando por fin se acostó, durmió catorce horas seguidas.",
+   "tipo": "emoji",
+   "rotulo": "A dormir",
+   "emojis": [
+    "🛌",
+    "😴"
+   ],
+   "fondo": "noche",
+   "personajes": [
+    "chico"
+   ],
+   "accion": "tumbado"
+  },
+  {
+   "texto": "Por suerte se recuperó. Pero los científicos lo tienen claro: dormir no es perder el tiempo.",
+   "tipo": "sello",
+   "emojis": [
+    "🧠"
+   ],
+   "sello": "¡Duerme!",
+   "fondo": "laboratorio",
+   "personajes": [
+    "cientifico"
+   ],
+   "accion": "hablar"
+  },
+  {
+   "texto": "¿Cuánto aguantarías tú? Síguenos para más preguntas imposibles.",
+   "tipo": "final"
+  }
+ ]
+}

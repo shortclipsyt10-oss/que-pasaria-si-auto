@@ -1,0 +1,54 @@
+# Genera un video de prueba (sin subirlo a YouTube) y lo guarda en pruebas/ del repo.
+name: Video de prueba
+
+on:
+  workflow_dispatch:
+    inputs:
+      id:
+        description: "ID de la historia (p. ej. 014-tiburones-arboles)"
+        required: true
+
+permissions:
+  contents: write
+
+jobs:
+  prueba:
+    runs-on: ubuntu-latest
+    timeout-minutes: 60
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: pip
+      - uses: actions/cache@v4
+        with:
+          path: |
+            ~/.que-pasaria-si/modelos
+            ~/.que-pasaria-si/emojis
+            ~/.fonts
+          key: datos-v1
+      - name: Instalar
+        run: |
+          sudo apt-get update -qq && sudo apt-get install -y -qq libcairo2-dev pkg-config >/dev/null
+          pip install -r requirements.txt
+          if [ ! -f ~/.fonts/InterDisplay-Black.otf ]; then
+            mkdir -p ~/.fonts /tmp/inter
+            curl -sL -o /tmp/inter.zip https://github.com/rsms/inter/releases/download/v4.1/Inter-4.1.zip
+            unzip -q -o /tmp/inter.zip -d /tmp/inter
+            find /tmp/inter -name "InterDisplay-Black.otf" -exec cp {} ~/.fonts/ \;
+          fi
+          fc-cache -f >/dev/null
+      - name: Renderizar
+        run: |
+          echo '{"carpeta_salida": "salida", "fuente": "Inter Display Black", "procesos_render": 4}' > config.local.json
+          python -m quepasaria render "${{ github.event.inputs.id }}"
+      - name: Guardar en pruebas/
+        run: |
+          mkdir -p pruebas
+          cp salida/${{ github.event.inputs.id }}/*.mp4 pruebas/
+          cp salida/${{ github.event.inputs.id }}/miniatura.png pruebas/${{ github.event.inputs.id }}-miniatura.png
+          git config user.name "que-pasaria-si-bot"
+          git config user.email "actions@users.noreply.github.com"
+          git add -f pruebas/
+          git commit -m "Video de prueba ${{ github.event.inputs.id }}" && git pull --rebase -q && git push

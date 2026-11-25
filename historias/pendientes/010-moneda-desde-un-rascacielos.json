@@ -1,0 +1,163 @@
+{
+ "id": "010-moneda-desde-un-rascacielos",
+ "titulo": "¿Y si tiraras una moneda desde un rascacielos? 🪙",
+ "descripcion": "Dicen que una moneda lanzada desde lo alto del Empire State podría matar a alguien. La física dice otra cosa.",
+ "hashtags": [
+  "#quepasariasi",
+  "#mitos",
+  "#física",
+  "#ciencia",
+  "#shorts"
+ ],
+ "etiquetas": [
+  "moneda empire state",
+  "mito",
+  "velocidad terminal"
+ ],
+ "paleta": "ciencia",
+ "miniatura": {
+  "texto": "¿UNA MONEDA QUE MATA?",
+  "emojis": [
+   "🪙",
+   "🏙️"
+  ]
+ },
+ "nota_veracidad": "Mito comprobado por MythBusters (2003) y por físicos como Louis Bloomfield: una moneda pequeña alcanza una velocidad terminal de unos 40-50 km/h y da vueltas al caer. Dolería, pero no atravesaría la cabeza. No lances objetos desde edificios: los más pesados sí son peligrosos.",
+ "fuentes": [
+  "MythBusters (2003), episodio 'Penny Drop'",
+  "Louis Bloomfield, Universidad de Virginia, sobre la caída de monedas"
+ ],
+ "claves": [
+  "moneda",
+  "rascacielos",
+  "aire",
+  "velocidad",
+  "picotazo",
+  "mito"
+ ],
+ "escenas": [
+  {
+   "texto": "¿Qué pasaría si tiraras una moneda desde lo alto de un rascacielos?",
+   "tipo": "emoji",
+   "rotulo": "Desde arriba",
+   "emojis": [
+    "🪙"
+   ],
+   "fondo": "ciudad_color",
+   "personajes": [
+    "chico"
+   ],
+   "accion": "senalar"
+  },
+  {
+   "texto": "Hay un mito famoso: dicen que podría atravesarle la cabeza a alguien.",
+   "tipo": "duda",
+   "emojis": [
+    "🪙",
+    "😱"
+   ],
+   "sello": "¿Mito?",
+   "fondo": "ciudad_color",
+   "personajes": [
+    "hombre"
+   ]
+  },
+  {
+   "texto": "Por ejemplo, desde el Empire State de Nueva York, que mide unos cuatrocientos cuarenta metros.",
+   "tipo": "numero",
+   "valor": "443",
+   "unidad": "metros de altura",
+   "emojis": [
+    "🏙️"
+   ],
+   "fondo": "ciudad"
+  },
+  {
+   "texto": "Al principio, la moneda caería cada vez más rápido.",
+   "tipo": "emoji",
+   "rotulo": "Cayendo",
+   "emojis": [
+    "⬇️",
+    "🪙"
+   ],
+   "fondo": "cielo"
+  },
+  {
+   "texto": "Pero el aire la frena. Y como es plana y ligera, da vueltas como una hoja.",
+   "tipo": "emoji",
+   "rotulo": "El aire frena",
+   "emojis": [
+    "💨",
+    "🍂"
+   ],
+   "fondo": "cielo"
+  },
+  {
+   "texto": "Llega un momento en que ya no acelera más. Se llama velocidad terminal.",
+   "tipo": "emoji",
+   "rotulo": "Tope",
+   "emojis": [
+    "🛑"
+   ],
+   "fondo": "laboratorio",
+   "personajes": [
+    "cientifico"
+   ],
+   "accion": "hablar"
+  },
+  {
+   "texto": "Para una moneda pequeña, solo unos cuarenta o cincuenta kilómetros por hora.",
+   "tipo": "numero",
+   "valor": "50",
+   "unidad": "km por hora máximo",
+   "emojis": [
+    "🪙"
+   ],
+   "fondo": "ciudad_color"
+  },
+  {
+   "texto": "Si te cayera encima, notarías un picotazo. Dolería un poco, nada más.",
+   "tipo": "sello",
+   "emojis": [
+    "🤕"
+   ],
+   "sello": "¡Ay!",
+   "fondo": "ciudad_color",
+   "personajes": [
+    "chica"
+   ],
+   "accion": "triste"
+  },
+  {
+   "texto": "Los MythBusters lo probaron en la tele y lo confirmaron: mito desmentido.",
+   "tipo": "sello",
+   "emojis": [
+    "📺"
+   ],
+   "sello": "¡Falso!",
+   "fondo": "laboratorio",
+   "personajes": [
+    "cientifico",
+    "hombre"
+   ],
+   "accion": "celebrar"
+  },
+  {
+   "texto": "Eso sí, no tires nada desde un edificio: un objeto pesado sí sería muy peligroso.",
+   "tipo": "emoji",
+   "rotulo": "Ojo",
+   "emojis": [
+    "⚠️"
+   ],
+   "fondo": "ciudad_color",
+   "personajes": [
+    "hombre"
+   ],
+   "accion": "senalar"
+  },
+  {
+   "texto": "¿Te lo habías creído? Síguenos para más preguntas imposibles.",
+   "tipo": "final"
+  }
+ ]
+}

@@ -1,0 +1,148 @@
+{
+ "id": "004-agujero-que-atraviesa-la-tierra",
+ "titulo": "¿Y si saltaras por un agujero que atraviesa la Tierra? 🕳️",
+ "descripcion": "Un túnel de un lado del planeta al otro. Saltas dentro… ¿cuánto tardarías en salir por China?",
+ "hashtags": [
+  "#quepasariasi",
+  "#física",
+  "#tierra",
+  "#ciencia",
+  "#shorts"
+ ],
+ "etiquetas": [
+  "agujero en la tierra",
+  "túnel gravitatorio",
+  "física"
+ ],
+ "paleta": "ciencia",
+ "miniatura": {
+  "texto": "SALTAR AL OTRO LADO DEL MUNDO",
+  "emojis": [
+   "🕳️",
+   "🌍"
+  ]
+ },
+ "nota_veracidad": "Es un experimento mental clásico de física. Sin aire, la caída duraría unos 38 minutos según el cálculo con la densidad real de la Tierra (Klotz, 2015), o 42 con densidad uniforme. En el centro irías a unos 28.000 km/h. Construir el túnel es imposible: el núcleo está a unos 5.000 grados.",
+ "fuentes": [
+  "Alexander Klotz (2015), American Journal of Physics, 'The gravity tunnel in a non-uniform Earth'",
+  "NASA: temperatura del núcleo terrestre"
+ ],
+ "claves": [
+  "agujero",
+  "túnel",
+  "minutos",
+  "centro",
+  "aire",
+  "volver"
+ ],
+ "escenas": [
+  {
+   "texto": "¿Qué pasaría si hicieras un agujero que atraviesa la Tierra y saltaras dentro?",
+   "tipo": "emoji",
+   "rotulo": "¡Al agujero!",
+   "emojis": [
+    "🕳️"
+   ],
+   "fondo": "tierra",
+   "animo": "sorpresa"
+  },
+  {
+   "texto": "Imagina un túnel recto, de un lado del planeta al otro. Doce mil setecientos kilómetros.",
+   "tipo": "numero",
+   "valor": "12.700",
+   "unidad": "kilómetros de túnel",
+   "emojis": [
+    "🕳️"
+   ],
+   "fondo": "espacio"
+  },
+  {
+   "texto": "Saltas. Y empiezas a caer cada vez más rápido.",
+   "tipo": "emoji",
+   "rotulo": "¡Aaaah!",
+   "emojis": [
+    "⬇️"
+   ],
+   "fondo": "cielo",
+   "personajes": [
+    "chico"
+   ],
+   "accion": "celebrar"
+  },
+  {
+   "texto": "Al llegar al centro de la Tierra irías a unos veintiocho mil kilómetros por hora.",
+   "tipo": "numero",
+   "valor": "28.000",
+   "unidad": "km por hora",
+   "emojis": [
+    "🚀"
+   ],
+   "fondo": "volcan"
+  },
+  {
+   "texto": "Allí ya no caerías. Pasarías de largo, y empezarías a frenar mientras subes hacia el otro lado.",
+   "tipo": "emoji",
+   "rotulo": "Frenando",
+   "emojis": [
+    "🛑"
+   ],
+   "fondo": "espacio"
+  },
+  {
+   "texto": "Si no hubiera aire, saldrías justo por la otra punta unos treinta y ocho minutos después.",
+   "tipo": "numero",
+   "valor": "38",
+   "unidad": "minutos de viaje",
+   "emojis": [
+    "⏱️"
+   ],
+   "fondo": "ciudad_color",
+   "personajes": [
+    "chico"
+   ],
+   "accion": "celebrar"
+  },
+  {
+   "texto": "Pero si no te agarras al borde, volverías a caer. Y así, de un lado a otro, para siempre.",
+   "tipo": "emoji",
+   "rotulo": "Para siempre",
+   "emojis": [
+    "🔁"
+   ],
+   "fondo": "tierra",
+   "animo": "feliz"
+  },
+  {
+   "texto": "Con aire sería distinto: el rozamiento te frenaría poco a poco.",
+   "tipo": "emoji",
+   "rotulo": "El aire",
+   "emojis": [
+    "💨"
+   ],
+   "fondo": "cielo"
+  },
+  {
+   "texto": "Al final acabarías flotando, quieto, justo en el centro del planeta.",
+   "tipo": "sello",
+   "emojis": [
+    "🌍"
+   ],
+   "sello": "¡Atrapado!",
+   "fondo": "tierra",
+   "animo": "miedo"
+  },
+  {
+   "texto": "Eso sí: allí abajo hay unos cinco mil grados, así que nadie ha podido construir este túnel.",
+   "tipo": "emoji",
+   "rotulo": "Imposible",
+   "emojis": [
+    "🔥"
+   ],
+   "fondo": "volcan"
+  },
+  {
+   "texto": "¿Saltarías? Síguenos para más preguntas imposibles.",
+   "tipo": "final"
+  }
+ ]
+}

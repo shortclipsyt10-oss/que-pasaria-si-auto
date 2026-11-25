@@ -1,0 +1,149 @@
+{
+ "id": "009-si-los-humanos-desaparecieran",
+ "titulo": "¿Qué pasaría si los humanos desapareciéramos? 🏙️",
+ "descripcion": "Un día no queda ni una persona en la Tierra. Así cambiarían nuestras ciudades con el paso del tiempo.",
+ "hashtags": [
+  "#quepasariasi",
+  "#naturaleza",
+  "#ciudades",
+  "#ciencia",
+  "#shorts"
+ ],
+ "etiquetas": [
+  "mundo sin nosotros",
+  "ciudades abandonadas",
+  "naturaleza"
+ ],
+ "paleta": "animales",
+ "miniatura": {
+  "texto": "UN MUNDO SIN HUMANOS",
+  "emojis": [
+   "🏙️",
+   "🌿"
+  ]
+ },
+ "nota_veracidad": "Basado en el libro 'El mundo sin nosotros' de Alan Weisman (2007), que entrevistó a ingenieros y biólogos. Los plazos son estimaciones. La fauna de Chernóbil es un ejemplo real de naturaleza que vuelve cuando la gente se va.",
+ "fuentes": [
+  "Alan Weisman (2007), 'El mundo sin nosotros'",
+  "National Geographic: la fauna de la zona de exclusión de Chernóbil"
+ ],
+ "claves": [
+  "humanos",
+  "luces",
+  "metro",
+  "plantas",
+  "animales",
+  "plástico"
+ ],
+ "escenas": [
+  {
+   "texto": "¿Qué pasaría si mañana todos los humanos desapareciéramos?",
+   "tipo": "emoji",
+   "rotulo": "¿Hola?",
+   "emojis": [
+    "👻"
+   ],
+   "fondo": "tierra",
+   "animo": "sorpresa"
+  },
+  {
+   "texto": "En pocas horas, sin nadie que las cuide, las centrales eléctricas se pararían. Las luces se apagarían.",
+   "tipo": "emoji",
+   "rotulo": "Apagón",
+   "emojis": [
+    "💡"
+   ],
+   "fondo": "ciudad_noche"
+  },
+  {
+   "texto": "En dos días, el metro de Nueva York se inundaría, porque nadie encendería las bombas de agua.",
+   "tipo": "emoji",
+   "rotulo": "Metro inundado",
+   "emojis": [
+    "🚇",
+    "💧"
+   ],
+   "fondo": "ciudad"
+  },
+  {
+   "texto": "Los perros y gatos tendrían que buscarse la vida solos.",
+   "tipo": "emoji",
+   "rotulo": "Libres",
+   "emojis": [
+    "🐕",
+    "🐈"
+   ],
+   "fondo": "ciudad_color"
+  },
+  {
+   "texto": "En pocos años, las plantas empezarían a romper el asfalto y a trepar por los edificios.",
+   "tipo": "emoji",
+   "rotulo": "Invasión verde",
+   "emojis": [
+    "🌿",
+    "🌱"
+   ],
+   "fondo": "ciudad_color"
+  },
+  {
+   "texto": "Ya ha pasado algo parecido: en Chernóbil, donde la gente se fue, hoy viven lobos, ciervos y caballos salvajes.",
+   "tipo": "emoji",
+   "rotulo": "Chernóbil",
+   "emojis": [
+    "🐺",
+    "🦌",
+    "🐎"
+   ],
+   "fondo": "bosque"
+  },
+  {
+   "texto": "En unos siglos, la mayoría de los edificios se habrían caído.",
+   "tipo": "emoji",
+   "rotulo": "Ruinas",
+   "emojis": [
+    "🏚️"
+   ],
+   "fondo": "bosque"
+  },
+  {
+   "texto": "Las ciudades se convertirían en bosques.",
+   "tipo": "sello",
+   "emojis": [
+    "🌳"
+   ],
+   "sello": "¡Bosque!",
+   "fondo": "bosque"
+  },
+  {
+   "texto": "Pero algunas cosas durarían muchísimo: el plástico, las estatuas de bronce y las pirámides de Egipto.",
+   "tipo": "lista",
+   "items": [
+    [
+     "🧴",
+     "Plástico"
+    ],
+    [
+     "🗽",
+     "Bronce"
+    ],
+    [
+     "🔺",
+     "Pirámides"
+    ]
+   ]
+  },
+  {
+   "texto": "Así sabría cualquier visitante del futuro que una vez estuvimos aquí.",
+   "tipo": "emoji",
+   "rotulo": "Estuvimos aquí",
+   "emojis": [
+    "👽"
+   ],
+   "fondo": "egipto"
+  },
+  {
+   "texto": "¿Qué crees que quedaría de ti? Síguenos para más preguntas imposibles.",
+   "tipo": "final"
+  }
+ ]
+}

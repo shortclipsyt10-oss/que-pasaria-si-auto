@@ -1,0 +1,153 @@
+{
+ "id": "008-si-cayeras-en-un-agujero-negro",
+ "titulo": "¿Qué pasaría si cayeras en un agujero negro? 🕳️",
+ "descripcion": "Tú sentirías una cosa. Quien te mira desde fuera vería otra totalmente distinta.",
+ "hashtags": [
+  "#quepasariasi",
+  "#agujeronegro",
+  "#espacio",
+  "#ciencia",
+  "#shorts"
+ ],
+ "etiquetas": [
+  "agujero negro",
+  "espaguetificación",
+  "relatividad"
+ ],
+ "paleta": "espacio",
+ "miniatura": {
+  "texto": "CAER EN UN AGUJERO NEGRO",
+  "emojis": [
+   "🕳️",
+   "🍝"
+  ]
+ },
+ "nota_veracidad": "La 'espaguetificación' es el término real para el estiramiento por las fuerzas de marea. Con un agujero negro supermasivo se podría cruzar el horizonte de sucesos sin notarlo. Lo que pasa dentro no se sabe: es especulación.",
+ "fuentes": [
+  "NASA: 'Black holes'",
+  "Stephen Hawking (1988), 'Breve historia del tiempo'"
+ ],
+ "claves": [
+  "agujero",
+  "negro",
+  "espagueti",
+  "tiempo",
+  "horizonte",
+  "luz"
+ ],
+ "escenas": [
+  {
+   "texto": "¿Qué pasaría si cayeras en un agujero negro?",
+   "tipo": "pregunta",
+   "emojis": [
+    "🕳️",
+    "🧑‍🚀"
+   ]
+  },
+  {
+   "texto": "Un agujero negro tira con tanta fuerza que ni siquiera la luz puede escapar.",
+   "tipo": "emoji",
+   "rotulo": "Ni la luz",
+   "emojis": [
+    "💡",
+    "🕳️"
+   ],
+   "fondo": "espacio"
+  },
+  {
+   "texto": "Imagina que te acercas con los pies por delante.",
+   "tipo": "emoji",
+   "rotulo": "Pies primero",
+   "emojis": [
+    "🦶"
+   ],
+   "fondo": "espacio",
+   "personajes": [
+    "astronauta"
+   ]
+  },
+  {
+   "texto": "Tus pies estarían más cerca que tu cabeza, así que los notarías tirar mucho más fuerte.",
+   "tipo": "emoji",
+   "rotulo": "¡Estirón!",
+   "emojis": [
+    "⬇️"
+   ],
+   "fondo": "espacio",
+   "personajes": [
+    "astronauta"
+   ],
+   "accion": "celebrar"
+  },
+  {
+   "texto": "Te estirarías como un espagueti. Los científicos lo llaman espaguetificación. De verdad.",
+   "tipo": "sello",
+   "emojis": [
+    "🍝"
+   ],
+   "sello": "¡Es real!",
+   "fondo": "espacio"
+  },
+  {
+   "texto": "Pero con un agujero negro gigante, podrías cruzar la frontera sin notar nada raro.",
+   "tipo": "emoji",
+   "rotulo": "Agujero gigante",
+   "emojis": [
+    "🕳️"
+   ],
+   "fondo": "espacio",
+   "personajes": [
+    "astronauta"
+   ]
+  },
+  {
+   "texto": "Lo más loco lo vería un amigo desde lejos: para él, irías cada vez más lento.",
+   "tipo": "versus",
+   "emojis": [
+    "🧑‍🚀",
+    "👀"
+   ],
+   "rotulos": [
+    "Tú",
+    "Tu amigo"
+   ],
+   "rotulo": "Dos versiones"
+  },
+  {
+   "texto": "Te vería congelado en el borde, cada vez más rojo, hasta desaparecer.",
+   "tipo": "emoji",
+   "rotulo": "Congelado",
+   "emojis": [
+    "🧊",
+    "🔴"
+   ],
+   "fondo": "espacio"
+  },
+  {
+   "texto": "Porque cerca de un agujero negro, el tiempo pasa más despacio.",
+   "tipo": "emoji",
+   "rotulo": "Tiempo lento",
+   "emojis": [
+    "⏳"
+   ],
+   "fondo": "laboratorio",
+   "personajes": [
+    "cientifico"
+   ],
+   "accion": "hablar"
+  },
+  {
+   "texto": "¿Y qué hay dentro? Nadie lo sabe. Es uno de los mayores misterios del universo.",
+   "tipo": "duda",
+   "emojis": [
+    "❓"
+   ],
+   "sello": "¿Misterio?",
+   "fondo": "espacio"
+  },
+  {
+   "texto": "¿Te asomarías? Síguenos para más preguntas imposibles.",
+   "tipo": "final"
+  }
+ ]
+}
