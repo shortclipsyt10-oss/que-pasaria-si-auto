@@ -3,7 +3,7 @@
  "carpeta_salida": "~/Desktop/q pasaria si",
  "carpeta_datos": "~/.que-pasaria-si",
  "zona_horaria": "Europe/Madrid",
- "horas_publicacion": ["10:30", "13:30", "16:30", "19:30", "22:30", "01:30"],
+ "horas_publicacion": ["09:00", "12:00", "15:00", "18:00", "21:00", "00:00"],
  "subir_a_youtube": true,
  "categoria_youtube": "28",
  "voz": "em_alex",
