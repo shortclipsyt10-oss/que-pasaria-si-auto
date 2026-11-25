@@ -63,8 +63,14 @@ def huecos(cfg, reg, ahora):
     ocupados = {v.get("publicar_en") or v.get("reservado") for v in reg["videos"].values()} - {None}
     ini = ahora + dt.timedelta(minutes=cfg["margen_minutos"]); fin = ahora + dt.timedelta(hours=cfg["horizonte_horas"])
     out = []
+    por_dia = {}
+    for o in ocupados:
+        try: d = dt.datetime.fromisoformat(o).astimezone(tz).date(); por_dia[d] = por_dia.get(d, 0) + 1
+        except ValueError: pass
     for dia in range(0, 3):
         fecha = (ahora + dt.timedelta(days=dia)).date()
+        # Nunca más videos en un día que horas de publicación hay (p. ej. 1 al día).
+        if por_dia.get(fecha, 0) >= len(cfg["horas_publicacion"]): continue
         for hh in cfg["horas_publicacion"]:
             h, m = map(int, hh.split(":"))
             s = dt.datetime(fecha.year, fecha.month, fecha.day, h, m, tzinfo=tz)
