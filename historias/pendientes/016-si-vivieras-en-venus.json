@@ -1,0 +1,158 @@
+{
+ "id": "016-si-vivieras-en-venus",
+ "titulo": "¿Qué pasaría si vivieras en Venus? 🔥",
+ "descripcion": "Un día dura más que un año y el Sol sale por el oeste. Y eso es lo más tranquilo de Venus.",
+ "hashtags": [
+  "#quepasariasi",
+  "#venus",
+  "#espacio",
+  "#ciencia",
+  "#shorts"
+ ],
+ "etiquetas": [
+  "vivir en venus",
+  "venus",
+  "nasa",
+  "planetas"
+ ],
+ "paleta": "espacio",
+ "miniatura": {
+  "texto": "¿UN DÍA MÁS LARGO QUE UN AÑO?",
+  "emojis": [
+   "🪐",
+   "🔥"
+  ]
+ },
+ "nota_veracidad": "Datos de la NASA: temperatura media en superficie de unos 465 °C, presión unas 90 veces la terrestre, rotación de 243 días terrestres y año de 225, giro retrógrado (el Sol sale por el oeste), nubes de ácido sulfúrico. La sonda soviética Venera 13 aguantó 127 minutos en 1982. Vivir allí es imposible: el video lo cuenta como juego.",
+ "fuentes": [
+  "NASA Science: 'Venus Facts'",
+  "NASA NSSDCA: misión Venera 13 (1982)"
+ ],
+ "claves": [
+  "venus",
+  "calor",
+  "plomo",
+  "día",
+  "año",
+  "oeste"
+ ],
+ "escenas": [
+  {
+   "texto": "¿Qué pasaría si te mudaras a vivir a Venus, el vecino de la Tierra?",
+   "tipo": "emoji",
+   "emojis": [
+    "🪐",
+    "🧳"
+   ],
+   "fondo": "tierra",
+   "animo": "sorpresa"
+  },
+  {
+   "texto": "Al bajar de la nave notarías algo raro: el aire te aplasta como si estuvieras a novecientos metros bajo el mar.",
+   "tipo": "numero",
+   "valor": "900",
+   "unidad": "metros bajo el mar",
+   "emojis": [
+    "🌊"
+   ],
+   "fondo": "oceano_profundo"
+  },
+  {
+   "texto": "Y hace un calor brutal: unos cuatrocientos sesenta y cinco grados. Más que un horno de pizza.",
+   "tipo": "numero",
+   "valor": "465",
+   "unidad": "grados en el suelo",
+   "emojis": [
+    "🔥"
+   ],
+   "fondo": "volcan",
+   "personajes": [
+    "astronauta"
+   ]
+  },
+  {
+   "texto": "A esa temperatura, el plomo se derrite como si fuera mantequilla.",
+   "tipo": "sello",
+   "emojis": [
+    "🧈"
+   ],
+   "sello": "¡Se derrite!",
+   "fondo": "volcan"
+  },
+  {
+   "texto": "Pero lo más loco es el reloj. Venus gira tan despacio que un día dura más que un año.",
+   "tipo": "versus",
+   "emojis": [
+    "☀️",
+    "📅"
+   ],
+   "rotulos": [
+    "Día: 243",
+    "Año: 225"
+   ],
+   "rotulo": "Días terrestres"
+  },
+  {
+   "texto": "Además gira al revés: allí el Sol sale por el oeste.",
+   "tipo": "emoji",
+   "emojis": [
+    "🌅",
+    "🔄"
+   ],
+   "rotulo": "Al revés",
+   "fondo": "volcan",
+   "personajes": [
+    "astronauta"
+   ],
+   "accion": "senalar"
+  },
+  {
+   "texto": "Y por si fuera poco, sus nubes están hechas de ácido.",
+   "tipo": "emoji",
+   "emojis": [
+    "☁️",
+    "🧪"
+   ],
+   "rotulo": "Nubes ácidas",
+   "fondo": "cielo"
+  },
+  {
+   "texto": "En mil novecientos ochenta y dos, un robot soviético aterrizó allí y mandó fotos.",
+   "tipo": "fecha",
+   "anio": "1982",
+   "emojis": [
+    "🤖"
+   ],
+   "rotulo": "Venera 13",
+   "fondo": "volcan"
+  },
+  {
+   "texto": "Aguantó solo dos horas antes de cocinarse.",
+   "tipo": "numero",
+   "valor": "127",
+   "unidad": "minutos aguantó",
+   "emojis": [
+    "⏱️"
+   ],
+   "fondo": "volcan"
+  },
+  {
+   "texto": "Así que mejor admirarlo desde aquí: es el punto más brillante del cielo después de la Luna.",
+   "tipo": "emoji",
+   "emojis": [
+    "✨",
+    "🔭"
+   ],
+   "rotulo": "Lucero",
+   "fondo": "noche",
+   "personajes": [
+    "chica"
+   ],
+   "accion": "senalar"
+  },
+  {
+   "texto": "¿Qué planeta visitamos ahora? Síguenos para más preguntas imposibles.",
+   "tipo": "final"
+  }
+ ]
+}

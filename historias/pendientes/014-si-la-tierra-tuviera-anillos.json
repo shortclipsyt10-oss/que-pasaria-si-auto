@@ -1,0 +1,171 @@
+{
+ "id": "014-si-la-tierra-tuviera-anillos",
+ "titulo": "¿Qué pasaría si la Tierra tuviera anillos como Saturno? 🪐",
+ "descripcion": "Un arco gigante cruzaría el cielo de día y de noche. Y puede que ya los tuviéramos hace millones de años.",
+ "hashtags": [
+  "#quepasariasi",
+  "#espacio",
+  "#saturno",
+  "#ciencia",
+  "#shorts"
+ ],
+ "etiquetas": [
+  "tierra con anillos",
+  "anillos de saturno",
+  "espacio",
+  "astronomía"
+ ],
+ "paleta": "espacio",
+ "miniatura": {
+  "texto": "¿Y SI TUVIÉRAMOS ANILLOS?",
+  "emojis": [
+   "🌍",
+   "🪐"
+  ]
+ },
+ "nota_veracidad": "Es un escenario imaginario. Datos reales: los anillos principales de Saturno se extienden unos 280.000 km y suelen tener unos diez metros de grosor (NASA). Tomkins et al. (2024) proponen, como hipótesis, que la Tierra tuvo un anillo hace unos 466 millones de años; no está confirmado. Cómo se verían desde cada latitud es una simplificación geométrica.",
+ "fuentes": [
+  "NASA Science: 'Saturn Facts' y 'Saturn's rings'",
+  "Tomkins, A. G. et al. (2024), Earth and Planetary Science Letters"
+ ],
+ "claves": [
+  "anillos",
+  "saturno",
+  "arco",
+  "cielo",
+  "diez",
+  "metros"
+ ],
+ "escenas": [
+  {
+   "texto": "¿Qué pasaría si la Tierra tuviera anillos como Saturno?",
+   "tipo": "emoji",
+   "emojis": [
+    "🪐",
+    "✨"
+   ],
+   "fondo": "tierra",
+   "animo": "feliz"
+  },
+  {
+   "texto": "Imagina despertar y ver un arco gigante y brillante cruzando todo el cielo.",
+   "tipo": "emoji",
+   "emojis": [
+    "🌈",
+    "✨"
+   ],
+   "rotulo": "El gran arco",
+   "fondo": "ciudad_color",
+   "personajes": [
+    "chica"
+   ],
+   "accion": "senalar"
+  },
+  {
+   "texto": "Los anillos de Saturno miden unos doscientos ochenta mil kilómetros de ancho.",
+   "tipo": "numero",
+   "valor": "280.000",
+   "unidad": "km de anillos",
+   "emojis": [
+    "🪐"
+   ],
+   "fondo": "espacio"
+  },
+  {
+   "texto": "Pero lo más loco es que suelen tener solo unos diez metros de grosor.",
+   "tipo": "numero",
+   "valor": "10",
+   "unidad": "metros de grosor",
+   "emojis": [
+    "📏"
+   ],
+   "fondo": "espacio"
+  },
+  {
+   "texto": "Están hechos de trozos de hielo y roca, desde granitos de arena hasta piedras como casas.",
+   "tipo": "lista",
+   "items": [
+    [
+     "🧊",
+     "Hielo"
+    ],
+    [
+     "🪨",
+     "Roca"
+    ],
+    [
+     "🏠",
+     "Algunos como casas"
+    ]
+   ],
+   "fondo": "espacio"
+  },
+  {
+   "texto": "Por la noche, el arco reflejaría la luz del Sol. Casi nunca estaría oscuro del todo.",
+   "tipo": "emoji",
+   "emojis": [
+    "🌙",
+    "💡"
+   ],
+   "rotulo": "Noche brillante",
+   "fondo": "ciudad_noche",
+   "personajes": [
+    "chico"
+   ]
+  },
+  {
+   "texto": "Y según dónde vivieras, lo verías alto, bajito o justo de canto, como una raya fina.",
+   "tipo": "emoji",
+   "emojis": [
+    "📐",
+    "🌍"
+   ],
+   "rotulo": "Depende del sitio",
+   "fondo": "playa",
+   "personajes": [
+    "gente"
+   ]
+  },
+  {
+   "texto": "Lo malo: su sombra caería sobre parte del planeta, y allí los inviernos serían más fríos.",
+   "tipo": "emoji",
+   "emojis": [
+    "🥶",
+    "🌑"
+   ],
+   "rotulo": "Sombra",
+   "fondo": "nieve",
+   "personajes": [
+    "hombre"
+   ],
+   "accion": "triste"
+  },
+  {
+   "texto": "Y ahora la sorpresa: unos científicos creen que la Tierra pudo tener un anillo hace cuatrocientos sesenta millones de años.",
+   "tipo": "numero",
+   "valor": "466",
+   "unidad": "millones de años atrás",
+   "emojis": [
+    "🌍"
+   ],
+   "fondo": "espacio"
+  },
+  {
+   "texto": "Todavía es solo una hipótesis, pero sería precioso.",
+   "tipo": "duda",
+   "emojis": [
+    "🪐",
+    "🌍"
+   ],
+   "sello": "¿Hipótesis?",
+   "fondo": "laboratorio",
+   "personajes": [
+    "cientifico"
+   ]
+  },
+  {
+   "texto": "¿Te gustaría verlos? Síguenos para más preguntas imposibles.",
+   "tipo": "final"
+  }
+ ]
+}

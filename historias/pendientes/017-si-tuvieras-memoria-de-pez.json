@@ -1,0 +1,159 @@
+{
+ "id": "017-si-tuvieras-memoria-de-pez",
+ "titulo": "¿Y si tuvieras la memoria de un pez? 🐟",
+ "descripcion": "Dicen que un pez olvida todo en tres segundos. Los científicos les han enseñado trucos que recuerdan durante meses.",
+ "hashtags": [
+  "#quepasariasi",
+  "#animales",
+  "#mitos",
+  "#ciencia",
+  "#shorts"
+ ],
+ "etiquetas": [
+  "memoria de pez",
+  "pez dorado",
+  "mito",
+  "animales"
+ ],
+ "paleta": "animales",
+ "miniatura": {
+  "texto": "¿3 SEGUNDOS DE MEMORIA?",
+  "emojis": [
+   "🐟",
+   "🧠"
+  ]
+ },
+ "nota_veracidad": "El mito de los tres segundos es falso. En experimentos, peces de colores y otros peces aprendieron a pulsar palancas o asociar sonidos con comida y lo recordaron durante meses (p. ej., Universidad de Plymouth, Gee y colaboradores, 2003; estudios de Brown, Macquarie University). Los peces arqueros de Schuster et al. (2006) aprenden observando. Las cifras exactas dependen de la especie y del experimento.",
+ "fuentes": [
+  "Brown, C. (2015), Animal Cognition, 'Fish intelligence, sentience and ethics'",
+  "Universidad de Plymouth (2003): peces entrenados con palancas de comida",
+  "Schuster, S. et al. (2006), Current Biology: peces arqueros que aprenden observando"
+ ],
+ "claves": [
+  "pez",
+  "memoria",
+  "tres",
+  "segundos",
+  "meses",
+  "falso"
+ ],
+ "escenas": [
+  {
+   "texto": "¿Qué pasaría si tuvieras la memoria de un pez?",
+   "tipo": "pregunta",
+   "emojis": [
+    "🐟",
+    "🧠"
+   ]
+  },
+  {
+   "texto": "Según el dicho, olvidarías todo cada tres segundos.",
+   "tipo": "numero",
+   "valor": "3",
+   "unidad": "segundos de memoria",
+   "emojis": [
+    "⏱️"
+   ],
+   "fondo": "bajo_agua"
+  },
+  {
+   "texto": "Saludarías a tu mejor amigo como si fuera un desconocido. Una y otra vez.",
+   "tipo": "emoji",
+   "emojis": [
+    "👋",
+    "❓"
+   ],
+   "rotulo": "¿Y tú quién eres?",
+   "fondo": "ciudad_color",
+   "personajes": [
+    "chico",
+    "chica"
+   ],
+   "accion": "hablar"
+  },
+  {
+   "texto": "Pero espera… ¿de verdad los peces son tan olvidadizos?",
+   "tipo": "duda",
+   "emojis": [
+    "🐠"
+   ],
+   "sello": "¿Mito?",
+   "fondo": "bajo_agua"
+  },
+  {
+   "texto": "Unos científicos enseñaron a peces a empujar una palanca para conseguir comida.",
+   "tipo": "emoji",
+   "emojis": [
+    "🐟",
+    "🍽️"
+   ],
+   "rotulo": "Experimento",
+   "fondo": "laboratorio",
+   "personajes": [
+    "cientifico"
+   ],
+   "accion": "senalar"
+  },
+  {
+   "texto": "Y meses después, los peces seguían recordando el truco.",
+   "tipo": "numero",
+   "valor": "3",
+   "unidad": "meses recordando",
+   "emojis": [
+    "📅"
+   ],
+   "fondo": "laboratorio"
+  },
+  {
+   "texto": "Otros aprenden a reconocer a la persona que les da de comer y nadan hacia ella.",
+   "tipo": "emoji",
+   "emojis": [
+    "🐠",
+    "🙋"
+   ],
+   "rotulo": "¡Es ella!",
+   "fondo": "casa",
+   "personajes": [
+    "mujer"
+   ],
+   "accion": "celebrar"
+  },
+  {
+   "texto": "Y hay peces que aprenden a cazar solo con mirar a otro hacerlo.",
+   "tipo": "emoji",
+   "emojis": [
+    "👀",
+    "🐟"
+   ],
+   "rotulo": "Copiones",
+   "fondo": "bajo_agua"
+  },
+  {
+   "texto": "Así que el mito de los tres segundos es totalmente falso.",
+   "tipo": "sello",
+   "emojis": [
+    "🐟"
+   ],
+   "sello": "¡Falso!",
+   "fondo": "bajo_agua"
+  },
+  {
+   "texto": "Si tuvieras memoria de pez, en realidad te acordarías bastante bien de las cosas.",
+   "tipo": "emoji",
+   "emojis": [
+    "🧠",
+    "✅"
+   ],
+   "rotulo": "Buena memoria",
+   "fondo": "casa",
+   "personajes": [
+    "chico"
+   ],
+   "accion": "celebrar"
+  },
+  {
+   "texto": "¿Te acordarás de este video? Síguenos para más preguntas imposibles.",
+   "tipo": "final"
+  }
+ ]
+}

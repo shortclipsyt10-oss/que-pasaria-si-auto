@@ -1,0 +1,168 @@
+{
+ "id": "015-si-fueras-del-tamano-de-una-hormiga",
+ "titulo": "¿Qué pasaría si fueras del tamaño de una hormiga? 🐜",
+ "descripcion": "Podrías caer desde un edificio sin hacerte daño… pero una gota de agua sería tu peor enemiga.",
+ "hashtags": [
+  "#quepasariasi",
+  "#física",
+  "#hormigas",
+  "#ciencia",
+  "#shorts"
+ ],
+ "etiquetas": [
+  "tamaño de una hormiga",
+  "física",
+  "tensión superficial",
+  "escala"
+ ],
+ "paleta": "ciencia",
+ "miniatura": {
+  "texto": "¿Y SI MIDIERAS 3 MM?",
+  "emojis": [
+   "🐜",
+   "🧍"
+  ]
+ },
+ "nota_veracidad": "Es una situación imaginaria que usa leyes reales de escala (J. B. S. Haldane, 'On Being the Right Size', 1926; Kurzgesagt, 2016). Los insectos tienen velocidades terminales bajas y aterrizan sin daño; la tensión superficial domina a escala de milímetros. Un humano encogido no funcionaría biológicamente igual (pulmones, cerebro), y eso es la parte especulativa.",
+ "fuentes": [
+  "Haldane, J. B. S. (1926), 'On Being the Right Size'",
+  "Kurzgesagt (2016), 'What if you were the size of an ant?' (versión divulgativa)",
+  "Yanoviak, S. P. et al. (2005), Nature: hormigas que planean al caer de los árboles"
+ ],
+ "claves": [
+  "hormiga",
+  "caer",
+  "aire",
+  "gota",
+  "agua",
+  "fuerza"
+ ],
+ "escenas": [
+  {
+   "texto": "¿Qué pasaría si de repente fueras del tamaño de una hormiga?",
+   "tipo": "pregunta",
+   "emojis": [
+    "🐜",
+    "🔍"
+   ]
+  },
+  {
+   "texto": "Medirías unos tres milímetros. Una hoja sería tu paraguas.",
+   "tipo": "numero",
+   "valor": "3",
+   "unidad": "milímetros de altura",
+   "emojis": [
+    "🍃"
+   ],
+   "fondo": "bosque",
+   "personajes": [
+    "chico"
+   ]
+  },
+  {
+   "texto": "Primera sorpresa: podrías caer desde lo alto de un rascacielos y aterrizar tan tranquilo.",
+   "tipo": "emoji",
+   "emojis": [
+    "🏙️",
+    "⬇️"
+   ],
+   "rotulo": "¡Sin daño!",
+   "fondo": "cielo",
+   "personajes": [
+    "chico"
+   ],
+   "accion": "celebrar"
+  },
+  {
+   "texto": "Al ser tan pequeño, el aire te frena muchísimo. Caerías despacito, como una pelusa.",
+   "tipo": "emoji",
+   "emojis": [
+    "💨",
+    "🪶"
+   ],
+   "rotulo": "Frenado por el aire",
+   "fondo": "cielo"
+  },
+  {
+   "texto": "Segunda sorpresa: te sentirías forzudo. Podrías levantar varias veces tu peso.",
+   "tipo": "emoji",
+   "emojis": [
+    "💪",
+    "🐜"
+   ],
+   "rotulo": "Superfuerza",
+   "fondo": "bosque",
+   "personajes": [
+    "atleta"
+   ],
+   "accion": "celebrar"
+  },
+  {
+   "texto": "Pero el agua se volvería un problema muy pegajoso.",
+   "tipo": "sello",
+   "emojis": [
+    "💧"
+   ],
+   "sello": "¡Cuidado!",
+   "fondo": "bosque"
+  },
+  {
+   "texto": "A tu tamaño, una gota se te pegaría como un globo de gelatina. Costaría muchísimo soltarte.",
+   "tipo": "emoji",
+   "emojis": [
+    "💧",
+    "🫧"
+   ],
+   "rotulo": "Gota pegajosa",
+   "fondo": "bosque",
+   "personajes": [
+    "chico"
+   ],
+   "accion": "triste"
+  },
+  {
+   "texto": "Eso se llama tensión superficial. Por eso algunos insectos caminan sobre el agua.",
+   "tipo": "emoji",
+   "emojis": [
+    "🦟",
+    "🌊"
+   ],
+   "rotulo": "Tensión superficial",
+   "fondo": "laboratorio",
+   "personajes": [
+    "cientifico"
+   ],
+   "accion": "hablar"
+  },
+  {
+   "texto": "Y un gato o un pájaro serían para ti más grandes que un dinosaurio.",
+   "tipo": "versus",
+   "emojis": [
+    "🧍",
+    "🐈"
+   ],
+   "rotulos": [
+    "Tú",
+    "Gato gigante"
+   ],
+   "rotulo": "Nuevo tamaño"
+  },
+  {
+   "texto": "Eso sí, esto es imaginario: un cuerpo humano tan pequeño no funcionaría igual por dentro.",
+   "tipo": "duda",
+   "emojis": [
+    "🧠",
+    "❓"
+   ],
+   "sello": "¿Posible?",
+   "fondo": "laboratorio",
+   "personajes": [
+    "cientifico"
+   ]
+  },
+  {
+   "texto": "¿Te encogerías un día? Síguenos para más preguntas imposibles.",
+   "tipo": "final"
+  }
+ ]
+}

@@ -1,0 +1,167 @@
+{
+ "id": "013-si-te-tragaras-un-chicle",
+ "titulo": "¿Qué pasaría si te tragaras un chicle? 🍬",
+ "descripcion": "Dicen que se queda siete años en tu estómago. Tu cuerpo tiene otros planes.",
+ "hashtags": [
+  "#quepasariasi",
+  "#mitos",
+  "#cuerpohumano",
+  "#ciencia",
+  "#shorts"
+ ],
+ "etiquetas": [
+  "tragar chicle",
+  "mito",
+  "estómago",
+  "digestión"
+ ],
+ "paleta": "cuerpo",
+ "miniatura": {
+  "texto": "¿7 AÑOS EN TU TRIPA?",
+  "emojis": [
+   "🍬",
+   "😱"
+  ]
+ },
+ "nota_veracidad": "La base del chicle (gomas y resinas) no se digiere, pero el intestino la mueve igual que otras cosas indigeribles y sale en pocos días. Los casos de obstrucción son rarísimos y descritos en niños que tragaban muchísimos chicles a menudo (Milov et al., 1998, Pediatrics). Lo de los siete años es un mito.",
+ "fuentes": [
+  "Clínica Mayo: 'Is it harmful to swallow gum?'",
+  "Milov, D. E. et al. (1998), Pediatrics, 'Chewing gum bezoars of the gastrointestinal tract'",
+  "Harvard Health Publishing: 'Does swallowed gum stay in your stomach?'"
+ ],
+ "claves": [
+  "chicle",
+  "siete",
+  "años",
+  "mito",
+  "días",
+  "intestino"
+ ],
+ "escenas": [
+  {
+   "texto": "¿Qué pasaría si te tragaras un chicle sin querer?",
+   "tipo": "pregunta",
+   "emojis": [
+    "🍬",
+    "😮"
+   ]
+  },
+  {
+   "texto": "Seguro que alguien te lo dijo de pequeño: se queda pegado en tu estómago siete años.",
+   "tipo": "duda",
+   "emojis": [
+    "🍬",
+    "⏳"
+   ],
+   "sello": "¿Mito?",
+   "fondo": "casa",
+   "personajes": [
+    "anciano",
+    "nino"
+   ],
+   "accion": "hablar"
+  },
+  {
+   "texto": "Vamos a seguir al chicle en su viaje.",
+   "tipo": "emoji",
+   "emojis": [
+    "🧭"
+   ],
+   "rotulo": "El viaje",
+   "fondo": "casa",
+   "personajes": [
+    "chico"
+   ],
+   "accion": "senalar"
+  },
+  {
+   "texto": "Primero cae al estómago, un saco lleno de ácido que lo deshace casi todo.",
+   "tipo": "emoji",
+   "emojis": [
+    "🧪"
+   ],
+   "rotulo": "Ácido",
+   "fondo": "laboratorio",
+   "personajes": [
+    "medico"
+   ],
+   "accion": "hablar"
+  },
+  {
+   "texto": "Pero la goma del chicle es muy terca. No se digiere.",
+   "tipo": "sello",
+   "emojis": [
+    "🍬"
+   ],
+   "sello": "¡Resiste!",
+   "fondo": "laboratorio"
+  },
+  {
+   "texto": "Y aquí viene lo bueno: no hace falta digerirla.",
+   "tipo": "emoji",
+   "emojis": [
+    "💡"
+   ],
+   "rotulo": "Plan B",
+   "fondo": "laboratorio",
+   "personajes": [
+    "cientifico"
+   ],
+   "accion": "celebrar"
+  },
+  {
+   "texto": "Tu intestino mide unos siete metros y empuja todo hacia delante, como una cinta transportadora.",
+   "tipo": "numero",
+   "valor": "7",
+   "unidad": "metros de intestino",
+   "emojis": [
+    "🔄"
+   ],
+   "fondo": "laboratorio",
+   "personajes": [
+    "medico"
+   ]
+  },
+  {
+   "texto": "Así que el chicle sale del cuerpo en unos pocos días, igual que las pepitas de fruta.",
+   "tipo": "numero",
+   "valor": "3",
+   "unidad": "días, más o menos",
+   "emojis": [
+    "🚽"
+   ],
+   "fondo": "casa"
+  },
+  {
+   "texto": "Siete años, nada de nada.",
+   "tipo": "sello",
+   "emojis": [
+    "⏳"
+   ],
+   "sello": "¡Falso!",
+   "fondo": "casa",
+   "personajes": [
+    "chica"
+   ],
+   "accion": "celebrar"
+  },
+  {
+   "texto": "Eso sí, los médicos aconsejan no tragarse muchos seguidos, sobre todo los niños.",
+   "tipo": "emoji",
+   "emojis": [
+    "⚠️"
+   ],
+   "rotulo": "Con calma",
+   "fondo": "casa",
+   "personajes": [
+    "medico",
+    "nino"
+   ],
+   "accion": "senalar"
+  },
+  {
+   "texto": "¿A ti también te lo dijeron? Síguenos para más preguntas imposibles.",
+   "tipo": "final"
+  }
+ ]
+}

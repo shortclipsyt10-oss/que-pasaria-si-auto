@@ -1,0 +1,153 @@
+{
+ "id": "018-si-los-dinosaurios-no-se-hubieran-extinguido",
+ "titulo": "¿Qué pasaría si los dinosaurios no se hubieran extinguido? 🦖",
+ "descripcion": "Si el asteroide hubiera pasado de largo, el mundo sería muy distinto. Y quizá tú no estarías aquí viéndolo.",
+ "hashtags": [
+  "#quepasariasi",
+  "#dinosaurios",
+  "#historia",
+  "#ciencia",
+  "#shorts"
+ ],
+ "etiquetas": [
+  "dinosaurios",
+  "asteroide",
+  "extinción",
+  "evolución"
+ ],
+ "paleta": "historia",
+ "miniatura": {
+  "texto": "¿Y SI EL ASTEROIDE FALLARA?",
+  "emojis": [
+   "🦖",
+   "☄️"
+  ]
+ },
+ "nota_veracidad": "Datos reales: el asteroide de Chicxulub cayó hace unos 66 millones de años, medía unos 10 km y acabó con los dinosaurios no avianos (Schulte et al., 2010, Science). Las aves son dinosaurios. Los mamíferos se diversificaron después. El 'mundo alternativo' es especulación: nadie sabe cómo habría seguido la evolución.",
+ "fuentes": [
+  "Schulte, P. et al. (2010), Science, 'The Chicxulub asteroid impact and mass extinction'",
+  "Museo de Historia Natural de Londres: 'Birds are dinosaurs'",
+  "Brusatte, S. (2018), 'Auge y caída de los dinosaurios'"
+ ],
+ "claves": [
+  "dinosaurios",
+  "asteroide",
+  "mamíferos",
+  "aves",
+  "millones",
+  "años"
+ ],
+ "escenas": [
+  {
+   "texto": "¿Qué pasaría si los dinosaurios no se hubieran extinguido?",
+   "tipo": "pregunta",
+   "emojis": [
+    "🦖",
+    "☄️"
+   ]
+  },
+  {
+   "texto": "Hace sesenta y seis millones de años, un asteroide de unos diez kilómetros chocó contra la Tierra.",
+   "tipo": "numero",
+   "valor": "66",
+   "unidad": "millones de años atrás",
+   "emojis": [
+    "☄️"
+   ],
+   "fondo": "espacio"
+  },
+  {
+   "texto": "Imagina que pasa de largo, rozando por muy poquito.",
+   "tipo": "sello",
+   "emojis": [
+    "☄️",
+    "💨"
+   ],
+   "sello": "¡Fallo!",
+   "fondo": "espacio"
+  },
+  {
+   "texto": "Los dinosaurios seguirían siendo los reyes del planeta.",
+   "tipo": "emoji",
+   "emojis": [
+    "🦖",
+    "👑"
+   ],
+   "rotulo": "Los reyes",
+   "fondo": "bosque"
+  },
+  {
+   "texto": "Y nosotros, los mamíferos, seguiríamos siendo bichitos del tamaño de una rata, escondidos de noche.",
+   "tipo": "emoji",
+   "emojis": [
+    "🐀",
+    "🌙"
+   ],
+   "rotulo": "Pequeñitos",
+   "fondo": "noche"
+  },
+  {
+   "texto": "Fue justo la desaparición de los dinosaurios lo que dejó espacio a los mamíferos para crecer.",
+   "tipo": "versus",
+   "emojis": [
+    "🦕",
+    "🐘"
+   ],
+   "rotulos": [
+    "Antes",
+    "Después"
+   ],
+   "rotulo": "El gran cambio"
+  },
+  {
+   "texto": "Así que, probablemente, los humanos nunca habríamos existido.",
+   "tipo": "duda",
+   "emojis": [
+    "🧍",
+    "❓"
+   ],
+   "sello": "¿Quizás?",
+   "fondo": "laboratorio",
+   "personajes": [
+    "cientifico"
+   ]
+  },
+  {
+   "texto": "Las ciudades serían selvas, y en la playa veríamos huellas gigantes.",
+   "tipo": "emoji",
+   "emojis": [
+    "🦶",
+    "🌴"
+   ],
+   "rotulo": "Huellas",
+   "fondo": "playa"
+  },
+  {
+   "texto": "Pero aquí va la sorpresa: los dinosaurios nunca desaparecieron del todo.",
+   "tipo": "sello",
+   "emojis": [
+    "🦖"
+   ],
+   "sello": "¡Siguen!",
+   "fondo": "ciudad_color"
+  },
+  {
+   "texto": "Las aves son sus descendientes. Cada paloma de tu calle es, técnicamente, un dinosaurio.",
+   "tipo": "emoji",
+   "emojis": [
+    "🐦",
+    "🦖"
+   ],
+   "rotulo": "Dinosaurio urbano",
+   "fondo": "ciudad_color",
+   "personajes": [
+    "nino"
+   ],
+   "accion": "senalar"
+  },
+  {
+   "texto": "¿Lo sabías? Síguenos para más preguntas imposibles.",
+   "tipo": "final"
+  }
+ ]
+}
