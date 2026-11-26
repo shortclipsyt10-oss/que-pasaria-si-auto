@@ -1,0 +1,156 @@
+{
+ "id": "024-si-buscaras-la-muralla-china-desde-el-espacio",
+ "titulo": "¿Se ve la Muralla China desde el espacio? Esto verías de verdad 🛰️",
+ "descripcion": "Es uno de los mitos más repetidos del mundo. Los astronautas lo han comprobado, y la respuesta te va a sorprender.",
+ "hashtags": [
+  "#quepasariasi",
+  "#murallachina",
+  "#mitos",
+  "#espacio",
+  "#shorts"
+ ],
+ "etiquetas": [
+  "muralla china",
+  "mitos",
+  "estación espacial",
+  "astronautas"
+ ],
+ "paleta": "historia",
+ "miniatura": {
+  "texto": "¿SE VE DESDE EL ESPACIO?",
+  "emojis": [
+   "🧱",
+   "🛰️"
+  ]
+ },
+ "nota_veracidad": "Datos reales: el estudio oficial chino de 2012 midió unos 21.196 km para el conjunto de murallas; la mayoría de los tramos miden menos de 10 m de ancho; la Estación Espacial Internacional orbita a unos 400 km. La NASA explica que a simple vista no se distingue desde la órbita (su color se confunde con el terreno) y el astronauta chino Yang Liwei dijo en 2003 que no la vio; sí aparece en fotos con teleobjetivo. La comparación con un pelo es aproximada.",
+ "fuentes": [
+  "NASA Earth Observatory: 'Great Wall of China' / 'China's Wall Less Great in View from Space' (2004)",
+  "Administración Estatal del Patrimonio Cultural de China (2012): medición de 21.196 km",
+  "NASA: altitud orbital de la Estación Espacial Internacional"
+ ],
+ "claves": [
+  "muralla",
+  "espacio",
+  "astronautas",
+  "mito",
+  "kilómetros"
+ ],
+ "escenas": [
+  {
+   "texto": "¿Qué pasaría si subieras al espacio a buscar la Muralla China con tus propios ojos?",
+   "tipo": "pregunta",
+   "emojis": [
+    "🧱",
+    "🛰️"
+   ]
+  },
+  {
+   "texto": "Te han dicho mil veces que es lo único hecho por humanos que se ve desde allí arriba.",
+   "tipo": "duda",
+   "emojis": [
+    "🧱",
+    "👀"
+   ],
+   "sello": "¿Mito?",
+   "fondo": "ciudad_color",
+   "personajes": [
+    "nino",
+    "anciano"
+   ],
+   "accion": "hablar"
+  },
+  {
+   "texto": "Y es enorme: más de veintiún mil kilómetros contando todos sus tramos.",
+   "tipo": "numero",
+   "valor": "21.196",
+   "unidad": "kilómetros",
+   "emojis": [
+    "🧱"
+   ],
+   "fondo": "campo"
+  },
+  {
+   "texto": "Subes a la Estación Espacial, a unos cuatrocientos kilómetros de altura.",
+   "tipo": "numero",
+   "valor": "400",
+   "unidad": "km de altura",
+   "emojis": [
+    "🛰️"
+   ],
+   "fondo": "espacio",
+   "personajes": [
+    "astronauta"
+   ]
+  },
+  {
+   "texto": "Miras por la ventana, buscas, buscas... y nada.",
+   "tipo": "sello",
+   "emojis": [
+    "🔍"
+   ],
+   "sello": "¡Nada!",
+   "fondo": "espacio",
+   "personajes": [
+    "astronauta"
+   ],
+   "accion": "triste"
+  },
+  {
+   "texto": "El problema no es lo larga que es, sino lo estrecha: casi siempre mide menos de diez metros de ancho.",
+   "tipo": "versus",
+   "emojis": [
+    "📏",
+    "🛣️"
+   ],
+   "rotulos": [
+    "Muy larga",
+    "Muy estrecha"
+   ],
+   "rotulo": "El truco"
+  },
+  {
+   "texto": "Verla desde ahí sería como intentar ver un pelo desde varios kilómetros de distancia.",
+   "tipo": "emoji",
+   "emojis": [
+    "💇",
+    "🔭"
+   ],
+   "rotulo": "Casi imposible",
+   "fondo": "cielo"
+  },
+  {
+   "texto": "Y encima es del mismo color que las montañas que la rodean.",
+   "tipo": "emoji",
+   "emojis": [
+    "⛰️",
+    "🎨"
+   ],
+   "rotulo": "Camuflada",
+   "fondo": "campo"
+  },
+  {
+   "texto": "El primer astronauta chino, Yang Liwei, lo confirmó en dos mil tres: no la vio.",
+   "tipo": "fecha",
+   "anio": "2003",
+   "emojis": [
+    "🧑‍🚀"
+   ],
+   "rotulo": "Comprobado"
+  },
+  {
+   "texto": "Lo que sí se ven de noche son las luces de las ciudades.",
+   "tipo": "emoji",
+   "emojis": [
+    "🌃",
+    "✨"
+   ],
+   "rotulo": "Esto sí",
+   "fondo": "ciudad_noche"
+  },
+  {
+   "texto": "Mito desmontado. Síguenos para más preguntas imposibles.",
+   "tipo": "final"
+  }
+ ]
+}

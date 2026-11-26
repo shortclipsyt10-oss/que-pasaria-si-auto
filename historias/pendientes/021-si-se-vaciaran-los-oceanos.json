@@ -1,0 +1,153 @@
+{
+ "id": "021-si-se-vaciaran-los-oceanos",
+ "titulo": "¿Qué pasaría si vaciáramos todos los océanos? 🌊",
+ "descripcion": "Sin agua, el fondo del mar nos enseñaría montañas más altas que el Everest y la cordillera más larga del planeta.",
+ "hashtags": [
+  "#quepasariasi",
+  "#oceano",
+  "#tierra",
+  "#ciencia",
+  "#shorts"
+ ],
+ "etiquetas": [
+  "vaciar el océano",
+  "océanos",
+  "fosa de las marianas",
+  "geografía"
+ ],
+ "paleta": "oceano",
+ "miniatura": {
+  "texto": "¿Y SI QUITAMOS EL MAR?",
+  "emojis": [
+   "🌊",
+   "🏔️"
+  ]
+ },
+ "nota_veracidad": "Datos reales (NOAA): los océanos contienen unos 1.335 millones de km³ de agua, con una profundidad media de unos 3.700 m; la fosa de las Marianas llega a unos 11.000 m; la dorsal oceánica es la cordillera más larga de la Tierra, de unos 65.000 km; el Mauna Kea mide más de 10.000 m desde su base en el fondo marino. La idea de 'vaciar' el océano está inspirada en el 'Drain the Oceans' de Randall Munroe; el escenario es imaginario.",
+ "fuentes": [
+  "NOAA Ocean Service: 'How deep is the ocean?' y 'What is the longest mountain range on earth?'",
+  "USGS: 'Mauna Kea, tallest mountain'",
+  "Munroe, R. (2014), 'What If?', capítulo 'Drain the Oceans'"
+ ],
+ "claves": [
+  "océanos",
+  "agua",
+  "montañas",
+  "everest",
+  "fosa"
+ ],
+ "escenas": [
+  {
+   "texto": "¿Qué pasaría si quitáramos el tapón y vaciáramos todos los océanos?",
+   "tipo": "emoji",
+   "emojis": [
+    "🌊",
+    "🚿"
+   ],
+   "fondo": "tierra",
+   "animo": "sorpresa"
+  },
+  {
+   "texto": "Habría que sacar más de mil trescientos millones de kilómetros cúbicos de agua.",
+   "tipo": "numero",
+   "valor": "1.335.000.000",
+   "unidad": "km³ de agua",
+   "emojis": [
+    "💧"
+   ],
+   "fondo": "playa"
+  },
+  {
+   "texto": "Al bajar el nivel, los barcos se quedan varados en la arena. Los peces, por suerte, los rescatamos antes.",
+   "tipo": "emoji",
+   "emojis": [
+    "🚢",
+    "🐟"
+   ],
+   "rotulo": "Barcos varados",
+   "fondo": "playa",
+   "personajes": [
+    "marinero"
+   ],
+   "accion": "senalar"
+  },
+  {
+   "texto": "Y aparece un paisaje que casi nadie ha visto: el fondo del mar, a unos tres mil setecientos metros de media.",
+   "tipo": "numero",
+   "valor": "3.700",
+   "unidad": "metros de media",
+   "emojis": [
+    "🌑"
+   ],
+   "fondo": "oceano_profundo"
+  },
+  {
+   "texto": "Allí está la cordillera más larga del planeta, de sesenta y cinco mil kilómetros.",
+   "tipo": "numero",
+   "valor": "65.000",
+   "unidad": "km de montañas",
+   "emojis": [
+    "🏔️"
+   ],
+   "fondo": "oceano_profundo",
+   "personajes": [
+    "explorador"
+   ]
+  },
+  {
+   "texto": "Y la fosa de las Marianas, un barranco de once kilómetros donde cabría el Everest entero.",
+   "tipo": "versus",
+   "emojis": [
+    "🕳️",
+    "🏔️"
+   ],
+   "rotulos": [
+    "11.000 m",
+    "8.849 m"
+   ],
+   "rotulo": "Fosa vs. Everest"
+  },
+  {
+   "texto": "Sorpresa: la montaña más alta, contando desde su base, sería el Mauna Kea de Hawái, con más de diez mil metros.",
+   "tipo": "sello",
+   "emojis": [
+    "🌋"
+   ],
+   "sello": "¡Récord!",
+   "fondo": "volcan"
+  },
+  {
+   "texto": "Podrías caminar de América a Europa por el fondo del Atlántico.",
+   "tipo": "emoji",
+   "emojis": [
+    "🥾",
+    "🗺️"
+   ],
+   "rotulo": "Paseo épico",
+   "fondo": "desierto",
+   "personajes": [
+    "explorador",
+    "chica"
+   ],
+   "accion": "andar"
+  },
+  {
+   "texto": "Eso sí, tardarías meses y no habría ni una sombra.",
+   "tipo": "emoji",
+   "emojis": [
+    "☀️",
+    "🥵"
+   ],
+   "rotulo": "Mucho calor",
+   "fondo": "desierto",
+   "personajes": [
+    "chica"
+   ],
+   "accion": "triste"
+  },
+  {
+   "texto": "Mejor volvemos a llenarlo, ¿no? Síguenos para más preguntas imposibles.",
+   "tipo": "final"
+  }
+ ]
+}

@@ -1,0 +1,159 @@
+{
+ "id": "019-si-la-gravedad-desapareciera-5-segundos",
+ "titulo": "¿Qué pasaría si la gravedad desapareciera 5 segundos? 🌍",
+ "descripcion": "Cinco segundos sin gravedad parecen poca cosa. Hasta que intentas volver a bajar.",
+ "hashtags": [
+  "#quepasariasi",
+  "#gravedad",
+  "#fisica",
+  "#ciencia",
+  "#shorts"
+ ],
+ "etiquetas": [
+  "qué pasaría si",
+  "gravedad",
+  "física",
+  "tierra"
+ ],
+ "paleta": "espacio",
+ "miniatura": {
+  "texto": "¿5 SEGUNDOS SIN GRAVEDAD?",
+  "emojis": [
+   "🌍",
+   "🎈"
+  ]
+ },
+ "nota_veracidad": "Datos reales: en el ecuador la Tierra gira a unos 1.670 km/h (465 m/s); la atmósfera se sostiene por la gravedad; en caída libre se baja unos 4,9 m en el primer segundo (½·g·t²). El escenario es imposible y simplificado: en 5 s la curvatura de la Tierra solo te separaría unos centímetros, y lo que más se notaría es el aire y el agua 'relajándose' hacia arriba al perder su peso; el reparto exacto de efectos es especulativo.",
+ "fuentes": [
+  "NASA Glenn Research Center: 'Gravity' y caída libre",
+  "NASA Earth Fact Sheet (velocidad de rotación ecuatorial)",
+  "Munroe, R. (2014), 'What If?' (planteamientos de física absurda)"
+ ],
+ "claves": [
+  "gravedad",
+  "segundos",
+  "flotar",
+  "aire",
+  "caída"
+ ],
+ "escenas": [
+  {
+   "texto": "¿Qué pasaría si la gravedad desapareciera durante cinco segundos?",
+   "tipo": "emoji",
+   "emojis": [
+    "🌍",
+    "🎈"
+   ],
+   "fondo": "tierra",
+   "animo": "sorpresa"
+  },
+  {
+   "texto": "Primer segundo: el pequeño empujón de tus pies te despega del suelo, despacito.",
+   "tipo": "emoji",
+   "emojis": [
+    "🦶",
+    "⬆️"
+   ],
+   "rotulo": "Despegue",
+   "fondo": "ciudad_color",
+   "personajes": [
+    "chica",
+    "chico"
+   ],
+   "accion": "celebrar"
+  },
+  {
+   "texto": "El café sale de la taza en forma de bolitas flotantes.",
+   "tipo": "emoji",
+   "emojis": [
+    "☕",
+    "🫧"
+   ],
+   "rotulo": "Café en bolitas",
+   "fondo": "casa",
+   "personajes": [
+    "hombre"
+   ]
+  },
+  {
+   "texto": "La Tierra sigue girando a unos mil seiscientos setenta kilómetros por hora en el ecuador.",
+   "tipo": "numero",
+   "valor": "1.670",
+   "unidad": "km/h en el ecuador",
+   "emojis": [
+    "🌍"
+   ],
+   "fondo": "espacio"
+  },
+  {
+   "texto": "Pero nada nos tira hacia ella, así que todo empieza a soltarse: el aire, el agua del mar, los perros despistados.",
+   "tipo": "lista",
+   "items": [
+    [
+     "💨",
+     "El aire"
+    ],
+    [
+     "🌊",
+     "El mar"
+    ],
+    [
+     "🐕",
+     "Tu perro"
+    ]
+   ]
+  },
+  {
+   "texto": "Lo más raro: el aire, sin peso, se expande hacia arriba y te zumban los oídos.",
+   "tipo": "sello",
+   "emojis": [
+    "👂",
+    "💨"
+   ],
+   "sello": "¡Pop!",
+   "fondo": "cielo"
+  },
+  {
+   "texto": "Segundo cinco: la gravedad vuelve de golpe.",
+   "tipo": "numero",
+   "valor": "5",
+   "unidad": "segundos",
+   "emojis": [
+    "⏱️"
+   ],
+   "fondo": "cielo"
+  },
+  {
+   "texto": "Y caes. Por suerte solo subiste un poquito, así que el aterrizaje es más bien de colchón.",
+   "tipo": "emoji",
+   "emojis": [
+    "🛏️",
+    "😅"
+   ],
+   "rotulo": "Aterrizaje",
+   "fondo": "ciudad_color",
+   "personajes": [
+    "chico"
+   ],
+   "accion": "tumbado"
+  },
+  {
+   "texto": "El café, en cambio, cae directo en tus pantalones.",
+   "tipo": "sello",
+   "emojis": [
+    "☕",
+    "👖"
+   ],
+   "sello": "¡Splash!",
+   "fondo": "casa",
+   "personajes": [
+    "hombre"
+   ],
+   "accion": "triste"
+  },
+  {
+   "texto": "Moraleja: cinco segundos bastan para que el universo te gaste una broma. Síguenos para más preguntas imposibles.",
+   "tipo": "final"
+  }
+ ]
+}

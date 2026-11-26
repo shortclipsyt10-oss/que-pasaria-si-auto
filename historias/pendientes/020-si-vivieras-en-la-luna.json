@@ -1,0 +1,149 @@
+{
+ "id": "020-si-vivieras-en-la-luna",
+ "titulo": "¿Qué pasaría si vivieras en la Luna? 🌕",
+ "descripcion": "Saltarías como un canguro, pero tus días durarían casi un mes. Y la Tierra nunca se movería del cielo.",
+ "hashtags": [
+  "#quepasariasi",
+  "#luna",
+  "#espacio",
+  "#nasa",
+  "#shorts"
+ ],
+ "etiquetas": [
+  "vivir en la luna",
+  "luna",
+  "nasa",
+  "astronautas"
+ ],
+ "paleta": "espacio",
+ "miniatura": {
+  "texto": "¿UN DÍA DE 2 SEMANAS?",
+  "emojis": [
+   "🌕",
+   "🧑‍🚀"
+  ]
+ },
+ "nota_veracidad": "Datos de la NASA: la gravedad lunar es un 16,5 % de la terrestre (aprox. una sexta parte); la temperatura en el ecuador va de unos 120 °C de día a unos -130 °C de noche; el ciclo día-noche dura unos 29,5 días terrestres (unas dos semanas de luz y dos de oscuridad); la Luna tiene rotación síncrona, por eso desde su cara visible la Tierra se queda casi fija en el cielo y muestra fases. Saltar 'seis veces más alto' es una simplificación con traje espacial incluido.",
+ "fuentes": [
+  "NASA Science: 'Moon Facts'",
+  "NASA: 'Moon in Motion' / rotación síncrona",
+  "NASA Apollo Lunar Surface Journal"
+ ],
+ "claves": [
+  "luna",
+  "gravedad",
+  "día",
+  "noche",
+  "tierra"
+ ],
+ "escenas": [
+  {
+   "texto": "¿Qué pasaría si te mudaras a vivir a la Luna?",
+   "tipo": "pregunta",
+   "emojis": [
+    "🌕",
+    "🧳"
+   ]
+  },
+  {
+   "texto": "Lo primero que notas: pesas seis veces menos. Un paso normal se convierte en un salto de canguro.",
+   "tipo": "emoji",
+   "emojis": [
+    "🦘"
+   ],
+   "rotulo": "Modo canguro",
+   "fondo": "luna",
+   "personajes": [
+    "astronauta"
+   ],
+   "accion": "correr"
+  },
+  {
+   "texto": "Podrías encestar una canasta de baloncesto sin apenas esfuerzo.",
+   "tipo": "emoji",
+   "emojis": [
+    "🏀"
+   ],
+   "rotulo": "Mate fácil",
+   "fondo": "luna",
+   "personajes": [
+    "astronauta"
+   ],
+   "accion": "celebrar"
+  },
+  {
+   "texto": "Pero el día lunar dura unas dos semanas seguidas de sol.",
+   "tipo": "numero",
+   "valor": "14",
+   "unidad": "días de sol seguidos",
+   "emojis": [
+    "☀️"
+   ],
+   "fondo": "luna"
+  },
+  {
+   "texto": "El suelo llega a unos ciento veinte grados. Y la noche, otras dos semanas, baja a ciento treinta bajo cero.",
+   "tipo": "versus",
+   "emojis": [
+    "🔥",
+    "🥶"
+   ],
+   "rotulos": [
+    "120 °C",
+    "-130 °C"
+   ],
+   "rotulo": "Día vs. noche"
+  },
+  {
+   "texto": "Sin aire, no hay viento ni sonido. Tus vecinos tendrían que hablarte por radio.",
+   "tipo": "emoji",
+   "emojis": [
+    "📻",
+    "🤫"
+   ],
+   "rotulo": "Silencio total",
+   "fondo": "luna",
+   "personajes": [
+    "astronauta"
+   ],
+   "accion": "hablar"
+  },
+  {
+   "texto": "Y las huellas de los astronautas del Apolo siguen ahí, porque nada las borra.",
+   "tipo": "fecha",
+   "anio": "1969",
+   "emojis": [
+    "👣"
+   ],
+   "rotulo": "Huellas intactas",
+   "fondo": "luna"
+  },
+  {
+   "texto": "Ahora la parte más bonita: mirarías al cielo y verías la Tierra, cuatro veces más grande que la Luna llena.",
+   "tipo": "emoji",
+   "emojis": [
+    "🌍",
+    "✨"
+   ],
+   "rotulo": "Tu antigua casa",
+   "fondo": "luna",
+   "personajes": [
+    "astronauta"
+   ],
+   "accion": "senalar"
+  },
+  {
+   "texto": "Y nunca se movería de su sitio. La Luna siempre nos da la misma cara, así que la Tierra queda quieta, cambiando de fase.",
+   "tipo": "sello",
+   "emojis": [
+    "🌍"
+   ],
+   "sello": "¡Quieta!",
+   "fondo": "luna"
+  },
+  {
+   "texto": "Una lámpara azul gigante colgada para siempre. Síguenos para más preguntas imposibles.",
+   "tipo": "final"
+  }
+ ]
+}

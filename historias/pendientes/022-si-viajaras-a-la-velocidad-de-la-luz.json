@@ -1,0 +1,143 @@
+{
+ "id": "022-si-viajaras-a-la-velocidad-de-la-luz",
+ "titulo": "¿Qué pasaría si viajaras a la velocidad de la luz? ⚡",
+ "descripcion": "Darías siete vueltas a la Tierra en un segundo. Pero hasta la estrella más cercana tardarías años.",
+ "hashtags": [
+  "#quepasariasi",
+  "#velocidaddelaluz",
+  "#espacio",
+  "#fisica",
+  "#shorts"
+ ],
+ "etiquetas": [
+  "velocidad de la luz",
+  "einstein",
+  "relatividad",
+  "espacio"
+ ],
+ "paleta": "espacio",
+ "miniatura": {
+  "texto": "¿A LA VELOCIDAD DE LA LUZ?",
+  "emojis": [
+   "⚡",
+   "🚀"
+  ]
+ },
+ "nota_veracidad": "Datos reales: la luz viaja a 299.792 km/s; daría unas 7,5 vueltas a la Tierra por segundo; tarda ~1,3 s en llegar a la Luna, ~8 min 20 s desde el Sol y ~4,24 años hasta Próxima Centauri (NASA). Según la relatividad especial, nada con masa puede alcanzar la velocidad de la luz y, cerca de ella, el tiempo del viajero pasa más despacio (dilatación temporal, medida con relojes atómicos en aviones, Hafele y Keating, 1972). Viajar exactamente a c es imposible: el video lo dice.",
+ "fuentes": [
+  "NASA: 'How fast is the speed of light?'",
+  "NASA Science: 'Alpha Centauri / Proxima Centauri'",
+  "Hafele, J. y Keating, R. (1972), Science, 'Around-the-World Atomic Clocks'"
+ ],
+ "claves": [
+  "luz",
+  "segundo",
+  "luna",
+  "sol",
+  "tiempo"
+ ],
+ "escenas": [
+  {
+   "texto": "¿Qué pasaría si pudieras viajar a la velocidad de la luz?",
+   "tipo": "pregunta",
+   "emojis": [
+    "⚡",
+    "🚀"
+   ]
+  },
+  {
+   "texto": "Irías a casi trescientos mil kilómetros por segundo.",
+   "tipo": "numero",
+   "valor": "300.000",
+   "unidad": "km por segundo",
+   "emojis": [
+    "⚡"
+   ],
+   "fondo": "espacio"
+  },
+  {
+   "texto": "En un solo segundo darías siete vueltas y media a la Tierra. Ni tiempo para estornudar.",
+   "tipo": "emoji",
+   "emojis": [
+    "🌍",
+    "🌀"
+   ],
+   "fondo": "tierra",
+   "animo": "sorpresa"
+  },
+  {
+   "texto": "A la Luna llegarías en algo más de un segundo. Ida y vuelta antes de que se enfríe tu tostada.",
+   "tipo": "emoji",
+   "emojis": [
+    "🌕",
+    "🍞"
+   ],
+   "rotulo": "1,3 segundos",
+   "fondo": "luna",
+   "personajes": [
+    "astronauta"
+   ],
+   "accion": "celebrar"
+  },
+  {
+   "texto": "Al Sol, en unos ocho minutos. Lo que dura una canción y media.",
+   "tipo": "numero",
+   "valor": "8",
+   "unidad": "minutos al Sol",
+   "emojis": [
+    "☀️"
+   ],
+   "fondo": "espacio"
+  },
+  {
+   "texto": "Pero el espacio es enorme: la estrella más cercana está a más de cuatro años de viaje.",
+   "tipo": "numero",
+   "valor": "4,24",
+   "unidad": "años a Próxima Centauri",
+   "emojis": [
+    "⭐"
+   ],
+   "fondo": "espacio"
+  },
+  {
+   "texto": "Y aquí viene lo más loco. Según Einstein, cuanto más rápido vas, más despacio pasa tu tiempo.",
+   "tipo": "emoji",
+   "emojis": [
+    "⏳",
+    "🤯"
+   ],
+   "rotulo": "Tiempo elástico",
+   "fondo": "laboratorio",
+   "personajes": [
+    "cientifico"
+   ],
+   "accion": "hablar"
+  },
+  {
+   "texto": "Volverías del viaje y tus amigos serían mucho más viejos que tú.",
+   "tipo": "versus",
+   "emojis": [
+    "🧒",
+    "👴"
+   ],
+   "rotulos": [
+    "Tú",
+    "Tus amigos"
+   ],
+   "rotulo": "Gemelos cósmicos"
+  },
+  {
+   "texto": "La mala noticia: nada con masa puede alcanzar del todo esa velocidad. Ni tú, ni tu nave.",
+   "tipo": "sello",
+   "emojis": [
+    "🚀"
+   ],
+   "sello": "¡Imposible!",
+   "fondo": "espacio"
+  },
+  {
+   "texto": "Pero la luz lo hace cada día para llegar hasta tus ojos. Síguenos para más preguntas imposibles.",
+   "tipo": "final"
+  }
+ ]
+}

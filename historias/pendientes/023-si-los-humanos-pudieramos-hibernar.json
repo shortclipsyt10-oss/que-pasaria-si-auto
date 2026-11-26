@@ -1,0 +1,165 @@
+{
+ "id": "023-si-los-humanos-pudieramos-hibernar",
+ "titulo": "¿Y si los humanos pudiéramos hibernar como los osos? 🐻",
+ "descripcion": "Meses dormido, sin ir al baño y sin perder músculo. Los osos lo hacen cada invierno, y la NASA toma nota.",
+ "hashtags": [
+  "#quepasariasi",
+  "#osos",
+  "#animales",
+  "#ciencia",
+  "#shorts"
+ ],
+ "etiquetas": [
+  "hibernación",
+  "osos",
+  "cuerpo humano",
+  "nasa"
+ ],
+ "paleta": "animales",
+ "miniatura": {
+  "texto": "¿DORMIR TODO EL INVIERNO?",
+  "emojis": [
+   "🐻",
+   "💤"
+  ]
+ },
+ "nota_veracidad": "Datos reales: los osos negros pueden pasar de 5 a 7 meses en la osera; su corazón baja de unos 40-50 latidos por minuto a unos 8 (Alaska Department of Fish and Game); su metabolismo cae a un 25 % mientras la temperatura corporal solo baja unos 5-6 °C (Tøien et al., 2011, Science); no orinan ni defecan y reciclan la urea para fabricar proteína, por eso apenas pierden músculo ni hueso. Los humanos no pueden hibernar: lo de hacerlo, y el uso en viajes a Marte (estudio SpaceWorks para NASA NIAC, 2014), es especulativo.",
+ "fuentes": [
+  "Tøien, Ø. et al. (2011), Science, 'Hibernation in black bears: independence of metabolic suppression from body temperature'",
+  "Alaska Department of Fish and Game: 'Black Bear' (hibernación)",
+  "NASA NIAC (2014), SpaceWorks: 'Torpor inducing transfer habitat for human stasis to Mars'"
+ ],
+ "claves": [
+  "osos",
+  "hibernar",
+  "corazón",
+  "meses",
+  "marte"
+ ],
+ "escenas": [
+  {
+   "texto": "¿Qué pasaría si los humanos pudiéramos hibernar como los osos?",
+   "tipo": "emoji",
+   "emojis": [
+    "🐻",
+    "💤"
+   ],
+   "fondo": "tierra",
+   "animo": "feliz"
+  },
+  {
+   "texto": "Llega noviembre, te pones el pijama y dices: nos vemos en primavera.",
+   "tipo": "emoji",
+   "emojis": [
+    "🛌",
+    "❄️"
+   ],
+   "rotulo": "Hasta abril",
+   "fondo": "casa",
+   "personajes": [
+    "chico"
+   ],
+   "accion": "tumbado"
+  },
+  {
+   "texto": "Un oso negro puede pasar hasta siete meses en su cueva.",
+   "tipo": "numero",
+   "valor": "7",
+   "unidad": "meses durmiendo",
+   "emojis": [
+    "🐻"
+   ],
+   "fondo": "bosque",
+   "personajes": [
+    "oso"
+   ]
+  },
+  {
+   "texto": "Su corazón baja de unos cuarenta latidos por minuto a solo ocho.",
+   "tipo": "versus",
+   "emojis": [
+    "❤️",
+    "💤"
+   ],
+   "rotulos": [
+    "40",
+    "8"
+   ],
+   "rotulo": "Latidos por minuto"
+  },
+  {
+   "texto": "Y lo más sorprendente: en todo ese tiempo no hace pis ni caca.",
+   "tipo": "sello",
+   "emojis": [
+    "🚽"
+   ],
+   "sello": "¡Cerrado!",
+   "fondo": "bosque",
+   "personajes": [
+    "oso"
+   ]
+  },
+  {
+   "texto": "Recicla sus desechos para fabricar proteína, así que despierta casi sin perder músculo.",
+   "tipo": "emoji",
+   "emojis": [
+    "♻️",
+    "💪"
+   ],
+   "rotulo": "Reciclaje interno",
+   "fondo": "bosque",
+   "personajes": [
+    "oso"
+   ],
+   "accion": "celebrar"
+  },
+  {
+   "texto": "Si nosotros pudiéramos, nos ahorraríamos la calefacción y meses de comida.",
+   "tipo": "lista",
+   "items": [
+    [
+     "🔥",
+     "Sin calefacción"
+    ],
+    [
+     "🍝",
+     "Sin cenas"
+    ],
+    [
+     "⏰",
+     "Sin despertador"
+    ]
+   ]
+  },
+  {
+   "texto": "Por eso hay ingenieros que estudian, para la NASA, dormir a astronautas en viajes largos a Marte.",
+   "tipo": "emoji",
+   "emojis": [
+    "🚀",
+    "😴"
+   ],
+   "rotulo": "Rumbo a Marte",
+   "fondo": "marte",
+   "personajes": [
+    "astronauta"
+   ]
+  },
+  {
+   "texto": "De momento es solo una idea: los humanos no sabemos hibernar.",
+   "tipo": "duda",
+   "emojis": [
+    "🧑",
+    "❓"
+   ],
+   "sello": "¿Futuro?",
+   "fondo": "laboratorio",
+   "personajes": [
+    "cientifico"
+   ]
+  },
+  {
+   "texto": "Así que, por ahora, conformémonos con la siesta. Síguenos para más preguntas imposibles.",
+   "tipo": "final"
+  }
+ ]
+}
