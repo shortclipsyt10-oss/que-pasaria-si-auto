@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-11-26T16:41+00:00",
+ "actualizado": "2026-11-26T19:42+00:00",
  "videos": [
   {
    "id": "005-si-la-tierra-dejara-de-girar",
@@ -7,11 +7,11 @@
    "titulo": "¿Qué pasaría si la Tierra dejara de girar? 🌍 #shorts",
    "paleta": "espacio",
    "publicado": "2026-11-26T14:00:28Z",
-   "horas": 2.7,
-   "visitas": 525,
-   "likes": 21,
+   "horas": 5.7,
+   "visitas": 1111,
+   "likes": 28,
    "comentarios": 1,
-   "visitas_por_hora": 195.88
+   "visitas_por_hora": 194.95
   },
   {
    "id": "004-agujero-que-atraviesa-la-tierra",
@@ -19,11 +19,11 @@
    "titulo": "¿Y si saltaras por un agujero que atraviesa la Tierra? 🕳️ #shorts",
    "paleta": "ciencia",
    "publicado": "2026-11-26T11:00:38Z",
-   "horas": 5.7,
-   "visitas": 993,
+   "horas": 8.7,
+   "visitas": 1263,
    "likes": 29,
    "comentarios": 2,
-   "visitas_por_hora": 174.9
+   "visitas_por_hora": 145.24
   },
   {
    "id": "003-si-dejaras-de-dormir",
@@ -31,11 +31,11 @@
    "titulo": "¿Qué pasaría si dejaras de dormir? 😴 #shorts",
    "paleta": "cuerpo",
    "publicado": "2026-11-26T08:00:37Z",
-   "horas": 8.7,
-   "visitas": 1132,
-   "likes": 41,
+   "horas": 11.7,
+   "visitas": 1219,
+   "likes": 43,
    "comentarios": 0,
-   "visitas_por_hora": 130.45
+   "visitas_por_hora": 104.22
   },
   {
    "id": "002-si-la-luna-desapareciera",
@@ -43,11 +43,11 @@
    "titulo": "¿Qué pasaría si la Luna desapareciera? 🌙 #shorts",
    "paleta": "espacio",
    "publicado": "2026-11-25T23:00:24Z",
-   "horas": 17.7,
-   "visitas": 1256,
-   "likes": 15,
+   "horas": 20.7,
+   "visitas": 1300,
+   "likes": 16,
    "comentarios": 0,
-   "visitas_por_hora": 71.04
+   "visitas_por_hora": 62.8
   },
   {
    "id": "001-todos-saltan-a-la-vez",
@@ -55,23 +55,35 @@
    "titulo": "¿Qué pasaría si todo el mundo saltara a la vez? 🌍 #shorts",
    "paleta": "espacio",
    "publicado": "2026-11-25T17:02:24Z",
-   "horas": 23.6,
-   "visitas": 1428,
-   "likes": 17,
+   "horas": 26.7,
+   "visitas": 1438,
+   "likes": 18,
    "comentarios": 1,
-   "visitas_por_hora": 60.39
+   "visitas_por_hora": 53.93
   },
   {
    "id": "006-si-el-sol-se-apagara",
    "youtube_id": "46kodAyFeeA",
    "titulo": "¿Qué pasaría si el Sol se apagara? ☀️ #shorts",
    "paleta": "espacio",
-   "publicado": "2026-11-25T19:38:13Z",
-   "horas": 21.1,
+   "publicado": "2026-11-26T17:00:25Z",
+   "horas": 2.7,
    "visitas": 1,
    "likes": 0,
    "comentarios": 0,
-   "visitas_por_hora": 0.05
+   "visitas_por_hora": 0.37
+  },
+  {
+   "id": "007-si-desaparecieran-los-mosquitos",
+   "youtube_id": "GA1I5IpQUjs",
+   "titulo": "¿Qué pasaría si desaparecieran todos los mosquitos? 🦟 #shorts",
+   "paleta": "animales",
+   "publicado": "2026-11-26T19:42:21Z",
+   "horas": 1.0,
+   "visitas": 0,
+   "likes": 0,
+   "comentarios": 0,
+   "visitas_por_hora": 0.0
   }
  ]
 }
