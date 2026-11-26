@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-11-26T04:42+00:00",
+ "actualizado": "2026-11-26T08:01+00:00",
  "videos": [
   {
    "id": "002-si-la-luna-desapareciera",
@@ -7,11 +7,11 @@
    "titulo": "¿Qué pasaría si la Luna desapareciera? 🌙 #shorts",
    "paleta": "espacio",
    "publicado": "2026-11-25T23:00:24Z",
-   "horas": 5.7,
-   "visitas": 1164,
-   "likes": 13,
+   "horas": 9.0,
+   "visitas": 1185,
+   "likes": 14,
    "comentarios": 0,
-   "visitas_por_hora": 204.38
+   "visitas_por_hora": 131.42
   },
   {
    "id": "001-todos-saltan-a-la-vez",
@@ -19,23 +19,23 @@
    "titulo": "¿Qué pasaría si todo el mundo saltara a la vez? 🌍 #shorts",
    "paleta": "espacio",
    "publicado": "2026-11-25T17:02:24Z",
-   "horas": 11.7,
-   "visitas": 1356,
+   "horas": 15.0,
+   "visitas": 1397,
    "likes": 16,
    "comentarios": 1,
-   "visitas_por_hora": 116.28
+   "visitas_por_hora": 93.24
   },
   {
    "id": "003-si-dejaras-de-dormir",
    "youtube_id": "BSBxNFPhtrY",
    "titulo": "¿Qué pasaría si dejaras de dormir? 😴 #shorts",
    "paleta": "cuerpo",
-   "publicado": "2026-11-25T19:35:55Z",
-   "horas": 9.1,
+   "publicado": "2026-11-26T08:00:37Z",
+   "horas": 1.0,
    "visitas": 1,
    "likes": 0,
    "comentarios": 0,
-   "visitas_por_hora": 0.11
+   "visitas_por_hora": 1.0
   },
   {
    "id": "004-agujero-que-atraviesa-la-tierra",
@@ -43,11 +43,11 @@
    "titulo": "¿Y si saltaras por un agujero que atraviesa la Tierra? 🕳️ #shorts",
    "paleta": "ciencia",
    "publicado": "2026-11-25T19:36:38Z",
-   "horas": 9.1,
+   "horas": 12.4,
    "visitas": 1,
    "likes": 0,
    "comentarios": 0,
-   "visitas_por_hora": 0.11
+   "visitas_por_hora": 0.08
   },
   {
    "id": "005-si-la-tierra-dejara-de-girar",
@@ -55,11 +55,11 @@
    "titulo": "¿Qué pasaría si la Tierra dejara de girar? 🌍 #shorts",
    "paleta": "espacio",
    "publicado": "2026-11-25T19:37:26Z",
-   "horas": 9.1,
+   "horas": 12.4,
    "visitas": 1,
    "likes": 0,
    "comentarios": 0,
-   "visitas_por_hora": 0.11
+   "visitas_por_hora": 0.08
   },
   {
    "id": "006-si-el-sol-se-apagara",
@@ -67,11 +67,11 @@
    "titulo": "¿Qué pasaría si el Sol se apagara? ☀️ #shorts",
    "paleta": "espacio",
    "publicado": "2026-11-25T19:38:13Z",
-   "horas": 9.1,
+   "horas": 12.4,
    "visitas": 1,
    "likes": 0,
    "comentarios": 0,
-   "visitas_por_hora": 0.11
+   "visitas_por_hora": 0.08
   }
  ]
 }
