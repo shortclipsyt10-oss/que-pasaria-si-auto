@@ -1,17 +1,29 @@
 {
- "actualizado": "2026-11-26T13:55+00:00",
+ "actualizado": "2026-11-26T16:41+00:00",
  "videos": [
+  {
+   "id": "005-si-la-tierra-dejara-de-girar",
+   "youtube_id": "iYQDeFlznzM",
+   "titulo": "¿Qué pasaría si la Tierra dejara de girar? 🌍 #shorts",
+   "paleta": "espacio",
+   "publicado": "2026-11-26T14:00:28Z",
+   "horas": 2.7,
+   "visitas": 525,
+   "likes": 21,
+   "comentarios": 1,
+   "visitas_por_hora": 195.88
+  },
   {
    "id": "004-agujero-que-atraviesa-la-tierra",
    "youtube_id": "N-LBR2iqYRQ",
    "titulo": "¿Y si saltaras por un agujero que atraviesa la Tierra? 🕳️ #shorts",
    "paleta": "ciencia",
    "publicado": "2026-11-26T11:00:38Z",
-   "horas": 2.9,
-   "visitas": 442,
-   "likes": 17,
-   "comentarios": 0,
-   "visitas_por_hora": 151.58
+   "horas": 5.7,
+   "visitas": 993,
+   "likes": 29,
+   "comentarios": 2,
+   "visitas_por_hora": 174.9
   },
   {
    "id": "003-si-dejaras-de-dormir",
@@ -19,11 +31,11 @@
    "titulo": "¿Qué pasaría si dejaras de dormir? 😴 #shorts",
    "paleta": "cuerpo",
    "publicado": "2026-11-26T08:00:37Z",
-   "horas": 5.9,
-   "visitas": 580,
-   "likes": 31,
+   "horas": 8.7,
+   "visitas": 1132,
+   "likes": 41,
    "comentarios": 0,
-   "visitas_por_hora": 98.03
+   "visitas_por_hora": 130.45
   },
   {
    "id": "002-si-la-luna-desapareciera",
@@ -31,11 +43,11 @@
    "titulo": "¿Qué pasaría si la Luna desapareciera? 🌙 #shorts",
    "paleta": "espacio",
    "publicado": "2026-11-25T23:00:24Z",
-   "horas": 14.9,
-   "visitas": 1222,
-   "likes": 14,
+   "horas": 17.7,
+   "visitas": 1256,
+   "likes": 15,
    "comentarios": 0,
-   "visitas_por_hora": 81.9
+   "visitas_por_hora": 71.04
   },
   {
    "id": "001-todos-saltan-a-la-vez",
@@ -43,23 +55,11 @@
    "titulo": "¿Qué pasaría si todo el mundo saltara a la vez? 🌍 #shorts",
    "paleta": "espacio",
    "publicado": "2026-11-25T17:02:24Z",
-   "horas": 20.9,
-   "visitas": 1418,
-   "likes": 16,
+   "horas": 23.6,
+   "visitas": 1428,
+   "likes": 17,
    "comentarios": 1,
-   "visitas_por_hora": 67.89
-  },
-  {
-   "id": "005-si-la-tierra-dejara-de-girar",
-   "youtube_id": "iYQDeFlznzM",
-   "titulo": "¿Qué pasaría si la Tierra dejara de girar? 🌍 #shorts",
-   "paleta": "espacio",
-   "publicado": "2026-11-25T19:37:26Z",
-   "horas": 18.3,
-   "visitas": 1,
-   "likes": 0,
-   "comentarios": 0,
-   "visitas_por_hora": 0.05
+   "visitas_por_hora": 60.39
   },
   {
    "id": "006-si-el-sol-se-apagara",
@@ -67,7 +67,7 @@
    "titulo": "¿Qué pasaría si el Sol se apagara? ☀️ #shorts",
    "paleta": "espacio",
    "publicado": "2026-11-25T19:38:13Z",
-   "horas": 18.3,
+   "horas": 21.1,
    "visitas": 1,
    "likes": 0,
    "comentarios": 0,
