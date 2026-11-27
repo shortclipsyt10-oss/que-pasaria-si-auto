@@ -1,0 +1,160 @@
+{
+ "id": "025-si-no-te-cortaras-el-pelo-nunca",
+ "titulo": "¿Qué pasaría si no te cortaras el pelo nunca más? 💇",
+ "descripcion": "Tiras las tijeras y dejas crecer el pelo para siempre. ¿Hasta dónde llegaría? La respuesta tiene truco.",
+ "hashtags": [
+  "#quepasariasi",
+  "#cuerpohumano",
+  "#pelo",
+  "#ciencia",
+  "#shorts"
+ ],
+ "etiquetas": [
+  "qué pasaría si",
+  "pelo",
+  "cuerpo humano",
+  "curiosidades"
+ ],
+ "paleta": "cuerpo",
+ "miniatura": {
+  "texto": "¿NUNCA MÁS AL PELUQUERO?",
+  "emojis": [
+   "💇",
+   "✂️"
+  ]
+ },
+ "nota_veracidad": "Datos reales: el pelo del cuero cabelludo crece unos 15 cm al año (~1,25 cm/mes) y tenemos unos 100.000 pelos; se pierden de 50 a 100 al día (American Academy of Dermatology). La fase de crecimiento (anágena) dura de 2 a 7 años, lo que limita la longitud máxima de la mayoría a menos de un metro aprox. (la 'cintura' es una aproximación que depende de la persona). El récord Guinness de pelo más largo supera los 5,6 m. Los 15 km/año salen de multiplicar 100.000 pelos × 15 cm: es un cálculo ilustrativo.",
+ "fuentes": [
+  "American Academy of Dermatology: 'Hair loss: who gets and causes' y 'Do you have hair loss or hair shedding?'",
+  "Guinness World Records: Longest hair (female)",
+  "Paus, R. & Cotsarelis, G. (1999), New England Journal of Medicine, 'The biology of hair follicles'"
+ ],
+ "claves": [
+  "pelo",
+  "centímetros",
+  "caducidad",
+  "cien mil",
+  "kilómetros"
+ ],
+ "escenas": [
+  {
+   "texto": "¿Qué pasaría si no te cortaras el pelo nunca más?",
+   "tipo": "pregunta",
+   "emojis": [
+    "💇",
+    "✂️"
+   ]
+  },
+  {
+   "texto": "Tiras las tijeras a la basura y empieza el experimento.",
+   "tipo": "emoji",
+   "emojis": [
+    "✂️",
+    "🗑️"
+   ],
+   "rotulo": "Adiós, peluquero",
+   "fondo": "casa",
+   "personajes": [
+    "chica"
+   ],
+   "accion": "senalar"
+  },
+  {
+   "texto": "Tu pelo crece algo más de un centímetro al mes: unos quince centímetros al año.",
+   "tipo": "numero",
+   "valor": "15",
+   "unidad": "cm al año",
+   "emojis": [
+    "💇"
+   ],
+   "fondo": "ciudad_color",
+   "personajes": [
+    "chica"
+   ]
+  },
+  {
+   "texto": "Al año te tapa las orejas. A los tres, ya te llega a la espalda.",
+   "tipo": "emoji",
+   "emojis": [
+    "💁"
+   ],
+   "rotulo": "Año 3",
+   "fondo": "ciudad_color",
+   "personajes": [
+    "chica"
+   ],
+   "accion": "andar"
+  },
+  {
+   "texto": "Pero hay truco: cada pelo tiene fecha de caducidad.",
+   "tipo": "sello",
+   "emojis": [
+    "⏳"
+   ],
+   "sello": "¡Caduca!",
+   "fondo": "casa",
+   "personajes": [
+    "chica"
+   ]
+  },
+  {
+   "texto": "Crece de dos a siete años, se para y se cae. Por eso pierdes hasta cien pelos al día.",
+   "tipo": "numero",
+   "valor": "100",
+   "unidad": "pelos caídos al día",
+   "emojis": [
+    "🪮"
+   ],
+   "fondo": "casa"
+  },
+  {
+   "texto": "Así que la mayoría tiene un límite natural: más o menos hasta la cintura.",
+   "tipo": "emoji",
+   "emojis": [
+    "📏"
+   ],
+   "rotulo": "Tu límite",
+   "fondo": "playa",
+   "personajes": [
+    "chica"
+   ]
+  },
+  {
+   "texto": "Aunque hay gente con pelos que crecen muchos más años: el récord Guinness supera los cinco metros.",
+   "tipo": "numero",
+   "valor": "5",
+   "unidad": "metros de pelo",
+   "emojis": [
+    "🏆"
+   ],
+   "fondo": "ciudad_color",
+   "personajes": [
+    "gente"
+   ],
+   "accion": "celebrar"
+  },
+  {
+   "texto": "Y ahora lo más loco: tienes unos cien mil pelos en la cabeza.",
+   "tipo": "numero",
+   "valor": "100.000",
+   "unidad": "pelos",
+   "emojis": [
+    "🧑"
+   ]
+  },
+  {
+   "texto": "Si los pusieras en fila, tu cabeza fabricaría unos quince kilómetros de pelo cada año.",
+   "tipo": "numero",
+   "valor": "15",
+   "unidad": "km de pelo al año",
+   "emojis": [
+    "🧵"
+   ],
+   "fondo": "cielo"
+  },
+  {
+   "texto": "¿Te atreverías a no cortártelo nunca? Cuéntalo en los comentarios y síguenos para más preguntas imposibles.",
+   "tipo": "final"
+  }
+ ]
+}

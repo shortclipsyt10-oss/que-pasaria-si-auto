@@ -1,0 +1,167 @@
+{
+ "id": "026-si-comieras-muchisimos-platanos",
+ "titulo": "¿Qué pasaría si comieras muchísimos plátanos? 🍌",
+ "descripcion": "Los plátanos son un poquito radiactivos. ¿Comer muchos sería peligroso? Spoiler: tú eres más radiactivo que ellos.",
+ "hashtags": [
+  "#quepasariasi",
+  "#platano",
+  "#ciencia",
+  "#curiosidades",
+  "#shorts"
+ ],
+ "etiquetas": [
+  "qué pasaría si",
+  "plátanos",
+  "radiactividad",
+  "cuerpo humano"
+ ],
+ "paleta": "comida",
+ "miniatura": {
+  "texto": "¿PLÁTANOS RADIACTIVOS?",
+  "emojis": [
+   "🍌",
+   "☢️"
+  ]
+ },
+ "nota_veracidad": "Datos reales: los plátanos contienen potasio, y un 0,012 % del potasio natural es potasio-40, radiactivo. La 'dosis equivalente a un plátano' es de unos 0,1 µSv (gráfico de dosis de Randall Munroe, xkcd). Una hora de vuelo da de 3 a 5 µSv; un TAC de tórax unos 7 mSv (~70.000 plátanos). El cuerpo regula el potasio (homeostasis) y expulsa el sobrante por la orina, por lo que comer más no acumula radiactividad (Health Physics Society). Un adulto tiene unos 140 g de potasio. Dormir junto a alguien: ~0,05 µSv por noche según el mismo gráfico. Todas las cifras son aproximadas.",
+ "fuentes": [
+  "Munroe, R. (2011), xkcd 'Radiation Dose Chart'",
+  "Health Physics Society: 'Radiation in bananas' (Ask the Experts)",
+  "U.S. NRC: 'Doses in Our Daily Lives'"
+ ],
+ "claves": [
+  "radiactivos",
+  "potasio",
+  "plátano",
+  "setenta mil",
+  "tú"
+ ],
+ "escenas": [
+  {
+   "texto": "¿Qué pasaría si comieras muchísimos plátanos? Pero muchísimos.",
+   "tipo": "pregunta",
+   "emojis": [
+    "🍌",
+    "🤔"
+   ]
+  },
+  {
+   "texto": "Primer dato curioso: los plátanos son un poquito radiactivos.",
+   "tipo": "sello",
+   "emojis": [
+    "🍌"
+   ],
+   "sello": "¡Radiactivo!",
+   "fondo": "casa",
+   "personajes": [
+    "chico"
+   ],
+   "accion": "senalar"
+  },
+  {
+   "texto": "Tienen potasio, y una parte diminuta del potasio natural emite radiación.",
+   "tipo": "emoji",
+   "emojis": [
+    "⚛️",
+    "🍌"
+   ],
+   "rotulo": "Potasio-40",
+   "fondo": "laboratorio",
+   "personajes": [
+    "cientifico"
+   ],
+   "accion": "hablar"
+  },
+  {
+   "texto": "Pero es poquísima: una hora volando en avión te da unas cuarenta veces más.",
+   "tipo": "versus",
+   "emojis": [
+    "🍌",
+    "✈️"
+   ],
+   "rotulos": [
+    "1 plátano",
+    "1 hora de vuelo"
+   ],
+   "rotulo": "Radiación"
+  },
+  {
+   "texto": "Un escáner médico de tórax equivale a unos setenta mil plátanos.",
+   "tipo": "numero",
+   "valor": "70.000",
+   "unidad": "plátanos",
+   "emojis": [
+    "🍌"
+   ],
+   "fondo": "laboratorio",
+   "personajes": [
+    "medico"
+   ]
+  },
+  {
+   "texto": "Y hay truco: tu cuerpo no guarda el potasio de más. Lo expulsa cuando vas al baño.",
+   "tipo": "emoji",
+   "emojis": [
+    "🚽",
+    "♻️"
+   ],
+   "rotulo": "Sale solo",
+   "fondo": "casa"
+  },
+  {
+   "texto": "Así que comer cien plátanos no te hace cien veces más radiactivo.",
+   "tipo": "sello",
+   "emojis": [
+    "🍌",
+    "🍌"
+   ],
+   "sello": "¡No suma!",
+   "fondo": "casa",
+   "personajes": [
+    "chico"
+   ],
+   "accion": "celebrar"
+  },
+  {
+   "texto": "Lo más sorprendente es que tú eres más radiactivo que un plátano.",
+   "tipo": "emoji",
+   "emojis": [
+    "🧑",
+    "☢️"
+   ],
+   "rotulo": "Sí, tú",
+   "fondo": "ciudad_color",
+   "personajes": [
+    "gente"
+   ]
+  },
+  {
+   "texto": "Tu cuerpo lleva unos ciento cuarenta gramos de potasio, cientos de veces más que la fruta.",
+   "tipo": "numero",
+   "valor": "140",
+   "unidad": "gramos de potasio",
+   "emojis": [
+    "💪"
+   ]
+  },
+  {
+   "texto": "Incluso si duermes al lado de alguien, os dais un pelín de radiación el uno al otro.",
+   "tipo": "emoji",
+   "emojis": [
+    "🛌",
+    "💞"
+   ],
+   "rotulo": "Abrazo radiactivo",
+   "fondo": "casa",
+   "personajes": [
+    "chico",
+    "chica"
+   ],
+   "accion": "tumbado"
+  },
+  {
+   "texto": "Así que tranquilo: el único peligro de comer muchos plátanos es aburrirte de ellos. Síguenos para más preguntas imposibles.",
+   "tipo": "final"
+  }
+ ]
+}

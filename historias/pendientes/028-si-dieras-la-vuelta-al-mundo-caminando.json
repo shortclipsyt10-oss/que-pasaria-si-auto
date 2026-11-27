@@ -1,0 +1,181 @@
+{
+ "id": "028-si-dieras-la-vuelta-al-mundo-caminando",
+ "titulo": "¿Qué pasaría si dieras la vuelta al mundo caminando? 🚶",
+ "descripcion": "Te atas las zapatillas y sigues el ecuador hasta volver a casa. Cuánto tardarías, cuántos pasos y cuántas pizzas te harían falta.",
+ "hashtags": [
+  "#quepasariasi",
+  "#vueltaalmundo",
+  "#tierra",
+  "#ciencia",
+  "#shorts"
+ ],
+ "etiquetas": [
+  "qué pasaría si",
+  "vuelta al mundo",
+  "caminar",
+  "ecuador"
+ ],
+ "paleta": "ciencia",
+ "miniatura": {
+  "texto": "¿LA VUELTA AL MUNDO A PIE?",
+  "emojis": [
+   "🚶",
+   "🌍"
+  ]
+ },
+ "nota_veracidad": "Cálculos aproximados: el ecuador mide 40.075 km (NASA). A 5 km/h sin parar son ~8.000 h ≈ 334 días; a 8 h/día, ~1.000 días ≈ 2,7 años. Cerca del 79 % del ecuador pasa sobre agua. Se dan unos 1.250-1.300 pasos por km, ≈ 50 millones de pasos. Unas zapatillas duran de 500 a 800 km según el uso (con 800 km salen unos 50 pares). Caminar gasta ~50 kcal/km para una persona de 70 kg: ~2 millones de kcal ≈ 800 pizzas de 2.500 kcal. Varias personas han dado la vuelta al mundo a pie (con tramos en barco) en expediciones de varios años.",
+ "fuentes": [
+  "NASA Earth Fact Sheet (circunferencia ecuatorial)",
+  "Ainsworth, B. et al. (2011), Compendium of Physical Activities (gasto energético al caminar)",
+  "Guinness World Records: 'First verified circumnavigation on foot'"
+ ],
+ "claves": [
+  "ecuador",
+  "cuarenta mil",
+  "años",
+  "pasos",
+  "pizzas"
+ ],
+ "escenas": [
+  {
+   "texto": "¿Qué pasaría si dieras la vuelta al mundo caminando?",
+   "tipo": "emoji",
+   "emojis": [
+    "🚶",
+    "🌍"
+   ],
+   "fondo": "tierra",
+   "animo": "feliz"
+  },
+  {
+   "texto": "Te atas las zapatillas, sales por la puerta y sigues la línea del ecuador.",
+   "tipo": "emoji",
+   "emojis": [
+    "👟"
+   ],
+   "rotulo": "Día 1",
+   "fondo": "ciudad_color",
+   "personajes": [
+    "chico"
+   ],
+   "accion": "andar"
+  },
+  {
+   "texto": "La vuelta completa mide unos cuarenta mil kilómetros.",
+   "tipo": "numero",
+   "valor": "40.075",
+   "unidad": "km",
+   "emojis": [
+    "🌍"
+   ],
+   "fondo": "espacio"
+  },
+  {
+   "texto": "Andando sin parar, a paso normal, tardarías casi un año entero.",
+   "tipo": "numero",
+   "valor": "334",
+   "unidad": "días sin parar",
+   "emojis": [
+    "🚶"
+   ],
+   "fondo": "bosque",
+   "personajes": [
+    "explorador"
+   ],
+   "accion": "andar"
+  },
+  {
+   "texto": "Pero hay que dormir. Caminando ocho horas al día, serían casi tres años.",
+   "tipo": "emoji",
+   "emojis": [
+    "🛌",
+    "⏳"
+   ],
+   "rotulo": "≈ 3 años",
+   "fondo": "bosque",
+   "personajes": [
+    "explorador"
+   ],
+   "accion": "tumbado"
+  },
+  {
+   "texto": "Primer problema: casi cuatro quintas partes del ecuador son agua.",
+   "tipo": "sello",
+   "emojis": [
+    "🌊"
+   ],
+   "sello": "¡Agua!",
+   "fondo": "playa",
+   "personajes": [
+    "explorador"
+   ],
+   "accion": "senalar"
+  },
+  {
+   "texto": "Así que tendrías que saltar los océanos en barco.",
+   "tipo": "emoji",
+   "emojis": [
+    "⛵"
+   ],
+   "rotulo": "Tramo en barco",
+   "fondo": "mar",
+   "personajes": [
+    "marinero"
+   ]
+  },
+  {
+   "texto": "Al final habrías dado unos cincuenta millones de pasos.",
+   "tipo": "numero",
+   "valor": "50.000.000",
+   "unidad": "pasos",
+   "emojis": [
+    "👣"
+   ]
+  },
+  {
+   "texto": "Y gastarías unas cincuenta zapatillas, porque cada par aguanta unos ochocientos kilómetros.",
+   "tipo": "numero",
+   "valor": "50",
+   "unidad": "pares de zapatillas",
+   "emojis": [
+    "👟"
+   ],
+   "fondo": "desierto",
+   "personajes": [
+    "explorador"
+   ]
+  },
+  {
+   "texto": "Quemarías tanta energía como la que tienen ochocientas pizzas.",
+   "tipo": "numero",
+   "valor": "800",
+   "unidad": "pizzas",
+   "emojis": [
+    "🍕"
+   ],
+   "fondo": "ciudad_color",
+   "personajes": [
+    "chico"
+   ],
+   "accion": "celebrar"
+  },
+  {
+   "texto": "Y sí: algunas personas lo han hecho de verdad, durante varios años de aventura.",
+   "tipo": "emoji",
+   "emojis": [
+    "🏆",
+    "🌍"
+   ],
+   "rotulo": "¡Existe!",
+   "fondo": "ciudad_color",
+   "personajes": [
+    "gente"
+   ],
+   "accion": "celebrar"
+  },
+  {
+   "texto": "¿Cuál sería tu primera parada? Cuéntanoslo y síguenos para más preguntas imposibles.",
+   "tipo": "final"
+  }
+ ]
+}

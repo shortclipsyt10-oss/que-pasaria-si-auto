@@ -1,0 +1,184 @@
+{
+ "id": "027-si-dejaras-de-parpadear",
+ "titulo": "¿Qué pasaría si dejaras de parpadear? 👀",
+ "descripcion": "Intenta no parpadear mientras ves este video. Tu cuerpo tiene un plan para impedirlo.",
+ "hashtags": [
+  "#quepasariasi",
+  "#cuerpohumano",
+  "#ojos",
+  "#ciencia",
+  "#shorts"
+ ],
+ "etiquetas": [
+  "qué pasaría si",
+  "parpadear",
+  "ojos",
+  "cuerpo humano"
+ ],
+ "paleta": "cuerpo",
+ "miniatura": {
+  "texto": "¿SIN PARPADEAR?",
+  "emojis": [
+   "👀",
+   "😳"
+  ]
+ },
+ "nota_veracidad": "Datos reales: parpadeamos unas 15-20 veces por minuto (American Academy of Ophthalmology) y cada parpadeo dura entre 0,1 y 0,4 s. La película lagrimal empieza a romperse a los ~10 s sin parpadear (tiempo de ruptura lagrimal normal >10 s), lo que provoca picor y lagrimeo reflejo, y el parpadeo acaba siendo involuntario. 15.000 parpadeos/día y 'casi una hora con los ojos cerrados' son estimaciones (16 h despierto × 15/min × ~0,25 s). El cerebro suprime la percepción del parpadeo (Volkmann et al., 1980). Ante pantallas el ritmo baja mucho, de ~18 a ~4 por minuto en Patel et al. (1991).",
+ "fuentes": [
+  "American Academy of Ophthalmology: 'Blinking' / 'Computers, Digital Devices and Eye Strain'",
+  "Volkmann, F. et al. (1980), Science, 'Time course of visual inhibition during voluntary saccades and blinks'",
+  "Patel, S. et al. (1991), Optometry and Vision Science, 'Effect of visual display unit use on blink rate and tear stability'"
+ ],
+ "claves": [
+  "parpadear",
+  "lágrimas",
+  "reflejo",
+  "quince mil",
+  "pantallas"
+ ],
+ "escenas": [
+  {
+   "texto": "¿Qué pasaría si dejaras de parpadear?",
+   "tipo": "pregunta",
+   "emojis": [
+    "👀",
+    "😳"
+   ]
+  },
+  {
+   "texto": "Empiezas el reto: ojos bien abiertos y nada de trampas.",
+   "tipo": "emoji",
+   "emojis": [
+    "👀"
+   ],
+   "rotulo": "Reto aceptado",
+   "fondo": "casa",
+   "personajes": [
+    "chica"
+   ],
+   "accion": "senalar"
+  },
+  {
+   "texto": "A los diez segundos, la capa de lágrimas que protege tu ojo empieza a romperse.",
+   "tipo": "numero",
+   "valor": "10",
+   "unidad": "segundos",
+   "emojis": [
+    "👁️"
+   ],
+   "fondo": "casa",
+   "personajes": [
+    "chica"
+   ]
+  },
+  {
+   "texto": "Notas picor, como si tuvieras arena, y los ojos se ponen rojos.",
+   "tipo": "lista",
+   "items": [
+    [
+     "😣",
+     "Picor"
+    ],
+    [
+     "🏜️",
+     "Arena"
+    ],
+    [
+     "🔴",
+     "Rojez"
+    ]
+   ]
+  },
+  {
+   "texto": "Entonces tu cuerpo hace trampa por ti: lágrimas a chorro.",
+   "tipo": "sello",
+   "emojis": [
+    "😭"
+   ],
+   "sello": "¡Lágrimas!",
+   "fondo": "casa",
+   "personajes": [
+    "chica"
+   ]
+  },
+  {
+   "texto": "Y al final el párpado se cierra solo. Es un reflejo: no puedes ganarle.",
+   "tipo": "sello",
+   "emojis": [
+    "😑"
+   ],
+   "sello": "¡Perdiste!",
+   "fondo": "casa",
+   "personajes": [
+    "chica"
+   ],
+   "accion": "triste"
+  },
+  {
+   "texto": "Normalmente parpadeas unas quince veces por minuto. Eso son unas quince mil al día.",
+   "tipo": "numero",
+   "valor": "15.000",
+   "unidad": "parpadeos al día",
+   "emojis": [
+    "👁️"
+   ],
+   "fondo": "ciudad_color",
+   "personajes": [
+    "gente"
+   ]
+  },
+  {
+   "texto": "Y cada parpadeo dura casi un tercio de segundo.",
+   "tipo": "emoji",
+   "emojis": [
+    "⏱️"
+   ],
+   "rotulo": "Un tercio de segundo",
+   "fondo": "ciudad_color"
+  },
+  {
+   "texto": "Sumándolos, pasas cerca de una hora al día con los ojos cerrados. ¡Despierto!",
+   "tipo": "emoji",
+   "emojis": [
+    "🙈"
+   ],
+   "rotulo": "≈ 1 hora a ciegas",
+   "fondo": "ciudad_color",
+   "personajes": [
+    "chico"
+   ],
+   "accion": "andar"
+  },
+  {
+   "texto": "No lo notas porque tu cerebro borra esos pequeños apagones.",
+   "tipo": "emoji",
+   "emojis": [
+    "🧠",
+    "✨"
+   ],
+   "rotulo": "Edición en directo",
+   "fondo": "laboratorio",
+   "personajes": [
+    "cientifico"
+   ],
+   "accion": "hablar"
+  },
+  {
+   "texto": "Eso sí, mirando pantallas parpadeas muchísimo menos.",
+   "tipo": "versus",
+   "emojis": [
+    "👁️",
+    "📱"
+   ],
+   "rotulos": [
+    "15 por minuto",
+    "4 por minuto"
+   ],
+   "rotulo": "Parpadeos"
+  },
+  {
+   "texto": "Así que, si te pican los ojos ahora mismo, parpadea. Y síguenos para más preguntas imposibles.",
+   "tipo": "final"
+  }
+ ]
+}

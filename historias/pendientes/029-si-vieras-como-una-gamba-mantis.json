@@ -1,0 +1,159 @@
+{
+ "id": "029-si-vieras-como-una-gamba-mantis",
+ "titulo": "¿Y si vieras con los ojos de una gamba mantis? 🦐",
+ "descripcion": "Tiene doce tipos de sensores de color y tú solo tres. Pero un experimento de 2014 descubrió algo inesperado.",
+ "hashtags": [
+  "#quepasariasi",
+  "#animales",
+  "#gambamantis",
+  "#ciencia",
+  "#shorts"
+ ],
+ "etiquetas": [
+  "qué pasaría si",
+  "gamba mantis",
+  "ojos",
+  "animales",
+  "visión"
+ ],
+ "paleta": "animales",
+ "miniatura": {
+  "texto": "¿OJOS DE GAMBA MANTIS?",
+  "emojis": [
+   "🦐",
+   "👀"
+  ]
+ },
+ "nota_veracidad": "Datos reales: las gambas mantis (estomatópodos) tienen 12 tipos de fotorreceptores para color frente a nuestros 3, ven ultravioleta y luz polarizada, incluida la circular (Chiou et al., 2008), y mueven cada ojo de forma independiente. Thoen et al. (2014, Science) mostraron que distinguen colores parecidos peor que los humanos (diferencias de 12-25 nm frente a 1-4 nm); la idea de que reconocen colores 'al instante' sin compararlos es su hipótesis, no algo demostrado. Su golpe alcanza unos 23 m/s (~80 km/h) y rompe conchas (Patek et al., 2004, Nature). Ver 'dibujos secretos' polarizados en otros animales es una simplificación de su uso de señales polarizadas entre ellas.",
+ "fuentes": [
+  "Thoen, H. et al. (2014), Science, 'A different form of color vision in mantis shrimp'",
+  "Chiou, T.-H. et al. (2008), Current Biology, 'Circular polarization vision in a stomatopod crustacean'",
+  "Patek, S. et al. (2004), Nature, 'Deadly strike mechanism of a mantis shrimp'"
+ ],
+ "claves": [
+  "doce",
+  "ultravioleta",
+  "polarizada",
+  "peor",
+  "ochenta"
+ ],
+ "escenas": [
+  {
+   "texto": "¿Qué pasaría si vieras el mundo con los ojos de una gamba mantis?",
+   "tipo": "pregunta",
+   "emojis": [
+    "🦐",
+    "👀"
+   ]
+  },
+  {
+   "texto": "Este bicho del mar es famoso por tener los ojos más raros del planeta.",
+   "tipo": "emoji",
+   "emojis": [
+    "🦐"
+   ],
+   "rotulo": "Gamba mantis",
+   "fondo": "bajo_agua"
+  },
+  {
+   "texto": "Tú tienes tres tipos de sensores de color. Ella tiene doce.",
+   "tipo": "versus",
+   "emojis": [
+    "🧑",
+    "🦐"
+   ],
+   "rotulos": [
+    "3",
+    "12"
+   ],
+   "rotulo": "Sensores de color"
+  },
+  {
+   "texto": "Con tus ojos nuevos verías la luz ultravioleta, invisible para nosotros.",
+   "tipo": "emoji",
+   "emojis": [
+    "🌈",
+    "✨"
+   ],
+   "rotulo": "Ultravioleta",
+   "fondo": "bajo_agua",
+   "personajes": [
+    "explorador"
+   ]
+  },
+  {
+   "texto": "Y también la luz polarizada, que para ella funciona como mensajes secretos entre gambas.",
+   "tipo": "emoji",
+   "emojis": [
+    "🐠",
+    "🔍"
+   ],
+   "rotulo": "Luz polarizada",
+   "fondo": "bajo_agua"
+  },
+  {
+   "texto": "Además, cada ojo se movería por su cuenta: uno mirando arriba y otro abajo.",
+   "tipo": "emoji",
+   "emojis": [
+    "👀",
+    "↕️"
+   ],
+   "rotulo": "Ojos independientes",
+   "fondo": "bajo_agua"
+  },
+  {
+   "texto": "Suena a superpoder, pero en dos mil catorce unos científicos se llevaron una sorpresa.",
+   "tipo": "fecha",
+   "anio": "2014",
+   "emojis": [
+    "🔬"
+   ],
+   "rotulo": "Revista Science",
+   "fondo": "laboratorio",
+   "personajes": [
+    "cientifico"
+   ]
+  },
+  {
+   "texto": "Distingue colores parecidos mucho peor que tú.",
+   "tipo": "sello",
+   "emojis": [
+    "🦐"
+   ],
+   "sello": "¡Peor!",
+   "fondo": "laboratorio",
+   "personajes": [
+    "cientifico"
+   ],
+   "accion": "senalar"
+  },
+  {
+   "texto": "Creen que no compara colores como nosotros, sino que los reconoce al instante, como un lector de códigos.",
+   "tipo": "duda",
+   "emojis": [
+    "🦐",
+    "🏷️"
+   ],
+   "sello": "¿Teoría?",
+   "fondo": "laboratorio",
+   "personajes": [
+    "cientifico"
+   ],
+   "accion": "hablar"
+  },
+  {
+   "texto": "Eso sí, si también tuvieras su golpe, pegarías a unos ochenta kilómetros por hora.",
+   "tipo": "numero",
+   "valor": "80",
+   "unidad": "km/h",
+   "emojis": [
+    "👊"
+   ],
+   "fondo": "bajo_agua"
+  },
+  {
+   "texto": "¿Cambiarías tus ojos por los suyos? Síguenos para más preguntas imposibles.",
+   "tipo": "final"
+  }
+ ]
+}

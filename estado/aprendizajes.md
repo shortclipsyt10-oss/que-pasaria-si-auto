@@ -1,16 +1,21 @@
-# Aprendizajes (26/11/2026)
+# Aprendizajes (27/11/2026)
 
 ## Datos disponibles
-- 6 videos subidos, pero **ninguno lleva 24 h publicado** (el más antiguo, 001, tiene ~17,6 h): no hay datos válidos todavía.
-- 004, 005 y 006 tienen 1 visita porque aún no se habían hecho públicos (programados para el 26/11): no cuentan como "malos".
-- Señal temprana (solo orientativa): 002 Luna desaparece ~105 visitas/h y 001 todos saltan ~80 visitas/h, ~1,1 % de likes. 003 dormir (cuerpo) va a ~54 visitas/h en sus primeras 2,6 h.
+- Con más de 24 h solo hay 3 videos: 003 dormir (26,6 h), 001 todos saltan (41,5 h) y 002 Luna desaparece (35,6 h). Pocos datos: son pistas, no conclusiones.
+- 004 (23,6 h) y 005 (20,6 h) casi llegan y se miran solo como señal. 006 (4 visitas) y 007 (0) aún no se habían hecho públicos: no cuentan.
 
-## Qué funciona / qué no (hipótesis, no conclusiones)
-- Lo que más tira de momento: **Tierra/espacio a escala planetaria** con título directo "¿Qué pasaría si [algo enorme]?" + un emoji y la pregunta literal como primera frase.
-- Sin datos de lo que no funciona. Comentarios casi a cero: falta un remate que invite a opinar.
+## Qué funciona
+- **003 "¿Qué pasaría si dejaras de dormir?" (cuerpo, en segunda persona)** es el mejor: ~64 visitas/h y **2,8 % de likes**, más del doble que el resto.
+- 004 "¿Y si saltaras por un agujero...?" (también "tú") va a ~58 visitas/h y tiene los únicos 2 comentarios.
+- Patrón: **títulos en segunda persona, donde el espectador es el protagonista** ("dejaras", "saltaras"), sobre su propio cuerpo o una experiencia que puede imaginar.
 
-## Qué hago distinto hoy (019-024)
-- 4 en la línea de lo que mejor va (Tierra/espacio, título directo): gravedad desaparece 5 s (019), vivir en la Luna (020), vaciar los océanos (021), velocidad de la luz (022).
-- 2 pruebas distintas: animales + cuerpo humano con título "¿Y si...?" (hibernar como osos, 023) y un mito con título de dos partes "¿Se ve...? Esto verías de verdad" (Muralla China, 024).
-- Primer escena variada: 3 con fondo `tierra` animado y 3 con tipo `pregunta`, para comparar el gancho visual.
-- Mañana: si 001/002 superan las 24 h, comparar visitas_por_hora por tema y por estilo de título ("¿Qué pasaría si" vs "¿Y si"), y ver si 003 (cuerpo) sostiene el ritmo.
+## Qué funciona peor
+- Los temas planetarios en tercera persona (001 todos saltan, 002 Luna) se quedan en ~43-44 visitas/h y ~1,1-1,25 % de likes. Siguen siendo correctos, pero no destacan.
+- Comentarios casi a cero en todos: falta una pregunta directa al espectador al final.
+
+## Qué hago distinto hoy (025-030)
+- 4 en la línea del ganador (segunda persona + cuerpo/experiencia propia): no cortarte el pelo nunca (025), comer muchísimos plátanos (026), dejar de parpadear (027), dar la vuelta al mundo caminando (028).
+- 2 pruebas: animales con "¿Y si vieras...?" (gamba mantis, 029) y matemáticas/exponencial (doblar un papel 42 veces, 030), categoría nueva.
+- Todas las escenas finales hacen una pregunta al espectador ("¿Te atreverías...? Cuéntalo en los comentarios") para probar si suben los comentarios.
+- Primera escena: 5 con tipo `pregunta` (como 003) y 1 con fondo `tierra` (028), para seguir comparando.
+- Mañana: comparar 004/005 ya con 24 h, y ver si 008, 012, 013, 015 (todos "tú") confirman el patrón de segunda persona.

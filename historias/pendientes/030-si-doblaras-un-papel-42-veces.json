@@ -1,0 +1,174 @@
+{
+ "id": "030-si-doblaras-un-papel-42-veces",
+ "titulo": "¿Y si doblaras un papel 42 veces? 📄",
+ "descripcion": "Una hoja normal, doblada por la mitad una y otra vez. Con 42 dobleces llegaría a la Luna. Así funciona duplicar.",
+ "hashtags": [
+  "#quepasariasi",
+  "#matematicas",
+  "#papel",
+  "#ciencia",
+  "#shorts"
+ ],
+ "etiquetas": [
+  "qué pasaría si",
+  "doblar papel",
+  "luna",
+  "matemáticas",
+  "exponencial"
+ ],
+ "paleta": "ciencia",
+ "miniatura": {
+  "texto": "¿UN PAPEL HASTA LA LUNA?",
+  "emojis": [
+   "📄",
+   "🌙"
+  ]
+ },
+ "nota_veracidad": "Cálculo real (crecimiento exponencial) con un papel de 0,1 mm: 7 dobleces ≈ 1,3 cm; 10 ≈ 10 cm; 23 ≈ 839 m (el Burj Khalifa mide 828 m); 30 ≈ 107 km (el espacio empieza convencionalmente a 100 km); 42 ≈ 440.000 km, más que la distancia media a la Luna (384.400 km, NASA). En la práctica es imposible: el récord es de 12 dobleces, logrado en 2002 por la estudiante Britney Gallivan con una tira de papel de más de un kilómetro, que además dedujo la fórmula del límite.",
+ "fuentes": [
+  "Gallivan, B. (2002), 'How to fold paper in half twelve times: an impossible challenge solved' (Historical Society of Pomona Valley)",
+  "NASA: Moon Fact Sheet (distancia media Tierra-Luna)",
+  "Burj Khalifa: datos oficiales de altura (828 m)"
+ ],
+ "claves": [
+  "dobleces",
+  "duplica",
+  "rascacielos",
+  "Luna",
+  "doce"
+ ],
+ "escenas": [
+  {
+   "texto": "¿Qué pasaría si doblaras un papel por la mitad cuarenta y dos veces?",
+   "tipo": "pregunta",
+   "emojis": [
+    "📄",
+    "🌙"
+   ]
+  },
+  {
+   "texto": "Coges una hoja normal. Mide una décima de milímetro de grosor.",
+   "tipo": "emoji",
+   "emojis": [
+    "📄"
+   ],
+   "rotulo": "0,1 mm",
+   "fondo": "casa",
+   "personajes": [
+    "nino"
+   ],
+   "accion": "senalar"
+  },
+  {
+   "texto": "Cada vez que la doblas, su grosor se duplica.",
+   "tipo": "sello",
+   "emojis": [
+    "📄"
+   ],
+   "sello": "¡x2!",
+   "fondo": "casa",
+   "personajes": [
+    "nino"
+   ]
+  },
+  {
+   "texto": "Con siete dobleces ya es tan gruesa como un cuaderno. Con diez, como la palma de tu mano.",
+   "tipo": "lista",
+   "items": [
+    [
+     "📓",
+     "7 dobleces: 1 cm"
+    ],
+    [
+     "✋",
+     "10 dobleces: 10 cm"
+    ]
+   ]
+  },
+  {
+   "texto": "Con veintitrés dobleces superaría al rascacielos más alto del mundo.",
+   "tipo": "numero",
+   "valor": "839",
+   "unidad": "metros",
+   "emojis": [
+    "🏙️"
+   ],
+   "rotulo": "23 dobleces",
+   "fondo": "ciudad_color",
+   "personajes": [
+    "gente"
+   ]
+  },
+  {
+   "texto": "Con treinta atravesaría la atmósfera y llegaría al espacio.",
+   "tipo": "numero",
+   "valor": "107",
+   "unidad": "km",
+   "emojis": [
+    "🚀"
+   ],
+   "rotulo": "30 dobleces",
+   "fondo": "cielo"
+  },
+  {
+   "texto": "Y con cuarenta y dos dobleces, tu papel llegaría hasta la Luna.",
+   "tipo": "numero",
+   "valor": "440.000",
+   "unidad": "km",
+   "emojis": [
+    "🌙"
+   ],
+   "rotulo": "42 dobleces",
+   "fondo": "luna",
+   "personajes": [
+    "astronauta"
+   ],
+   "accion": "celebrar"
+  },
+  {
+   "texto": "Ese es el truco de duplicar: al principio no pasa nada y de repente es gigantesco.",
+   "tipo": "emoji",
+   "emojis": [
+    "📈"
+   ],
+   "rotulo": "Crecimiento exponencial",
+   "fondo": "laboratorio",
+   "personajes": [
+    "cientifico"
+   ],
+   "accion": "hablar"
+  },
+  {
+   "texto": "Pero en la vida real nadie lo consigue: el papel se vuelve duro como una piedra enseguida.",
+   "tipo": "sello",
+   "emojis": [
+    "💪",
+    "📄"
+   ],
+   "sello": "¡Imposible!",
+   "fondo": "casa",
+   "personajes": [
+    "chico"
+   ],
+   "accion": "triste"
+  },
+  {
+   "texto": "El récord es de doce dobleces, con una tira de papel de más de un kilómetro.",
+   "tipo": "numero",
+   "valor": "12",
+   "unidad": "dobleces (récord)",
+   "emojis": [
+    "🏆"
+   ],
+   "fondo": "campo",
+   "personajes": [
+    "gente"
+   ],
+   "accion": "celebrar"
+  },
+  {
+   "texto": "¿Cuántas veces has conseguido doblar tú una hoja? Cuéntanoslo y síguenos para más preguntas imposibles.",
+   "tipo": "final"
+  }
+ ]
+}
