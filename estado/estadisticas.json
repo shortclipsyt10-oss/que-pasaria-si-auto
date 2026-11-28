@@ -1,17 +1,29 @@
 {
- "actualizado": "2026-11-28T16:26+00:00",
+ "actualizado": "2026-11-28T19:32+00:00",
  "videos": [
+  {
+   "id": "008-si-cayeras-en-un-agujero-negro",
+   "youtube_id": "azAMhIaCma4",
+   "titulo": "¿Qué pasaría si cayeras en un agujero negro? 🕳️ #shorts",
+   "paleta": "espacio",
+   "publicado": "2026-11-28T18:00:33Z",
+   "horas": 1.5,
+   "visitas": 389,
+   "likes": 4,
+   "comentarios": 0,
+   "visitas_por_hora": 253.01
+  },
   {
    "id": "007-si-desaparecieran-los-mosquitos",
    "youtube_id": "GA1I5IpQUjs",
    "titulo": "¿Qué pasaría si desaparecieran todos los mosquitos? 🦟 #shorts",
    "paleta": "animales",
    "publicado": "2026-11-27T18:00:23Z",
-   "horas": 22.4,
-   "visitas": 1747,
+   "horas": 25.5,
+   "visitas": 1786,
    "likes": 20,
    "comentarios": 0,
-   "visitas_por_hora": 77.86
+   "visitas_por_hora": 69.93
   },
   {
    "id": "003-si-dejaras-de-dormir",
@@ -19,11 +31,11 @@
    "titulo": "¿Qué pasaría si dejaras de dormir? 😴 #shorts",
    "paleta": "cuerpo",
    "publicado": "2026-11-26T08:00:37Z",
-   "horas": 56.4,
-   "visitas": 2215,
+   "horas": 59.5,
+   "visitas": 2217,
    "likes": 48,
    "comentarios": 0,
-   "visitas_por_hora": 39.25
+   "visitas_por_hora": 37.24
   },
   {
    "id": "005-si-la-tierra-dejara-de-girar",
@@ -31,11 +43,11 @@
    "titulo": "¿Qué pasaría si la Tierra dejara de girar? 🌍 #shorts",
    "paleta": "espacio",
    "publicado": "2026-11-26T14:00:28Z",
-   "horas": 50.4,
-   "visitas": 1847,
+   "horas": 53.5,
+   "visitas": 1860,
    "likes": 31,
    "comentarios": 1,
-   "visitas_por_hora": 36.62
+   "visitas_por_hora": 34.74
   },
   {
    "id": "001-todos-saltan-a-la-vez",
@@ -43,35 +55,11 @@
    "titulo": "¿Qué pasaría si todo el mundo saltara a la vez? 🌍 #shorts",
    "paleta": "espacio",
    "publicado": "2026-11-25T17:02:24Z",
-   "horas": 71.4,
-   "visitas": 2108,
-   "likes": 20,
+   "horas": 74.5,
+   "visitas": 2120,
+   "likes": 21,
    "comentarios": 1,
-   "visitas_por_hora": 29.52
-  },
-  {
-   "id": "002-si-la-luna-desapareciera",
-   "youtube_id": "o-1v2YAeMhE",
-   "titulo": "¿Qué pasaría si la Luna desapareciera? 🌙 #shorts",
-   "paleta": "espacio",
-   "publicado": "2026-11-25T23:00:24Z",
-   "horas": 65.4,
-   "visitas": 1809,
-   "likes": 20,
-   "comentarios": 0,
-   "visitas_por_hora": 27.64
-  },
-  {
-   "id": "004-agujero-que-atraviesa-la-tierra",
-   "youtube_id": "N-LBR2iqYRQ",
-   "titulo": "¿Y si saltaras por un agujero que atraviesa la Tierra? 🕳️ #shorts",
-   "paleta": "ciencia",
-   "publicado": "2026-11-26T11:00:38Z",
-   "horas": 53.4,
-   "visitas": 1421,
-   "likes": 29,
-   "comentarios": 2,
-   "visitas_por_hora": 26.59
+   "visitas_por_hora": 28.45
   },
   {
    "id": "006-si-el-sol-se-apagara",
@@ -79,19 +67,43 @@
    "titulo": "¿Qué pasaría si el Sol se apagara? ☀️ #shorts",
    "paleta": "espacio",
    "publicado": "2026-11-26T17:00:25Z",
-   "horas": 47.4,
-   "visitas": 921,
+   "horas": 50.5,
+   "visitas": 1397,
    "likes": 23,
    "comentarios": 0,
-   "visitas_por_hora": 19.42
+   "visitas_por_hora": 27.64
   },
   {
-   "id": "008-si-cayeras-en-un-agujero-negro",
-   "youtube_id": "azAMhIaCma4",
-   "titulo": "¿Qué pasaría si cayeras en un agujero negro? 🕳️ #shorts",
+   "id": "002-si-la-luna-desapareciera",
+   "youtube_id": "o-1v2YAeMhE",
+   "titulo": "¿Qué pasaría si la Luna desapareciera? 🌙 #shorts",
    "paleta": "espacio",
-   "publicado": "2026-11-27T19:39:15Z",
-   "horas": 20.8,
+   "publicado": "2026-11-25T23:00:24Z",
+   "horas": 68.5,
+   "visitas": 1810,
+   "likes": 20,
+   "comentarios": 0,
+   "visitas_por_hora": 26.41
+  },
+  {
+   "id": "004-agujero-que-atraviesa-la-tierra",
+   "youtube_id": "N-LBR2iqYRQ",
+   "titulo": "¿Y si saltaras por un agujero que atraviesa la Tierra? 🕳️ #shorts",
+   "paleta": "ciencia",
+   "publicado": "2026-11-26T11:00:38Z",
+   "horas": 56.5,
+   "visitas": 1425,
+   "likes": 29,
+   "comentarios": 2,
+   "visitas_por_hora": 25.21
+  },
+  {
+   "id": "009-si-los-humanos-desaparecieran",
+   "youtube_id": "W5mZI1AJgz0",
+   "titulo": "¿Qué pasaría si los humanos desapareciéramos? 🏙️ #shorts",
+   "paleta": "animales",
+   "publicado": "2026-11-28T19:32:45Z",
+   "horas": 1.0,
    "visitas": 0,
    "likes": 0,
    "comentarios": 0,
