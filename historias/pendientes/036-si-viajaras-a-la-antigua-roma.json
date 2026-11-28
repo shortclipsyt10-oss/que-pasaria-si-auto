@@ -1,0 +1,177 @@
+{
+ "id": "036-si-viajaras-a-la-antigua-roma",
+ "titulo": "¿Qué pasaría si despertaras en la Antigua Roma? 🏛️",
+ "descripcion": "Un millón de vecinos, ropa lavada con pis y ni rastro de tomate. Así sería tu primer día como romano.",
+ "hashtags": [
+  "#quepasariasi",
+  "#historia",
+  "#roma",
+  "#curiosidades",
+  "#shorts"
+ ],
+ "etiquetas": [
+  "qué pasaría si",
+  "antigua roma",
+  "historia",
+  "romanos",
+  "curiosidades"
+ ],
+ "paleta": "historia",
+ "miniatura": {
+  "texto": "¿UN DÍA EN ROMA?",
+  "emojis": [
+   "🏛️",
+   "⚔️"
+  ]
+ },
+ "nota_veracidad": "Escenario situado en la Roma del siglo I d. C. Su población se estima en torno a un millón de habitantes (las cifras varían entre historiadores). Las lavanderías (fullonicae) usaban orina por su amoniaco y el emperador Vespasiano cobró un impuesto sobre ella (Suetonio, Vida de Vespasiano, 23). Las letrinas públicas eran compartidas y sin separaciones; el uso de una esponja en un palo (xylospongium) está documentado, aunque se discute si era compartida. Tomates y patatas son plantas americanas que llegaron a Europa en el siglo XVI. El Coliseo tenía capacidad para unos 50.000 espectadores. Los lirones rellenos aparecen en el recetario de Apicio.",
+ "fuentes": [
+  "Beard, M. (2015), 'SPQR: Una historia de la Antigua Roma'",
+  "Suetonio, 'Vida de los doce césares', Vespasiano 23",
+  "Koloski-Ostrow, A. O. (2015), 'The Archaeology of Sanitation in Roman Italy'"
+ ],
+ "claves": [
+  "Roma",
+  "millón",
+  "pis",
+  "letrinas",
+  "tomate",
+  "Coliseo"
+ ],
+ "escenas": [
+  {
+   "texto": "¿Qué pasaría si mañana despertaras en la Antigua Roma, hace dos mil años?",
+   "tipo": "pregunta",
+   "emojis": [
+    "🏛️",
+    "⏳"
+   ]
+  },
+  {
+   "texto": "Abres los ojos en una ciudad con casi un millón de vecinos. La más grande del mundo.",
+   "tipo": "numero",
+   "valor": "1.000.000",
+   "unidad": "romanos",
+   "emojis": [
+    "🏛️"
+   ],
+   "fondo": "pueblo",
+   "personajes": [
+    "multitud"
+   ]
+  },
+  {
+   "texto": "Hay ruido, mercados, carros… y un olor bastante raro.",
+   "tipo": "emoji",
+   "emojis": [
+    "👃",
+    "🐴"
+   ],
+   "rotulo": "¿Qué huele así?",
+   "fondo": "pueblo",
+   "personajes": [
+    "chico"
+   ],
+   "accion": "andar"
+  },
+  {
+   "texto": "Es la lavandería: allí limpian la ropa con pis, porque su amoniaco quita las manchas.",
+   "tipo": "sello",
+   "emojis": [
+    "👕",
+    "💛"
+   ],
+   "sello": "¡CON PIS!",
+   "fondo": "pueblo",
+   "personajes": [
+    "gente"
+   ]
+  },
+  {
+   "texto": "Tan valioso era que un emperador puso un impuesto al pis.",
+   "tipo": "emoji",
+   "emojis": [
+    "👑",
+    "🪙"
+   ],
+   "rotulo": "Impuesto al pis",
+   "fondo": "palacio",
+   "personajes": [
+    "rey"
+   ],
+   "accion": "senalar"
+  },
+  {
+   "texto": "Te entran ganas de ir al baño. Sorpresa: es público, sin paredes, y charlas con tus vecinos.",
+   "tipo": "emoji",
+   "emojis": [
+    "🚽",
+    "🗣️"
+   ],
+   "rotulo": "Baño compartido",
+   "fondo": "pueblo",
+   "personajes": [
+    "gente"
+   ],
+   "accion": "hablar"
+  },
+  {
+   "texto": "Y en vez de papel, una esponja en un palo.",
+   "tipo": "sello",
+   "emojis": [
+    "🧽"
+   ],
+   "sello": "¡PUAJ!",
+   "fondo": "pueblo",
+   "personajes": [
+    "chico"
+   ],
+   "accion": "triste"
+  },
+  {
+   "texto": "A la hora de comer, olvídate de la pizza con tomate: el tomate aún no había llegado de América.",
+   "tipo": "versus",
+   "emojis": [
+    "🍕",
+    "🫓"
+   ],
+   "rotulos": [
+    "Tu pizza",
+    "Pan romano"
+   ],
+   "rotulo": "Sin tomate",
+   "fondo": "casa"
+  },
+  {
+   "texto": "Los ricos, eso sí, comían lirones rellenos como manjar.",
+   "tipo": "emoji",
+   "emojis": [
+    "🐭",
+    "🍽️"
+   ],
+   "rotulo": "Manjar romano",
+   "fondo": "palacio",
+   "personajes": [
+    "reina"
+   ]
+  },
+  {
+   "texto": "Por la tarde, al Coliseo, con unas cincuenta mil personas gritando a la vez.",
+   "tipo": "numero",
+   "valor": "50.000",
+   "unidad": "espectadores",
+   "emojis": [
+    "🏟️"
+   ],
+   "fondo": "pueblo",
+   "personajes": [
+    "multitud"
+   ],
+   "accion": "celebrar"
+  },
+  {
+   "texto": "¿Tú sobrevivirías un día en Roma? Cuéntalo en comentarios y síguenos para más preguntas imposibles.",
+   "tipo": "final"
+  }
+ ]
+}

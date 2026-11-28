@@ -1,0 +1,187 @@
+{
+ "id": "031-si-desaparecieran-las-abejas",
+ "titulo": "¿Qué pasaría si desaparecieran todas las abejas? 🐝",
+ "descripcion": "Sin abejas no se acabaría el mundo… pero tu desayuno cambiaría muchísimo. Y el chocolate tiene un secreto.",
+ "hashtags": [
+  "#quepasariasi",
+  "#abejas",
+  "#animales",
+  "#ciencia",
+  "#shorts"
+ ],
+ "etiquetas": [
+  "qué pasaría si",
+  "abejas",
+  "polinización",
+  "animales",
+  "comida"
+ ],
+ "paleta": "animales",
+ "miniatura": {
+  "texto": "¿UN MUNDO SIN ABEJAS?",
+  "emojis": [
+   "🐝",
+   "🍎"
+  ]
+ },
+ "nota_veracidad": "Hay unas 20.000 especies de abejas (FAO). Según Klein et al. (2007), 87 de los 115 cultivos alimentarios principales (unos tres de cada cuatro) se benefician de polinizadores animales, aunque suponen solo alrededor de un tercio del volumen de comida, porque trigo, arroz y maíz se polinizan con el viento. Los polinizadores no son solo abejas (moscas, mariposas, murciélagos…), por eso el escenario es una simplificación. En Hanyuan (Sichuan, China) se polinizan perales a mano desde hace décadas. El cacao lo polinizan sobre todo mosquitas del género Forcipomyia, no abejas. La frase atribuida a Einstein ('si las abejas desaparecieran, al ser humano le quedarían cuatro años') no aparece en ningún escrito suyo.",
+ "fuentes": [
+  "Klein, A.-M. et al. (2007), Proceedings of the Royal Society B, 'Importance of pollinators in changing landscapes for world crops'",
+  "FAO: 'Why bees matter' (2018)",
+  "Partap, U. y Ya, T. (2012), Mountain Research and Development, polinización manual en Maoxian/Hanyuan (China)"
+ ],
+ "claves": [
+  "abejas",
+  "polinizan",
+  "viento",
+  "mano",
+  "chocolate",
+  "Einstein"
+ ],
+ "escenas": [
+  {
+   "texto": "¿Qué pasaría si mañana desaparecieran todas las abejas del planeta?",
+   "tipo": "emoji",
+   "emojis": [
+    "🐝"
+   ],
+   "rotulo": "¡Adiós, abejas!",
+   "fondo": "tierra",
+   "animo": "miedo"
+  },
+  {
+   "texto": "Hay unas veinte mil especies de abejas, y casi todas viven tranquilas sin hacer miel.",
+   "tipo": "numero",
+   "valor": "20.000",
+   "unidad": "especies",
+   "emojis": [
+    "🐝"
+   ],
+   "fondo": "bosque",
+   "personajes": [
+    "abeja"
+   ]
+  },
+  {
+   "texto": "Su trabajo de verdad es llevar polen de flor en flor para que salgan frutos.",
+   "tipo": "emoji",
+   "emojis": [
+    "🌸",
+    "🍎"
+   ],
+   "rotulo": "Polinizar",
+   "fondo": "campo",
+   "personajes": [
+    "abeja"
+   ],
+   "accion": "andar"
+  },
+  {
+   "texto": "Tres de cada cuatro cultivos importantes necesitan polinizadores como ellas.",
+   "tipo": "numero",
+   "valor": "3 de 4",
+   "unidad": "cultivos",
+   "emojis": [
+    "🌾"
+   ],
+   "fondo": "campo",
+   "personajes": [
+    "granjero"
+   ]
+  },
+  {
+   "texto": "Primera sorpresa: el pan y el arroz seguirían ahí, porque los poliniza el viento.",
+   "tipo": "lista",
+   "items": [
+    [
+     "🍞",
+     "Pan: sí"
+    ],
+    [
+     "🍚",
+     "Arroz: sí"
+    ],
+    [
+     "🍎",
+     "Manzanas: problema"
+    ]
+   ]
+  },
+  {
+   "texto": "Pero las manzanas, las almendras y las fresas serían un lujo carísimo.",
+   "tipo": "sello",
+   "emojis": [
+    "🍓",
+    "🥜"
+   ],
+   "sello": "¡CARÍSIMO!",
+   "fondo": "ciudad_color",
+   "personajes": [
+    "chica"
+   ],
+   "accion": "triste"
+  },
+  {
+   "texto": "Y tocaría polinizar a mano, flor por flor, con pinceles. En una región de China ya lo hacen con los perales.",
+   "tipo": "emoji",
+   "emojis": [
+    "🖌️",
+    "🍐"
+   ],
+   "rotulo": "A mano",
+   "fondo": "campo",
+   "personajes": [
+    "gente"
+   ],
+   "accion": "senalar"
+  },
+  {
+   "texto": "¿Y el chocolate? Tranquilo: al cacao lo polinizan unas mosquitas diminutas, no las abejas.",
+   "tipo": "sello",
+   "emojis": [
+    "🍫"
+   ],
+   "sello": "¡SALVADO!",
+   "fondo": "bosque",
+   "personajes": [
+    "nino"
+   ],
+   "accion": "celebrar"
+  },
+  {
+   "texto": "Por cierto, esa frase de Einstein sobre las abejas es falsa: nunca la escribió.",
+   "tipo": "duda",
+   "emojis": [
+    "👴",
+    "🐝"
+   ],
+   "sello": "¡MITO!",
+   "fondo": "laboratorio",
+   "personajes": [
+    "cientifico"
+   ],
+   "accion": "hablar"
+  },
+  {
+   "texto": "No nos extinguiríamos, pero nuestra comida sería mucho más aburrida.",
+   "tipo": "versus",
+   "emojis": [
+    "🥗",
+    "🍚"
+   ],
+   "rotulos": [
+    "Con abejas",
+    "Sin abejas"
+   ],
+   "rotulo": "Tu plato",
+   "fondo": "casa",
+   "personajes": [
+    "chico"
+   ]
+  },
+  {
+   "texto": "¿Qué fruta echarías más de menos? Dínoslo en comentarios y síguenos para más preguntas imposibles.",
+   "tipo": "final"
+  }
+ ]
+}

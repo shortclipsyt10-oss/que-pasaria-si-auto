@@ -1,0 +1,175 @@
+{
+ "id": "033-si-te-quedaras-en-la-cama-dos-meses",
+ "titulo": "¿Qué pasaría si te quedaras dos meses en la cama? 🛏️",
+ "descripcion": "Suena a vacaciones, y hasta la NASA paga por hacerlo. Pero tu cuerpo no lo vive igual de bien que tú.",
+ "hashtags": [
+  "#quepasariasi",
+  "#cuerpohumano",
+  "#nasa",
+  "#ciencia",
+  "#shorts"
+ ],
+ "etiquetas": [
+  "qué pasaría si",
+  "cama",
+  "NASA",
+  "músculos",
+  "cuerpo humano"
+ ],
+ "paleta": "cuerpo",
+ "miniatura": {
+  "texto": "¿60 DÍAS EN LA CAMA?",
+  "emojis": [
+   "🛏️",
+   "😴"
+  ]
+ },
+ "nota_veracidad": "Basado en los estudios de reposo en cama de la NASA y la agencia espacial alemana DLR, como AGBRESA (2019): 24 voluntarios pasaron 60 días tumbados con la cabeza 6 grados más baja que los pies, para imitar la ingravidez, y recibieron una compensación económica de varios miles de euros. En estos estudios se pierde masa muscular y ósea (en el espacio, los astronautas pierden alrededor de un 1 % de hueso al mes, NASA), el corazón se reduce algo (Perhonen et al., 2001) y al levantarse aparecen mareos (intolerancia ortostática). La columna se descomprime y la estatura aumenta ligeramente; la cifra exacta varía. Todo se recupera con rehabilitación en semanas o meses.",
+ "fuentes": [
+  "DLR/NASA/ESA: estudio AGBRESA (2019), Colonia",
+  "NASA: 'Bed Rest Studies' (Flight Analogs Project)",
+  "Perhonen, M. A. et al. (2001), Journal of Applied Physiology, 'Cardiac atrophy after bed rest and spaceflight'"
+ ],
+ "claves": [
+  "cama",
+  "NASA",
+  "músculos",
+  "huesos",
+  "corazón",
+  "mareo"
+ ],
+ "escenas": [
+  {
+   "texto": "¿Qué pasaría si te quedaras en la cama dos meses seguidos, sin levantarte?",
+   "tipo": "pregunta",
+   "emojis": [
+    "🛏️",
+    "😴"
+   ]
+  },
+  {
+   "texto": "Suena a sueño cumplido. Y hay gente que lo hace en serio… porque la NASA le paga.",
+   "tipo": "sello",
+   "emojis": [
+    "💶",
+    "🛏️"
+   ],
+   "sello": "¡PAGADO!",
+   "fondo": "laboratorio",
+   "personajes": [
+    "cientifico"
+   ],
+   "accion": "senalar"
+  },
+  {
+   "texto": "Es para estudiar a los astronautas: tumbarse imita lo que la ingravidez hace al cuerpo.",
+   "tipo": "emoji",
+   "emojis": [
+    "🧑‍🚀"
+   ],
+   "rotulo": "Como en el espacio",
+   "fondo": "espacio",
+   "personajes": [
+    "astronauta"
+   ]
+  },
+  {
+   "texto": "En un estudio, veinticuatro voluntarios pasaron sesenta días tumbados. Hasta comían en la cama.",
+   "tipo": "numero",
+   "valor": "60",
+   "unidad": "días tumbado",
+   "emojis": [
+    "📺"
+   ],
+   "fondo": "casa",
+   "personajes": [
+    "chico"
+   ],
+   "accion": "tumbado"
+  },
+  {
+   "texto": "Primera semana: genial. Y además creces un poquito, porque tu columna deja de aplastarse.",
+   "tipo": "emoji",
+   "emojis": [
+    "📏"
+   ],
+   "rotulo": "¡Más alto!",
+   "fondo": "casa",
+   "personajes": [
+    "chico"
+   ],
+   "accion": "tumbado"
+  },
+  {
+   "texto": "Pero tus piernas, sin trabajar, empiezan a perder músculo muy rápido.",
+   "tipo": "emoji",
+   "emojis": [
+    "🦵",
+    "📉"
+   ],
+   "rotulo": "Menos músculo",
+   "fondo": "casa",
+   "personajes": [
+    "chico"
+   ],
+   "accion": "triste"
+  },
+  {
+   "texto": "Tus huesos también se debilitan, igual que les pasa a los astronautas: alrededor de un uno por ciento al mes.",
+   "tipo": "numero",
+   "valor": "1 %",
+   "unidad": "de hueso al mes",
+   "emojis": [
+    "🦴"
+   ],
+   "fondo": "laboratorio",
+   "personajes": [
+    "medico"
+   ]
+  },
+  {
+   "texto": "Hasta tu corazón se encoge un poco. Total, no hay escaleras.",
+   "tipo": "emoji",
+   "emojis": [
+    "❤️",
+    "🤏"
+   ],
+   "rotulo": "Corazón vago",
+   "fondo": "laboratorio",
+   "personajes": [
+    "medico"
+   ],
+   "accion": "hablar"
+  },
+  {
+   "texto": "Y el día que por fin te levantas… todo da vueltas.",
+   "tipo": "sello",
+   "emojis": [
+    "😵‍💫"
+   ],
+   "sello": "¡MAREO!",
+   "fondo": "casa",
+   "personajes": [
+    "chico"
+   ]
+  },
+  {
+   "texto": "La buena noticia: con ejercicio, en unas semanas o meses vuelves a estar como antes.",
+   "tipo": "emoji",
+   "emojis": [
+    "🏃",
+    "💪"
+   ],
+   "rotulo": "Recuperado",
+   "fondo": "ciudad_color",
+   "personajes": [
+    "chico"
+   ],
+   "accion": "correr"
+  },
+  {
+   "texto": "¿Tú aguantarías sesenta días en la cama? Cuéntalo en comentarios y síguenos para más preguntas imposibles.",
+   "tipo": "final"
+  }
+ ]
+}

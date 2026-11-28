@@ -1,0 +1,182 @@
+{
+ "id": "035-si-la-lluvia-no-tuviera-freno",
+ "titulo": "¿Qué pasaría si la lluvia cayera sin frenar? 🌧️",
+ "descripcion": "Una gota cae desde dos kilómetros de altura y llega a tu cabeza muy despacio. ¿Por qué? Sin aire, la historia sería otra.",
+ "hashtags": [
+  "#quepasariasi",
+  "#fisica",
+  "#lluvia",
+  "#ciencia",
+  "#shorts"
+ ],
+ "etiquetas": [
+  "qué pasaría si",
+  "lluvia",
+  "gotas",
+  "física",
+  "aire"
+ ],
+ "paleta": "ciencia",
+ "miniatura": {
+  "texto": "¿LLUVIA A 700 KM/H?",
+  "emojis": [
+   "🌧️",
+   "💥"
+  ]
+ },
+ "nota_veracidad": "Cálculo de caída libre sin rozamiento desde una nube a 2.000 m: v = √(2gh) ≈ 198 m/s, unos 700 km/h. En la realidad, la resistencia del aire limita la velocidad de una gota grande a unos 9 m/s, unos 32 km/h (Gunn y Kinzer, 1949). Las gotas de más de unos 6 mm se rompen al caer (Villermaux y Bossa, 2009). La energía de una gota de 4 mm a 198 m/s (unos 0,7 J) es parecida a la de un perdigón de airsoft (0,2 g a 100 m/s ≈ 1 J); es una comparación aproximada, y en un escenario real sin aire tampoco habría nubes, así que es un experimento mental.",
+ "fuentes": [
+  "Gunn, R. y Kinzer, G. D. (1949), Journal of Meteorology, 'The terminal velocity of fall for water droplets in stagnant air'",
+  "Villermaux, E. y Bossa, B. (2009), Nature Physics, 'Single-drop fragmentation determines size distribution of raindrops'",
+  "NASA Glenn Research Center: 'Terminal Velocity'"
+ ],
+ "claves": [
+  "gota",
+  "aire",
+  "frena",
+  "setecientos",
+  "bici",
+  "paraguas"
+ ],
+ "escenas": [
+  {
+   "texto": "¿Qué pasaría si las gotas de lluvia cayeran sin que nada las frenara?",
+   "tipo": "emoji",
+   "emojis": [
+    "🌧️",
+    "💧"
+   ],
+   "rotulo": "Sin freno",
+   "fondo": "tierra",
+   "animo": "sorpresa"
+  },
+  {
+   "texto": "Las nubes de lluvia suelen estar a unos dos kilómetros de altura.",
+   "tipo": "numero",
+   "valor": "2.000",
+   "unidad": "metros",
+   "emojis": [
+    "☁️"
+   ],
+   "fondo": "cielo"
+  },
+  {
+   "texto": "Una gota tendría tiempo de sobra para acelerar. Pero el aire la frena, como un paracaídas.",
+   "tipo": "emoji",
+   "emojis": [
+    "💧",
+    "🪂"
+   ],
+   "rotulo": "El aire frena",
+   "fondo": "cielo"
+  },
+  {
+   "texto": "Gracias a eso, llega al suelo a unos treinta kilómetros por hora. Como una bici.",
+   "tipo": "numero",
+   "valor": "32",
+   "unidad": "km/h",
+   "emojis": [
+    "🚲"
+   ],
+   "fondo": "ciudad_color",
+   "personajes": [
+    "chico"
+   ],
+   "accion": "andar"
+  },
+  {
+   "texto": "Ahora quita el freno. Sin aire, la misma gota llegaría a unos setecientos kilómetros por hora.",
+   "tipo": "numero",
+   "valor": "700",
+   "unidad": "km/h",
+   "emojis": [
+    "💧"
+   ],
+   "fondo": "cielo"
+  },
+  {
+   "texto": "Más rápida que un avión despegando.",
+   "tipo": "versus",
+   "emojis": [
+    "💧",
+    "✈️"
+   ],
+   "rotulos": [
+    "Gota: 700",
+    "Avión: 300"
+   ],
+   "rotulo": "km/h",
+   "fondo": "cielo"
+  },
+  {
+   "texto": "Cada gota pegaría como un perdigón de juguete. Un chaparrón sería como una lluvia de bolitas.",
+   "tipo": "sello",
+   "emojis": [
+    "🌧️",
+    "💥"
+   ],
+   "sello": "¡PLAF!",
+   "fondo": "ciudad_color",
+   "personajes": [
+    "gente"
+   ],
+   "accion": "correr"
+  },
+  {
+   "texto": "Los paraguas de tela no aguantarían ni un minuto. Mejor uno de metal.",
+   "tipo": "emoji",
+   "emojis": [
+    "☂️",
+    "🛡️"
+   ],
+   "rotulo": "Paraguas blindado",
+   "fondo": "ciudad_color",
+   "personajes": [
+    "chica"
+   ],
+   "accion": "senalar"
+  },
+  {
+   "texto": "Las hojas de las plantas acabarían como un colador.",
+   "tipo": "emoji",
+   "emojis": [
+    "🍃",
+    "🕳️"
+   ],
+   "rotulo": "Hojas colador",
+   "fondo": "bosque"
+  },
+  {
+   "texto": "Y el aire evita gotas gigantes: si pasan de unos seis milímetros, se rompen.",
+   "tipo": "numero",
+   "valor": "6",
+   "unidad": "mm máximo",
+   "emojis": [
+    "💧"
+   ],
+   "fondo": "laboratorio",
+   "personajes": [
+    "cientifico"
+   ],
+   "accion": "hablar"
+  },
+  {
+   "texto": "Así que la próxima vez que te mojes, dale las gracias al aire.",
+   "tipo": "emoji",
+   "emojis": [
+    "🙏",
+    "🌬️"
+   ],
+   "rotulo": "¡Gracias, aire!",
+   "fondo": "ciudad_color",
+   "personajes": [
+    "chica"
+   ],
+   "accion": "celebrar"
+  },
+  {
+   "texto": "¿Te gusta la lluvia o la odias? Dínoslo en comentarios y síguenos para más preguntas imposibles.",
+   "tipo": "final"
+  }
+ ]
+}

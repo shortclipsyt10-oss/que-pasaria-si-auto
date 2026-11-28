@@ -1,0 +1,175 @@
+{
+ "id": "034-si-saltaras-como-una-pulga",
+ "titulo": "¿Qué pasaría si pudieras saltar como una pulga? 🦗",
+ "descripcion": "Una pulga salta unas cien veces su tamaño. Si tú pudieras hacer lo mismo… las matemáticas tienen una sorpresa.",
+ "hashtags": [
+  "#quepasariasi",
+  "#animales",
+  "#pulgas",
+  "#ciencia",
+  "#shorts"
+ ],
+ "etiquetas": [
+  "qué pasaría si",
+  "pulga",
+  "saltar",
+  "animales",
+  "física"
+ ],
+ "paleta": "animales",
+ "miniatura": {
+  "texto": "¿SALTAR 150 METROS?",
+  "emojis": [
+   "🦗",
+   "🏙️"
+  ]
+ },
+ "nota_veracidad": "Las pulgas de gato miden unos 2-3 mm y saltan de media unos 20 cm en horizontal y hasta unos 30-48 cm en los mejores saltos (Cadiergues et al., 2000), es decir, del orden de cien veces su longitud. Usan una almohadilla de resilina, una proteína elástica que funciona como un muelle (Bennet-Clark y Alder, 1967), y alcanzan aceleraciones de más de 100 g; los pilotos de caza aguantan alrededor de 9 g. Escalar el salto a una persona (unos 150-170 m) es un juego: por la ley cuadrado-cubo y el análisis de A. V. Hill (1950), los animales de tamaños muy distintos saltan alturas absolutas parecidas, así que una pulga gigante no saltaría mucho más que tú. Se usa el emoji de grillo porque no existe emoji de pulga.",
+ "fuentes": [
+  "Bennet-Clark, H. C. y Alder, G. M. (1967), Journal of Experimental Biology, 'The jump of the flea'",
+  "Cadiergues, M.-C. et al. (2000), Veterinary Parasitology, salto de Ctenocephalides felis",
+  "Hill, A. V. (1950), Science Progress, 'The dimensions of animals and their muscular dynamics'"
+ ],
+ "claves": [
+  "pulga",
+  "cien",
+  "muelle",
+  "metros",
+  "aceleración",
+  "tamaño"
+ ],
+ "escenas": [
+  {
+   "texto": "¿Qué pasaría si pudieras saltar como una pulga?",
+   "tipo": "pregunta",
+   "emojis": [
+    "🦗",
+    "🤸"
+   ]
+  },
+  {
+   "texto": "Una pulga mide dos o tres milímetros, pero de un salto recorre unas cien veces su tamaño.",
+   "tipo": "numero",
+   "valor": "100",
+   "unidad": "veces su tamaño",
+   "emojis": [
+    "🦗"
+   ],
+   "fondo": "campo"
+  },
+  {
+   "texto": "Su truco: tiene un muelle en las patas hecho de una proteína elástica. Lo carga y… ¡clic!",
+   "tipo": "sello",
+   "emojis": [
+    "🦗"
+   ],
+   "sello": "¡CLIC!",
+   "fondo": "laboratorio",
+   "personajes": [
+    "cientifico"
+   ],
+   "accion": "senalar"
+  },
+  {
+   "texto": "Si tú hicieras lo mismo, saltarías unos ciento cincuenta metros de un brinco.",
+   "tipo": "numero",
+   "valor": "150",
+   "unidad": "metros",
+   "emojis": [
+    "🤸"
+   ],
+   "fondo": "ciudad_color",
+   "personajes": [
+    "chica"
+   ],
+   "accion": "celebrar"
+  },
+  {
+   "texto": "Pasarías por encima de la Estatua de la Libertad sin despeinarte.",
+   "tipo": "emoji",
+   "emojis": [
+    "🗽"
+   ],
+   "rotulo": "93 metros",
+   "fondo": "cielo",
+   "personajes": [
+    "chica"
+   ]
+  },
+  {
+   "texto": "Tres saltos y ya estás en el trabajo.",
+   "tipo": "emoji",
+   "emojis": [
+    "🏢",
+    "🦘"
+   ],
+   "rotulo": "Saltos al trabajo",
+   "fondo": "ciudad_color",
+   "personajes": [
+    "hombre"
+   ],
+   "accion": "correr"
+  },
+  {
+   "texto": "El problema es el despegue: la pulga acelera con más de cien veces la fuerza de la gravedad.",
+   "tipo": "versus",
+   "emojis": [
+    "🦗",
+    "🧑‍✈️"
+   ],
+   "rotulos": [
+    "Pulga: 100 g",
+    "Piloto: 9 g"
+   ],
+   "rotulo": "Aceleración",
+   "fondo": "cielo"
+  },
+  {
+   "texto": "Ni los pilotos de caza aguantan eso. Tu primer salto sería también el último del día.",
+   "tipo": "sello",
+   "emojis": [
+    "😵"
+   ],
+   "sello": "¡UF!",
+   "fondo": "campo",
+   "personajes": [
+    "chica"
+   ],
+   "accion": "tumbado"
+  },
+  {
+   "texto": "Y aquí la sorpresa: si una pulga creciera hasta tu tamaño, no saltaría mucho más alto que tú.",
+   "tipo": "emoji",
+   "emojis": [
+    "📐"
+   ],
+   "rotulo": "Ley cuadrado-cubo",
+   "fondo": "laboratorio",
+   "personajes": [
+    "cientifico"
+   ],
+   "accion": "hablar"
+  },
+  {
+   "texto": "Pesaría muchísimo más y sus músculos no darían para tanto.",
+   "tipo": "versus",
+   "emojis": [
+    "🦗",
+    "🧍"
+   ],
+   "rotulos": [
+    "Pequeña",
+    "Gigante"
+   ],
+   "rotulo": "¿Quién salta más?",
+   "fondo": "campo",
+   "personajes": [
+    "chico"
+   ]
+  },
+  {
+   "texto": "¿Adónde irías tú de un salto? Cuéntalo en comentarios y síguenos para más preguntas imposibles.",
+   "tipo": "final"
+  }
+ ]
+}

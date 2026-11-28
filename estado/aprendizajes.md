@@ -1,21 +1,23 @@
-# Aprendizajes (27/11/2026)
+# Aprendizajes (28/11/2026)
 
 ## Datos disponibles
-- Con más de 24 h solo hay 3 videos: 003 dormir (26,6 h), 001 todos saltan (41,5 h) y 002 Luna desaparece (35,6 h). Pocos datos: son pistas, no conclusiones.
-- 004 (23,6 h) y 005 (20,6 h) casi llegan y se miran solo como señal. 006 (4 visitas) y 007 (0) aún no se habían hecho públicos: no cuentan.
+- Con más de 24 h hay 6 videos (001-006). 007 (16,5 h) y 008 (14,8 h) aún no cuentan, pero 007 se mira como señal.
+- Siguen siendo pocos datos (todos entre ~1.400 y ~2.200 visitas): pistas, no conclusiones.
+- **Anomalía: 006 "¿Qué pasaría si el Sol se apagara?" tiene 4 visitas en 41,5 h.** No es un fallo del tema: casi seguro sigue sin estar público o YouTube no lo distribuye. Conviene revisarlo en YouTube Studio. Se excluye del análisis.
 
 ## Qué funciona
-- **003 "¿Qué pasaría si dejaras de dormir?" (cuerpo, en segunda persona)** es el mejor: ~64 visitas/h y **2,8 % de likes**, más del doble que el resto.
-- 004 "¿Y si saltaras por un agujero...?" (también "tú") va a ~58 visitas/h y tiene los únicos 2 comentarios.
-- Patrón: **títulos en segunda persona, donde el espectador es el protagonista** ("dejaras", "saltaras"), sobre su propio cuerpo o una experiencia que puede imaginar.
+- **003 dormir (cuerpo, "tú")** sigue siendo el mejor: 2.208 visitas y **2,2 % de likes**, el doble que 001/002.
+- **004 agujero ("saltaras", "tú")**: 2,0 % de likes y los únicos 2 comentarios, aunque menos visitas totales (1.421).
+- **005 Tierra deja de girar**: 1.824 visitas, 1,7 % de likes y 1 comentario: lo planetario funciona si es un cambio dramático y fácil de imaginar.
+- **Señal fuerte de 007 mosquitos (animales, "desaparecieran todos")**: 1.682 visitas en solo 16,5 h (102/h, el triple de velocidad que cualquier otro). Un animal cotidiano que todos conocen + "¿y si desapareciera?" parece muy potente.
+- Patrón: el espectador como protagonista ("tú", su cuerpo) da más likes; algo cotidiano y cercano (dormir, mosquitos) da más visitas.
 
 ## Qué funciona peor
-- Los temas planetarios en tercera persona (001 todos saltan, 002 Luna) se quedan en ~43-44 visitas/h y ~1,1-1,25 % de likes. Siguen siendo correctos, pero no destacan.
-- Comentarios casi a cero en todos: falta una pregunta directa al espectador al final.
+- 001 todos saltan y 002 Luna (tercera persona, espacio "lejano"): ~1 % de likes, el ritmo de visitas cae a ~30/h.
+- Comentarios casi a cero. Desde 025 los finales preguntan al espectador; se verá cuando se publiquen.
 
-## Qué hago distinto hoy (025-030)
-- 4 en la línea del ganador (segunda persona + cuerpo/experiencia propia): no cortarte el pelo nunca (025), comer muchísimos plátanos (026), dejar de parpadear (027), dar la vuelta al mundo caminando (028).
-- 2 pruebas: animales con "¿Y si vieras...?" (gamba mantis, 029) y matemáticas/exponencial (doblar un papel 42 veces, 030), categoría nueva.
-- Todas las escenas finales hacen una pregunta al espectador ("¿Te atreverías...? Cuéntalo en los comentarios") para probar si suben los comentarios.
-- Primera escena: 5 con tipo `pregunta` (como 003) y 1 con fondo `tierra` (028), para seguir comparando.
-- Mañana: comparar 004/005 ya con 24 h, y ver si 008, 012, 013, 015 (todos "tú") confirman el patrón de segunda persona.
+## Qué hago distinto hoy (031-036)
+- 4 en la línea ganadora: abejas desaparecen (031, mismo molde que mosquitos), estornudar con los ojos abiertos (032, cuerpo + mito), dos meses en la cama (033, cuerpo + NASA), saltar como una pulga (034, animal + "tú").
+- 2 pruebas: física cotidiana sin "tú" (035, lluvia sin freno) y **historia**, categoría nueva (036, despertar en la Antigua Roma).
+- Probar el gancho "mito vs. realidad" (032, 031 con la falsa frase de Einstein) para provocar comentarios.
+- Mañana: ver 007/008 con 24 h y si 006 se ha desbloqueado.

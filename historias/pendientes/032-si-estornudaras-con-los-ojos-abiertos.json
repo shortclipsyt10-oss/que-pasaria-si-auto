@@ -1,0 +1,176 @@
+{
+ "id": "032-si-estornudaras-con-los-ojos-abiertos",
+ "titulo": "¿Qué pasaría si estornudaras con los ojos abiertos? 🤧",
+ "descripcion": "Dicen que se te saldrían los ojos. Hemos mirado qué dice la ciencia… y el estornudo es más lento de lo que crees.",
+ "hashtags": [
+  "#quepasariasi",
+  "#cuerpohumano",
+  "#mitos",
+  "#ciencia",
+  "#shorts"
+ ],
+ "etiquetas": [
+  "qué pasaría si",
+  "estornudo",
+  "ojos",
+  "mitos",
+  "cuerpo humano"
+ ],
+ "paleta": "cuerpo",
+ "miniatura": {
+  "texto": "¿SE TE SALEN LOS OJOS?",
+  "emojis": [
+   "🤧",
+   "👀"
+  ]
+ },
+ "nota_veracidad": "Cerrar los ojos al estornudar es un reflejo, pero se pueden mantener abiertos y no hay casos documentados de ojos 'expulsados' por estornudar: la presión que se genera es pequeña y los ojos están sujetos por músculos y tejido. La cifra popular de 160 km/h no se sostiene: Tang et al. (2013) midieron el aire de un estornudo a unos 4,5 m/s (unos 16 km/h) y MythBusters (2007) registró como máximo unos 63 km/h. Bourouiba (2020) observó que la nube de gotitas puede llegar a 7-8 metros. Que 'el corazón se para' al estornudar también es un mito: solo cambia un instante el ritmo por la presión en el pecho.",
+ "fuentes": [
+  "Tang, J. W. et al. (2013), PLoS ONE, 'Qualitative real-time schlieren and shadowgraph imaging of human exhaled airflows'",
+  "Bourouiba, L. (2020), JAMA, 'Turbulent gas clouds and respiratory pathogen emissions'",
+  "MythBusters, episodio 'Sneeze Speed' (2007)"
+ ],
+ "claves": [
+  "estornudo",
+  "ojos",
+  "reflejo",
+  "mito",
+  "dieciséis",
+  "metros"
+ ],
+ "escenas": [
+  {
+   "texto": "¿Qué pasaría si estornudaras con los ojos bien abiertos?",
+   "tipo": "pregunta",
+   "emojis": [
+    "🤧",
+    "👀"
+   ]
+  },
+  {
+   "texto": "Seguro que alguien te ha dicho que los ojos te saldrían disparados.",
+   "tipo": "duda",
+   "emojis": [
+    "👀",
+    "💨"
+   ],
+   "sello": "¿LEYENDA?",
+   "fondo": "casa",
+   "personajes": [
+    "chica",
+    "chico"
+   ],
+   "accion": "hablar"
+  },
+  {
+   "texto": "Empieza el picor. Tu cerebro prepara el estornudo y, sin preguntarte, cierra tus párpados.",
+   "tipo": "emoji",
+   "emojis": [
+    "🧠",
+    "😣"
+   ],
+   "rotulo": "Reflejo automático",
+   "fondo": "casa",
+   "personajes": [
+    "chico"
+   ]
+  },
+  {
+   "texto": "Pero si aguantas los ojos abiertos con fuerza… estornudas. Y no pasa nada.",
+   "tipo": "sello",
+   "emojis": [
+    "👀"
+   ],
+   "sello": "¡NADA!",
+   "fondo": "casa",
+   "personajes": [
+    "chico"
+   ],
+   "accion": "celebrar"
+  },
+  {
+   "texto": "No hay ni un solo caso real de ojos que salgan volando: están bien sujetos por músculos.",
+   "tipo": "numero",
+   "valor": "0",
+   "unidad": "casos reales",
+   "emojis": [
+    "👁️"
+   ],
+   "fondo": "laboratorio",
+   "personajes": [
+    "medico"
+   ],
+   "accion": "senalar"
+  },
+  {
+   "texto": "Otro mito: que el estornudo sale a ciento sesenta kilómetros por hora.",
+   "tipo": "duda",
+   "emojis": [
+    "🏎️"
+   ],
+   "sello": "¿160 km/h?",
+   "fondo": "ciudad_color"
+  },
+  {
+   "texto": "Con cámaras especiales, unos científicos midieron unos dieciséis. Más lento que una bici.",
+   "tipo": "versus",
+   "emojis": [
+    "🏎️",
+    "🚲"
+   ],
+   "rotulos": [
+    "Mito: 160",
+    "Real: 16"
+   ],
+   "rotulo": "km/h",
+   "fondo": "ciudad_color",
+   "personajes": [
+    "atleta"
+   ]
+  },
+  {
+   "texto": "Eso sí, la nube de gotitas puede viajar hasta siete u ocho metros.",
+   "tipo": "numero",
+   "valor": "8",
+   "unidad": "metros",
+   "emojis": [
+    "💦"
+   ],
+   "fondo": "ciudad_color",
+   "personajes": [
+    "gente"
+   ]
+  },
+  {
+   "texto": "¿Y lo de que el corazón se para? También es falso. Solo cambia un instante su ritmo.",
+   "tipo": "sello",
+   "emojis": [
+    "❤️"
+   ],
+   "sello": "¡FALSO!",
+   "fondo": "laboratorio",
+   "personajes": [
+    "medico"
+   ],
+   "accion": "hablar"
+  },
+  {
+   "texto": "Conclusión: tus ojos están a salvo. Pero tápate con el codo, por favor.",
+   "tipo": "emoji",
+   "emojis": [
+    "💪",
+    "🤧"
+   ],
+   "rotulo": "¡Con el codo!",
+   "fondo": "casa",
+   "personajes": [
+    "chica"
+   ],
+   "accion": "senalar"
+  },
+  {
+   "texto": "¿Eres capaz de estornudar con los ojos abiertos? Cuéntalo en comentarios y síguenos para más preguntas imposibles.",
+   "tipo": "final"
+  }
+ ]
+}
